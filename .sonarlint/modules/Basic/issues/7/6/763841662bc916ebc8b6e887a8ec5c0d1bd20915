@@ -1,0 +1,11 @@
+
+]squid:S1125 ")Remove the literal "false" boolean value.(Šä²ÿ8å¹Á¸º,HˆVRMINORZ
+CODE_SMELL
+‰squid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÛÛ¯ø8å¹Á¸º,H‰VRCRITICALZ
+CODE_SMELL
+’squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘…°£þÿÿÿÿ8¼³“¸º,HŒVRMINORZ
+CODE_SMELL
+]squid:S1125$")Remove the literal "false" boolean value.(Ðªå·8å¹Á¸º,HŠVRMINORZ
+CODE_SMELL
+’squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(–ß©Ÿøÿÿÿÿ8¼³“¸º,H‹VRMINORZ
+CODE_SMELL

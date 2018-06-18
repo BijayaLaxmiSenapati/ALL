@@ -1,0 +1,14 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆ¿•õ8ó‹úä¸,HÎMRMAJORZ
+CODE_SMELL
+usquid:S1075"ARefactor your code to get this URI from a customizable parameter.(–áø¥8‡å¸,HÏMRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(«ÙŸœøÿÿÿÿ8Æ‹ä¸,HĞMRMAJORZ
+CODE_SMELL
+¿%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(´úÿÿÿÿ8‡ÆØà¹,HÑMRMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(£€Ø°8àá–å¸,HÒMRMAJORZ
+CODE_SMELL

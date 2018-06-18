@@ -1,0 +1,13 @@
+
+¥squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Õ‡™Î8½°ÜÉ¼,HõRMINORZ
+CODE_SMELL
+¥squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ø§¸Ï8½°ÜÉ¼,HöRMINORZ
+CODE_SMELL
+¥squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¿ 8½°ÜÉ¼,H÷RMINORZ
+CODE_SMELL
+°squid:S1319"vThe type of the "riceDetails" object should be an interface such as "List" rather than the implementation "ArrayList".(‰ú¤ãøÿÿÿÿ8½°ÜÉ¼,HøRMINORZ
+CODE_SMELL
+²squid:S1319"xThe type of the "pulsesDetails" object should be an interface such as "List" rather than the implementation "ArrayList".(–±¸¨øÿÿÿÿ8½°ÜÉ¼,HùRMINORZ
+CODE_SMELL
+¬squid:S1319"wThe type of the "wheatDetails" object should be an interface such as "List" rather than the implementation "ArrayList".(ÁÉ¾´8½°ÜÉ¼,HúRMINORZ
+CODE_SMELL

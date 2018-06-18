@@ -1,0 +1,93 @@
+
+squid:CommentedOutCodeLineĞ"<This block of commented-out lines of code should be removed.(ÆÇìÜ8ä†Éç¿,HÄªRMAJORZ
+CODE_SMELL
+^squid:S3010")Remove this assignment of "patientsList".(ñãßÖ8¿¯êì¾,Hû©RMAJORZ
+CODE_SMELL
+ksquid:S2209˜"5Change this instance-reference to a static reference.(ÃÅåû8Ô”ª‘¿,Hï©RMAJORZ
+CODE_SMELL
+psquid:S2209š"5Change this instance-reference to a static reference.(µÀ²ÿÿÿÿÿ8ïµ±ù¾,Hø©RMAJORZ
+CODE_SMELL
+n
+squid:S106°"9Replace this use of System.out or System.err by a logger.(ÿ´ô”8Õ•ıî¾,Há©RMAJORZ
+CODE_SMELL
+m
+squid:S106K"9Replace this use of System.out or System.err by a logger.(ñü²8Õ•ıî¾,Hå©RMAJORZ
+CODE_SMELL
+m
+squid:S106,"9Replace this use of System.out or System.err by a logger.(Ó‰éÆ8âğÈó¿,Hõ¼RMAJORZ
+CODE_SMELL
+ksquid:S2209¢"5Change this instance-reference to a static reference.(íÒŒ™8âöÙø¾,Hç©RMAJORZ
+CODE_SMELL
+n
+squid:S106‹"9Replace this use of System.out or System.err by a logger.(…˜™ü8âöÙø¾,Hì©RMAJORZ
+CODE_SMELL
+tsquid:S1155‚">Use isEmpty() to check whether the collection is empty or not.(òùÖ8Ô»¾•¿,H†ªRMINORZ
+CODE_SMELL
+†squid:CommentedOutCodeLineÃ"<This block of commented-out lines of code should be removed.(Ä˜âªøÿÿÿÿ8©é½ç¿,H›ªRMAJORZ
+CODE_SMELL
+squid:S3776g"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Şıµ’ùÿÿÿÿ8âöÙø¾,HƒªRCRITICALZ
+CODE_SMELL
+“squid:S2293z"YReplace the type specification in this constructor call with the diamond operator ("<>").(İèğçıÿÿÿÿ8âöÙø¾,H‡ªRMINORZ
+CODE_SMELL
+ksquid:S2209—"5Change this instance-reference to a static reference.(úı›¨8âöÙø¾,Hã©RMAJORZ
+CODE_SMELL
+psquid:S2209™"5Change this instance-reference to a static reference.(öÔ×êúÿÿÿÿ8âöÙø¾,Hù©RMAJORZ
+CODE_SMELL
+“squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(º•Õÿøÿÿÿÿ8éŞĞ£¾,Hâ©RMINORZ
+CODE_SMELL
+ksquid:S2209"5Change this instance-reference to a static reference.(’±¶Û8’øÏù¾,H„ªRMAJORZ
+CODE_SMELL
+n
+squid:S106¯"9Replace this use of System.out or System.err by a logger.(Á Ê¹8üêæš¿,Hı©RMAJORZ
+CODE_SMELL
+ksquid:S2209“"5Change this instance-reference to a static reference.(‚”õÓ8Ô”ª‘¿,Hò©RMAJORZ
+CODE_SMELL
+r
+squid:S106j"9Replace this use of System.out or System.err by a logger.(ª”¢‚ùÿÿÿÿ8âïöï¾,H‚ªRMAJORZ
+CODE_SMELL
+m
+squid:S106é"9Replace this use of System.out or System.err by a logger.(ÌÑ N8¿´Òç¿,HİªRMAJORZ
+CODE_SMELL
+m
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(›×ø8âöÙø¾,Hõ©RMAJORZ
+CODE_SMELL
+m
+squid:S106&"9Replace this use of System.out or System.err by a logger.(Å»—Ä8îÈËğ¾,Hæ©RMAJORZ
+CODE_SMELL
+m
+squid:S106x"9Replace this use of System.out or System.err by a logger.(Í…ØÖ8âöÙø¾,H€ªRMAJORZ
+CODE_SMELL
+r
+squid:S106'"9Replace this use of System.out or System.err by a logger.(˜ªƒèùÿÿÿÿ8âïöï¾,Hà©RMAJORZ
+CODE_SMELL
+l
+squid:S106;"9Replace this use of System.out or System.err by a logger.(çß›[8âöÙø¾,Hó©RMAJORZ
+CODE_SMELL
+m
+squid:S1065"9Replace this use of System.out or System.err by a logger.(î©–ˆ8éıÜ‘¿,Hë©RMAJORZ
+CODE_SMELL
+l
+squid:S106/"9Replace this use of System.out or System.err by a logger.(óÌ]8æùÉó¿,H€½RMAJORZ
+CODE_SMELL
+n
+squid:S106“"9Replace this use of System.out or System.err by a logger.(‚”õÓ8š†¿”¿,Hî©RMAJORZ
+CODE_SMELL
+n
+squid:S106¢"9Replace this use of System.out or System.err by a logger.(íÒŒ™8Õ•ıî¾,Hö©RMAJORZ
+CODE_SMELL
+ksquid:S2209”"5Change this instance-reference to a static reference.(Ùæã“8éıÜ‘¿,Hä©RMAJORZ
+CODE_SMELL
+s
+squid:S106è"9Replace this use of System.out or System.err by a logger.(Ë®Ì„úÿÿÿÿ8¿´Òç¿,HÜªRMAJORZ
+CODE_SMELL
+s
+squid:S106„"9Replace this use of System.out or System.err by a logger.(ıï…²ùÿÿÿÿ8âöÙø¾,Hê©RMAJORZ
+CODE_SMELL
+s
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(ŸôÏ‚ıÿÿÿÿ8œ“òõ¾,Hñ©RMAJORZ
+CODE_SMELL
+ksquid:S2209"5Change this instance-reference to a static reference.(µ•í¼8ØÛ”¿,Hş©RMAJORZ
+CODE_SMELL
+r
+squid:S1062"9Replace this use of System.out or System.err by a logger.(æÊè„úÿÿÿÿ8íüÊó¿,H‹½RMAJORZ
+CODE_SMELL

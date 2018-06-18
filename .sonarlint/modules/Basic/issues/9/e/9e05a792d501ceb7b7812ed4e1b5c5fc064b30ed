@@ -1,0 +1,48 @@
+
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(³ğó§8š±ÈË¼,HàRMAJORZ
+CODE_SMELL
+İ%squid:RedundantThrowsDeclarationCheck"ˆRemove the declaration of thrown exception 'org.codehaus.jackson.map.JsonMappingException' which is a subclass of 'java.io.IOException'.(ÉÜ›Öşÿÿÿÿ8âï¸Í¼,HáRMINORZ
+CODE_SMELL
+r
+squid:S106R"9Replace this use of System.out or System.err by a logger.(¨ßåıÿÿÿÿ8Ë–ÏË¼,HâRMAJORZ
+CODE_SMELL
+r
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(µö”Íÿÿÿÿÿ8æå¸Ë¼,HãRMAJORZ
+CODE_SMELL
+Ü%squid:RedundantThrowsDeclarationCheck"‡Remove the declaration of thrown exception 'org.codehaus.jackson.JsonGenerationException' which is a subclass of 'java.io.IOException'.(ÉÜ›Öşÿÿÿÿ8âï¸Í¼,HäRMINORZ
+CODE_SMELL
+m
+squid:S106("9Replace this use of System.out or System.err by a logger.(Ë½³Ò8š±ÈË¼,HåRMAJORZ
+CODE_SMELL
+rsquid:S1854"8Remove this useless assignment to local variable "rice".(šË†âùÿÿÿÿ8§°¶Ì¼,HæRMAJORZ
+CODE_SMELL
+squid:S1192P"WDefine a constant instead of duplicating this literal "Total cost of rice is:" 3 times.(âÄ‹ç8Ëô«Ò¼,HçRCRITICALZ
+CODE_SMELL
+m
+squid:S106]"9Replace this use of System.out or System.err by a logger.(¦‡Šò8Ë–ÏË¼,HèRMAJORZ
+CODE_SMELL
+m
+squid:S106P"9Replace this use of System.out or System.err by a logger.(âÄ‹ç8™¦ÄÊ¼,HéRMAJORZ
+CODE_SMELL
+˜squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‘úÌúÿÿÿÿ8…Œ Í¼,HêRCRITICALZ
+CODE_SMELL
+{squid:S1075"ARefactor your code to get this URI from a customizable parameter.(‘úÌúÿÿÿÿ8…Œ Í¼,HëRMINORZ
+CODE_SMELL
+squid:S1192<"GDefine a constant instead of duplicating this literal "weight" 3 times.(ÌƒõÔ8åÖ£Ò¼,HìRCRITICALZ
+CODE_SMELL
+r
+squid:S106 "9Replace this use of System.out or System.err by a logger.(¼‚É±ùÿÿÿÿ8™¦ÄÊ¼,HíRMAJORZ
+CODE_SMELL
+~squid:S1192<"FDefine a constant instead of duplicating this literal "price" 3 times.(ÌƒõÔ8åÖ£Ò¼,HîRCRITICALZ
+CODE_SMELL
+ssquid:S1854""9Remove this useless assignment to local variable "wheat".(âø™´ùÿÿÿÿ8Éé‘Í¼,HïRMAJORZ
+CODE_SMELL
+tsquid:S1854*":Remove this useless assignment to local variable "pulses".(ÈÖèúÿÿÿÿ8Éé‘Í¼,HğRMAJORZ
+CODE_SMELL
+r
+squid:S106`"9Replace this use of System.out or System.err by a logger.(Ô¶Ğ‚üÿÿÿÿ8æå¸Ë¼,HñRMAJORZ
+CODE_SMELL
+r
+squid:S106c"9Replace this use of System.out or System.err by a logger.(‘Ş©ùÿÿÿÿ8Ë–ÏË¼,HòRMAJORZ
+CODE_SMELL

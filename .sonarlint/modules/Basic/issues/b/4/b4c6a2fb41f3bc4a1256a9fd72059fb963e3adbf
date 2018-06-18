@@ -1,0 +1,21 @@
+
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8·ÁÉü½,H¾ˆRMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8·ÁÉü½,H¿ˆRMAJORZ
+CODE_SMELL
+jsquid:S14811"0Remove this unused "sortedCards" local variable.(¶¯Ú¬şÿÿÿÿ8¹èìü½,HÀˆRMINORZ
+CODE_SMELL
+Ÿsquid:S4165"eRemove this useless assignment; "players" already holds the assigned value along all execution paths.(åíĞüÿÿÿÿ8¹èìü½,HÁˆRMAJORZ
+CODE_SMELL
+šsquid:S4165"eRemove this useless assignment; "players" already holds the assigned value along all execution paths.(õøò˜8Ğæğü½,HÂˆRMAJORZ
+CODE_SMELL
+ysquid:S18541"?Remove this useless assignment to local variable "sortedCards".(¶¯Ú¬şÿÿÿÿ8¹èìü½,HÃˆRMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.(õçÔ¦8ÍÆæœ¾,HÄˆRMAJORZ
+CODE_SMELL
+jsquid:S14812"0Remove this unused "sortedArray" local variable.(úò¸§úÿÿÿÿ8ÍÆæœ¾,HÅˆRMINORZ
+CODE_SMELL
+ysquid:S18542"?Remove this useless assignment to local variable "sortedArray".(úò¸§úÿÿÿÿ8ÍÆæœ¾,HÆˆRMAJORZ
+CODE_SMELL

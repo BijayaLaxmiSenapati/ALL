@@ -1,0 +1,21 @@
+
+¤squid:S1319"oThe type of the "book" object should be an interface such as "List" rather than the implementation "ArrayList".(¬øöß8¡ÿˆž½,H¬‹RMINORZ
+CODE_SMELL
+{squid:S22594"HA "NullPointerException" could be thrown; "jsonObject" is nullable here.(ÿù°ðÿÿÿÿÿ8êžªÃ½,H­‹RMAJORZBUG
+ssquid:S2696"6Make the enclosing method "static" or remove this set.(”ß µÿÿÿÿÿ8¡ÿˆž½,H®‹RCRITICALZ
+CODE_SMELL
+{squid:S1075"ARefactor your code to get this URI from a customizable parameter.(‰¶Úãÿÿÿÿÿ8óéíª½,H¯‹RMINORZ
+CODE_SMELL
+osquid:S2209"5Change this instance-reference to a static reference.(”ß µÿÿÿÿÿ8¡ÿˆž½,H°‹RMAJORZ
+CODE_SMELL
+`squid:S11481"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8µìáÃ½,H±‹RMINORZVULNERABILITY
+¥squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ôëÌ¶8¡ÿˆž½,H²‹RMINORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(«¶²™ÿÿÿÿÿ8þÃ«½,H³‹RMAJORZ
+CODE_SMELL
+`squid:S1148'"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÝñÿÂ½,H´‹RMINORZVULNERABILITY
+~squid:S2147."DCombine this catch with the one at line 36, which has the same body.(É˜ÙŽúÿÿÿÿ8µìáÃ½,Hµ‹RMINORZ
+CODE_SMELL
+~squid:S2147)"DCombine this catch with the one at line 36, which has the same body.(äí¯ÿÿÿÿÿ8µìáÃ½,H¶‹RMINORZ
+CODE_SMELL
+`squid:S1148,"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8µìáÃ½,H·‹RMINORZVULNERABILITY

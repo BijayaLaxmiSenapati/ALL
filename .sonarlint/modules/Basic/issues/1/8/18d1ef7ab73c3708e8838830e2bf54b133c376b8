@@ -1,0 +1,25 @@
+
+q
+squid:S1069"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‡áº,H¨WRMAJORZ
+CODE_SMELL
+q
+squid:S106c"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‡áº,H©WRMAJORZ
+CODE_SMELL
+q
+squid:S1066"9Replace this use of System.out or System.err by a logger.(ğİ…®úÿÿÿÿ8‡áº,HªWRMAJORZ
+CODE_SMELL
+q
+squid:S106h"9Replace this use of System.out or System.err by a logger.(¥ºĞ³ùÿÿÿÿ8»×¤»,H«WRMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(“ÓÃûÿÿÿÿ8Î’â£»,H¬WRMAJORZ
+CODE_SMELL
+q
+squid:S1068"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ü­Êáº,H­WRMAJORZ
+CODE_SMELL
+l
+squid:S106a"9Replace this use of System.out or System.err by a logger.(¥¨«æ8ü­Êáº,H®WRMAJORZ
+CODE_SMELL
+‰squid:S3776"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ÛÛ¯ø8‡áº,H¯WRCRITICALZ
+CODE_SMELL
+asquid:S1125."(Remove the literal "true" boolean value.(²ò¢Îøÿÿÿÿ8‡áº,H°WRMINORZ
+CODE_SMELL

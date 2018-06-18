@@ -1,0 +1,49 @@
+
+s
+squid:S106¨"9Replace this use of System.out or System.err by a logger.(á¨‰şÿÿÿÿ8“ŠĞ ¾,H·RMAJORZ
+CODE_SMELL
+n
+squid:S106İ"9Replace this use of System.out or System.err by a logger.(òÂÈÅ8ßåç£¾,H·RMAJORZ
+CODE_SMELL
+n
+squid:S106Ä"9Replace this use of System.out or System.err by a logger.(òÂÈÅ8ó»Ú ¾,H‰·RMAJORZ
+CODE_SMELL
+s
+squid:S106À"9Replace this use of System.out or System.err by a logger.(¢ÿ¸¯ùÿÿÿÿ8öŸ ¾,Hÿ¶RMAJORZ
+CODE_SMELL
+s
+squid:S106Ù"9Replace this use of System.out or System.err by a logger.(¢ÿ¸¯ùÿÿÿÿ8“ŠĞ ¾,Hƒ·RMAJORZ
+CODE_SMELL
+«squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ö˜Íßüÿÿÿÿ8öŸ ¾,H‚·RMINORZ
+CODE_SMELL
+‡squid:CallToDeprecatedMethode"<Remove this use of "DefaultPrettyPrinter"; it is deprecated.(ŠÀô’øÿÿÿÿ8—ÒÂ ¾,H‹·RMINORZ
+CODE_SMELL
+‚squid:S2095Ó"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(èº¬›ûÿÿÿÿ8ó»Ú ¾,H‡·RBLOCKERZBUG
+}squid:S2095¸"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Ó¨‘¢8“ŠĞ ¾,Hü¶RBLOCKERZBUG
+~squid:S2095·"HUse try-with-resources or close this "FileReader" in a "finally" clause.(­îüâûÿÿÿÿ8“ŠĞ ¾,Hı¶RBLOCKERZBUG
+squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(…âô8¬ó½î¿,H·RMINORZ
+CODE_SMELL
+~squid:S2095Ò"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(‚ô‘‰ùÿÿÿÿ8ó»Ú ¾,H€·RBLOCKERZBUG
+s
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸ª¢ıÿÿÿÿ8öŸ ¾,HŠ·RMAJORZ
+CODE_SMELL
+†squid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(Š–Ä‡úÿÿÿÿ8äéò£¾,Hú¶RMAJORZ
+CODE_SMELL
+`squid:S1148w"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8—ÒÂ ¾,H·RMINORZVULNERABILITY
+†squid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(«êÒËúÿÿÿÿ8›å•ò¾,H·RMAJORZ
+CODE_SMELL
+«squid:S1319š"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(üÉ£½úÿÿÿÿ8ßåç£¾,H‘·RMINORZ
+CODE_SMELL
+r
+squid:S106y"9Replace this use of System.out or System.err by a logger.(ò¶ºÿÿÿÿÿ8ó»Ú ¾,Hˆ·RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†€éˆ8©Ôøé¾,H†·RMAJORZ
+CODE_SMELL
+Rsquid:S1643»"Use a StringBuilder instead.(à·ñÈ8“ŠĞ ¾,HŒ·RMINORZ
+CODE_SMELL
+zsquid:S2147o"ECombine this catch with the one at line 106, which has the same body.(ŒŠ•°8öŸ ¾,Hû¶RMINORZ
+CODE_SMELL
+squid:S2147t"ECombine this catch with the one at line 106, which has the same body.(É˜Ùúÿÿÿÿ8öŸ ¾,H…·RMINORZ
+CODE_SMELL
+`squid:S1148r"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8öŸ ¾,Hş¶RMINORZVULNERABILITY
+`squid:S1148m"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8—ÒÂ ¾,H·RMINORZVULNERABILITY

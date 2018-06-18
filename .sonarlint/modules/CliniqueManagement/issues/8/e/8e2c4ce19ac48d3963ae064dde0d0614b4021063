@@ -1,0 +1,46 @@
+
+]squid:S3010"(Remove this assignment of "doctorsList".(õ§œ‚8ƒ¤Ó“¿,H¤—RMAJORZ
+CODE_SMELL
+“squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯÷í²øÿÿÿÿ8È²Ğ£¾,H§—RMINORZ
+CODE_SMELL
+¥squid:S1319`"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(±Î­‚8—ë»ó¾,H£—RMINORZ
+CODE_SMELL
+ªsquid:S1319q"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¹Ûåÿÿÿÿÿ8ŞÔÇó¾,H¦—RMINORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(–‹œşÿÿÿÿ8ßÏøğ¾,H«—RMAJORZ
+CODE_SMELL
+m
+squid:S106("9Replace this use of System.out or System.err by a logger.(°³íÁ8ÛİÍó¾,H©—RMAJORZ
+CODE_SMELL
+r
+squid:S106%"9Replace this use of System.out or System.err by a logger.(…€¦äûÿÿÿÿ8ÛİÍó¾,H—RMAJORZ
+CODE_SMELL
+r
+squid:S106."9Replace this use of System.out or System.err by a logger.(ŠÚÔúûÿÿÿÿ8àÙ„ñ¾,Hª—RMAJORZ
+CODE_SMELL
+r
+squid:S106 "9Replace this use of System.out or System.err by a logger.(»ÂŞüøÿÿÿÿ8àÙ„ñ¾,H¡—RMAJORZ
+CODE_SMELL
+squid:S2293b"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹¨¨ë8ŞÔÇó¾,H¬—RMINORZ
+CODE_SMELL
+m
+squid:S1069"9Replace this use of System.out or System.err by a logger.(î©–ˆ8¦‘ßó¾,H—RMAJORZ
+CODE_SMELL
+m
+squid:S106R"9Replace this use of System.out or System.err by a logger.(Åñ¹8ßÏøğ¾,HŸ—RMAJORZ
+CODE_SMELL
+m
+squid:S106A"9Replace this use of System.out or System.err by a logger.(õ¥À©8ßÏøğ¾,H¢—RMAJORZ
+CODE_SMELL
+m
+squid:S1065"9Replace this use of System.out or System.err by a logger.(­¦À8àÙ„ñ¾,H­—RMAJORZ
+CODE_SMELL
+squid:S2293s"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰Œ©á8ŞÔÇó¾,H¥—RMINORZ
+CODE_SMELL
+r
+squid:S106c"9Replace this use of System.out or System.err by a logger.(œ²ºŠıÿÿÿÿ8àÙ„ñ¾,H —RMAJORZ
+CODE_SMELL
+r
+squid:S106t"9Replace this use of System.out or System.err by a logger.(ÿ‘Óûÿÿÿÿ8¨Ôó¾,H¨—RMAJORZ
+CODE_SMELL

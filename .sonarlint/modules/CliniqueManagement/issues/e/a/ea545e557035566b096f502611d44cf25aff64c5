@@ -1,0 +1,91 @@
+
+…squid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(¬ãÚÄÿÿÿÿÿ8–¬ó’¿,HÚ‘RMAJORZ
+CODE_SMELL
+m
+squid:S106]"9Replace this use of System.out or System.err by a logger.(»¥÷º8Þêì¾,HÏ‘RMAJORZ
+CODE_SMELL
+s
+squid:S106Â"9Replace this use of System.out or System.err by a logger.(§â‘ªûÿÿÿÿ8üí¾,HÙ‘RMAJORZ
+CODE_SMELL
+r
+squid:S106K"9Replace this use of System.out or System.err by a logger.(þùå¨ýÿÿÿÿ8Þêì¾,HÒ‘RMAJORZ
+CODE_SMELL
+asquid:S3010",Remove this assignment of "appointmentList".(äÅÈÜ8Õ¨‹•¿,H‡“RMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine}"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8¯çÅö¾,HÂ‘RMAJORZ
+CODE_SMELL
+r
+squid:S1068"9Replace this use of System.out or System.err by a logger.(†ù„öúÿÿÿÿ8ðµµ¡¾,H¿‘RMAJORZ
+CODE_SMELL
+“squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÖÍ›·ÿÿÿÿÿ8ã¦Ü£¾,HÇ‘RMINORZ
+CODE_SMELL
+r
+squid:S106<"9Replace this use of System.out or System.err by a logger.(¤ÎáÐüÿÿÿÿ8Þêì¾,HÈ‘RMAJORZ
+CODE_SMELL
+m
+squid:S106J"9Replace this use of System.out or System.err by a logger.(Û›¶8Ž›¦è¾,HË‘RMAJORZ
+CODE_SMELL
+r
+squid:S106v"9Replace this use of System.out or System.err by a logger.(¶Êðœþÿÿÿÿ8Þêì¾,HÃ‘RMAJORZ
+CODE_SMELL
+s
+squid:S106à"9Replace this use of System.out or System.err by a logger.(ÕýÛÔøÿÿÿÿ8ëöØí¾,HÍ‘RMAJORZ
+CODE_SMELL
+m
+squid:S106""9Replace this use of System.out or System.err by a logger.(ÅªÄã8Ûêƒí¾,HÊ‘RMAJORZ
+CODE_SMELL
+n
+squid:S106¶"9Replace this use of System.out or System.err by a logger.(ÖûÉè8í’¿ê¾,HÌ‘RMAJORZ
+CODE_SMELL
+m
+squid:S106H"9Replace this use of System.out or System.err by a logger.(ëÆÜ¢8Ûêƒí¾,H»‘RMAJORZ
+CODE_SMELL
+n
+squid:S106µ"9Replace this use of System.out or System.err by a logger.(Û›¶8ðµµ¡¾,HÔ‘RMAJORZ
+CODE_SMELL
+r
+squid:S106W"9Replace this use of System.out or System.err by a logger.(²Ãá»þÿÿÿÿ8Ä¹“¿,HÛ‘RMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLinex"<This block of commented-out lines of code should be removed.(è‡™é8Ÿ–±ò¾,HÅ‘RMAJORZ
+CODE_SMELL
+s
+squid:S106§"9Replace this use of System.out or System.err by a logger.(æÇØýùÿÿÿÿ8Þêì¾,HÓ‘RMAJORZ
+CODE_SMELL
+n
+squid:S106ß"9Replace this use of System.out or System.err by a logger.(Á Ê¹8ðµµ¡¾,HÕ‘RMAJORZ
+CODE_SMELL
+s
+squid:S106³"9Replace this use of System.out or System.err by a logger.(š­½„øÿÿÿÿ8ëöØí¾,HÑ‘RMAJORZ
+CODE_SMELL
+m
+squid:S106L"9Replace this use of System.out or System.err by a logger.(‘¹Æ¡8Òýé¾,HÄ‘RMAJORZ
+CODE_SMELL
+n
+squid:S106·"9Replace this use of System.out or System.err by a logger.(ÜáúÚ8ëöØí¾,HÖ‘RMAJORZ
+CODE_SMELL
+r
+squid:S106;"9Replace this use of System.out or System.err by a logger.(’ùª­øÿÿÿÿ8Ûêƒí¾,HØ‘RMAJORZ
+CODE_SMELL
+n
+squid:S106¼"9Replace this use of System.out or System.err by a logger.(ëÏ¢8Þêì¾,H½‘RMAJORZ
+CODE_SMELL
+r
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(˜þìÆÿÿÿÿÿ8ÔÏ“é¾,H×‘RMAJORZ
+CODE_SMELL
+n
+squid:S106š"9Replace this use of System.out or System.err by a logger.(ÄÅ·â8±•“í¾,HÐ‘RMAJORZ
+CODE_SMELL
+m
+squid:S106u"9Replace this use of System.out or System.err by a logger.(Á Ê¹8Ûêƒí¾,HÀ‘RMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(ñÂ¶›þÿÿÿÿ8‰É°õ¾,HÁ‘RMAJORZ
+CODE_SMELL
+r
+squid:S106h"9Replace this use of System.out or System.err by a logger.(ÜÂá¶øÿÿÿÿ8Þêì¾,H¼‘RMAJORZ
+CODE_SMELL
+s
+squid:S106Ñ"9Replace this use of System.out or System.err by a logger.(ï¡©ùÿÿÿÿ8ðµµ¡¾,HÎ‘RMAJORZ
+CODE_SMELL
+n
+squid:S106È"9Replace this use of System.out or System.err by a logger.(»¥÷º8ëöØí¾,HÆ‘RMAJORZ
+CODE_SMELL

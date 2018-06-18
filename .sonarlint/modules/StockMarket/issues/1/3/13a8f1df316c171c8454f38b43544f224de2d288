@@ -1,0 +1,25 @@
+
+Tsquid:S3010"&Remove this assignment of "stockList".(…êÎH¨½RMAJORZ
+CODE_SMELL
+k
+squid:S106'"9Replace this use of System.out or System.err by a logger.(û†‹îÿÿÿÿÿH©½RMAJORZ
+CODE_SMELL
+k
+squid:S106,"9Replace this use of System.out or System.err by a logger.(•îÄıÿÿÿÿHª½RMAJORZ
+CODE_SMELL
+m
+squid:S106E"9Replace this use of System.out or System.err by a logger.(íóÕü8‹Ó–é¿,H«½RMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine8"<This block of commented-out lines of code should be removed.(éå¾úÿÿÿÿ8½ù§Ê¿,H¬½RMAJORZ
+CODE_SMELL
+f
+squid:S1063"9Replace this use of System.out or System.err by a logger.(¸¾ÕËH­½RMAJORZ
+CODE_SMELL
+k
+squid:S106$"9Replace this use of System.out or System.err by a logger.(şÜÙøÿÿÿÿH®½RMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ˆ¿§ıÿÿÿÿ8×ÎÊë¿,H¯½RMAJORZ
+CODE_SMELL
+e
+squid:S106!"9Replace this use of System.out or System.err by a logger.(•½¨H°½RMAJORZ
+CODE_SMELL

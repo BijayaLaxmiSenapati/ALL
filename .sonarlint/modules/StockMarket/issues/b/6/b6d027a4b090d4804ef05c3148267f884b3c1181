@@ -1,0 +1,32 @@
+
+Wsquid:S3010")Remove this assignment of "customerList".(ß±•’H›½RMAJORZ
+CODE_SMELL
+k
+squid:S106!"9Replace this use of System.out or System.err by a logger.(’î±ÀÿÿÿÿÿHœ½RMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(–š¡òúÿÿÿÿ8ıÊë¿,H½RMAJORZ
+CODE_SMELL
+f
+squid:S106%"9Replace this use of System.out or System.err by a logger.(Ã›ÉïH½RMAJORZ
+CODE_SMELL
+nsquid:S2696 "6Make the enclosing method "static" or remove this set.(±ÿ¤€8—ĞçÊ¿,HŸ½RCRITICALZ
+CODE_SMELL
+ysquid:UselessImportCheck">Remove this unused import 'com.bridgelabz.lists.MyLinkedList'.(İöìH ½RMINORZ
+CODE_SMELL
+m
+squid:S106I"9Replace this use of System.out or System.err by a logger.(¼â½Ç8œ‹•é¿,H¡½RMAJORZ
+CODE_SMELL
+f
+squid:S1064"9Replace this use of System.out or System.err by a logger.(Æ±íãH¢½RMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(™€Â¸ÿÿÿÿÿH£½RMAJORZ
+CODE_SMELL
+k
+squid:S106>"9Replace this use of System.out or System.err by a logger.(Õ¦ßµùÿÿÿÿH¤½RMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLineN"<This block of commented-out lines of code should be removed.(ùÛß8Õœòä¿,H¥½RMAJORZ
+CODE_SMELL
+`squid:S1148L"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Õœòä¿,H¦½RMINORZVULNERABILITY
+f
+squid:S1069"9Replace this use of System.out or System.err by a logger.(¾º´ïH§½RMAJORZ
+CODE_SMELL

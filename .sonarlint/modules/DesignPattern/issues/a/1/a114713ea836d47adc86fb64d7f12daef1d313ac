@@ -1,0 +1,11 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(èáÓ18¹Æ§ÃÀ,HÜ¾RMAJORZ
+CODE_SMELL
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬å®Ù8¹Æ§ÃÀ,HÛ¾RMAJORZ
+CODE_SMELL
+jsquid:S1751"5Remove this "break" statement or make it conditional.(›ûä·8¹Æ§ÃÀ,HÚ¾RMAJORZ
+CODE_SMELL
+`squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¹Æ§ÃÀ,HÞ¾RMINORZVULNERABILITY
+vsquid:S2259"IA "NullPointerException" could be thrown; "instanceTwo" is nullable here.(èáÓ18¹Æ§ÃÀ,HÝ¾RMAJORZBUG

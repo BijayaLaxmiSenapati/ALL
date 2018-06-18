@@ -1,0 +1,29 @@
+
+Ssquid:S3010"&Remove this assignment of "stockList".(ÝÏèyHï£RMAJORZ
+CODE_SMELL
+€squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜÷Ä½Hö£RMINORZ
+CODE_SMELL
+ksquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±ÄøÿÿÿÿHø£RMINORZ
+CODE_SMELL
+Œsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯Ü‹ÜüÿÿÿÿHð£RMINORZ
+CODE_SMELL
+k
+squid:S106""9Replace this use of System.out or System.err by a logger.(û†‹îÿÿÿÿÿHô£RMAJORZ
+CODE_SMELL
+f
+squid:S106-"9Replace this use of System.out or System.err by a logger.(ÖÑŒìHõ£RMAJORZ
+CODE_SMELL
+Žsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øêË¨ýÿÿÿÿH÷£RMINORZ
+CODE_SMELL
+f
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŸãýÈHò£RMAJORZ
+CODE_SMELL
+l
+squid:S106."9Replace this use of System.out or System.err by a logger.(µ­½8•ÄÏå¿,Hú£RMAJORZ
+CODE_SMELL
+f
+squid:S106"9Replace this use of System.out or System.err by a logger.(þÀüêHó£RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ýØÐHñ£RMAJORZ
+CODE_SMELL

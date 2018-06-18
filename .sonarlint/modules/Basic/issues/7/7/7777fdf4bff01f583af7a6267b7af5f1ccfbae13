@@ -1,0 +1,10 @@
+
+§squid:S1319"rThe type of the "persons" object should be an interface such as "List" rather than the implementation "ArrayList".(‹ïòá8Æù‹Ô½,H”ºRMINORZ
+CODE_SMELL
+¥squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(çøœï8Æù‹Ô½,H•ºRMINORZ
+CODE_SMELL
+r
+squid:S106'"9Replace this use of System.out or System.err by a logger.(¼‘çŸùÿÿÿÿ8õ®‘Ô½,H–ºRMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(†€éˆ8õ®‘Ô½,H—ºRMAJORZ
+CODE_SMELL

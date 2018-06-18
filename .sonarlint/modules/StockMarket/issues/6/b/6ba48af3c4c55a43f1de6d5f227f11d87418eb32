@@ -1,0 +1,32 @@
+
+tsquid:S1118":Add a private constructor to hide the implicit public one.(¹‹ó¿ýÿÿÿÿ8÷ÌÙä¿,H¶¾RMAJORZ
+CODE_SMELL
+ªsquid:S1319ˆ"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(ô…íºûÿÿÿÿ8÷ÌÙä¿,H·¾RMINORZ
+CODE_SMELL
+s
+squid:S106Ž"9Replace this use of System.out or System.err by a logger.(õ•‘°úÿÿÿÿ8÷ÌÙä¿,H¸¾RMAJORZ
+CODE_SMELL
+†squid:CommentedOutCodeLineŠ"<This block of commented-out lines of code should be removed.(À†½Áúÿÿÿÿ8÷ÌÙä¿,H¹¾RMAJORZ
+CODE_SMELL
+`squid:S1148m"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Ùä’ ¿,Hº¾RMINORZVULNERABILITY
+˜squid:S1488x"^Immediately return this expression instead of assigning it to the temporary variable "number".(¨ô¬¥üÿÿÿÿ8÷ÌÙä¿,H»¾RMINORZ
+CODE_SMELL
+×%squid:RedundantThrowsDeclarationCheckZ"‡Remove the declaration of thrown exception 'org.codehaus.jackson.JsonGenerationException' which is a subclass of 'java.io.IOException'.(‰Ò–Ç8÷ÌÙä¿,H¼¾RMINORZ
+CODE_SMELL
+—squid:S1488\"bImmediately return this expression instead of assigning it to the temporary variable "jsonResult".(¥Ý·8÷ÌÙä¿,H½¾RMINORZ
+CODE_SMELL
+¦squid:S1319G"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(þÒûƒ8÷ÌÙä¿,H¾¾RMINORZ
+CODE_SMELL
+‡squid:S00117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þÒûƒ8÷ÌÙä¿,H¿¾RMINORZ
+CODE_SMELL
+«squid:S1319ˆ"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ô…íºûÿÿÿÿ8÷ÌÙä¿,HÀ¾RMINORZ
+CODE_SMELL
+squid:S00117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô…íºûÿÿÿÿ8÷ÌÙä¿,HÁ¾RMINORZ
+CODE_SMELL
+‡squid:CallToDeprecatedMethodi"<Remove this use of "DefaultPrettyPrinter"; it is deprecated.(ŠÀô’øÿÿÿÿ8üù“ ¿,HÂ¾RMINORZ
+CODE_SMELL
+Ø%squid:RedundantThrowsDeclarationCheckZ"ˆRemove the declaration of thrown exception 'org.codehaus.jackson.map.JsonMappingException' which is a subclass of 'java.io.IOException'.(‰Ò–Ç8÷ÌÙä¿,HÃ¾RMINORZ
+CODE_SMELL
+m
+squid:S106M"9Replace this use of System.out or System.err by a logger.(€õÅŠ8÷ÌÙä¿,HÄ¾RMAJORZ
+CODE_SMELL

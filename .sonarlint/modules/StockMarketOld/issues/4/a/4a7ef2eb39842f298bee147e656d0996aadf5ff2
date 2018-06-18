@@ -1,0 +1,94 @@
+
+k
+squid:S1067"9Replace this use of System.out or System.err by a logger.(—ÓÛÖşÿÿÿÿHŒ¤RMAJORZ
+CODE_SMELL
+hsquid:S2209R"5Change this instance-reference to a static reference.(ş¼İãıÿÿÿÿH”¤RMAJORZ
+CODE_SMELL
+hsquid:S2209T"5Change this instance-reference to a static reference.(ÒïªàûÿÿÿÿH•¤RMAJORZ
+CODE_SMELL
+hsquid:S2209Y"5Change this instance-reference to a static reference.(¤Ò¯ùÿÿÿÿH–¤RMAJORZ
+CODE_SMELL
+gsquid:UselessImportCheck",Remove this unused import 'java.util.Queue'.(Äá™ôHœ¤RMINORZ
+CODE_SMELL
+r
+squid:S106D"9Replace this use of System.out or System.err by a logger.(®…€Çıÿÿÿÿ8ªôç¿,HÓ©RMAJORZ
+CODE_SMELL
+Œsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿Á›úÿÿÿÿH†¤RMINORZ
+CODE_SMELL
+€squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö½««Hš¤RMINORZ
+CODE_SMELL
+k
+squid:S106l"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿH¤RMAJORZ
+CODE_SMELL
+r
+squid:S106k"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8€–ç¿,HÄ©RMAJORZ
+CODE_SMELL
+k
+squid:S106c"9Replace this use of System.out or System.err by a logger.(æâ¶ûûÿÿÿÿH‰¤RMAJORZ
+CODE_SMELL
+f
+squid:S106("9Replace this use of System.out or System.err by a logger.(íÚÿH‘¤RMAJORZ
+CODE_SMELL
+r
+squid:S106z"9Replace this use of System.out or System.err by a logger.(ÜÃÊÌúÿÿÿÿ8ß§†ç¿,H°©RMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLineX"<This block of commented-out lines of code should be removed.(‚Ààî8ÁÑïå¿,H¦¤RMAJORZ
+CODE_SMELL
+r
+squid:S106}"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8€–ç¿,HÉ©RMAJORZ
+CODE_SMELL
+k
+squid:S106~"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿH¤RMAJORZ
+CODE_SMELL
+m
+squid:S106:"9Replace this use of System.out or System.err by a logger.(µÖ®È8ªôç¿,HÔ©RMAJORZ
+CODE_SMELL
+n
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(’×çÕ8€–ç¿,HÅ©RMAJORZ
+CODE_SMELL
+hsquid:S2209]"5Change this instance-reference to a static reference.(Ş³¥ÿÿÿÿÿH—¤RMAJORZ
+CODE_SMELL
+hsquid:S2696†"6Make the enclosing method "static" or remove this set.(ıßğèH’¤RCRITICALZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øêË¨ıÿÿÿÿH›¤RMINORZ
+CODE_SMELL
+k
+squid:S1066"9Replace this use of System.out or System.err by a logger.(€ÃÙ»şÿÿÿÿH‹¤RMAJORZ
+CODE_SMELL
+m
+squid:S106{"9Replace this use of System.out or System.err by a logger.(üÇÿˆ8€–ç¿,HÇ©RMAJORZ
+CODE_SMELL
+m
+squid:S106|"9Replace this use of System.out or System.err by a logger.(€ï”¤8€–ç¿,HÈ©RMAJORZ
+CODE_SMELL
+k
+squid:S1068"9Replace this use of System.out or System.err by a logger.(ÜœÁ±ÿÿÿÿÿHŠ¤RMAJORZ
+CODE_SMELL
+m
+squid:S106j"9Replace this use of System.out or System.err by a logger.(üÇÿˆ8ó§Œç¿,Hº©RMAJORZ
+CODE_SMELL
+msquid:S2696”"6Make the enclosing method "static" or remove this set.(¸€Ş­üÿÿÿÿH“¤RCRITICALZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(À£î)8€–ç¿,HÆ©RMAJORZ
+CODE_SMELL
+osquid:S2209U"5Change this instance-reference to a static reference.(“ĞÑŒÿÿÿÿÿ8ÁÑïå¿,H§¤RMAJORZ
+CODE_SMELL
+Zsquid:S3010",Remove this assignment of "transactionList".(–Ó©H…¤RMAJORZ
+CODE_SMELL
+ysquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Æô¨“H‡¤RMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLineZ"<This block of commented-out lines of code should be removed.(ÿ³¯³úÿÿÿÿHˆ¤RMAJORZ
+CODE_SMELL
+f
+squid:S106?"9Replace this use of System.out or System.err by a logger.(œíÖïH¤RMAJORZ
+CODE_SMELL
+r
+squid:S106i"9Replace this use of System.out or System.err by a logger.(áÁƒËüÿÿÿÿ8ß§†ç¿,H¯©RMAJORZ
+CODE_SMELL
+f
+squid:S106t"9Replace this use of System.out or System.err by a logger.(¢¾ƒH¤RMAJORZ
+CODE_SMELL
+s
+squid:S106—"9Replace this use of System.out or System.err by a logger.(çş±èüÿÿÿÿ8¢‡è¿,HøªRMAJORZ
+CODE_SMELL

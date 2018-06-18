@@ -1,0 +1,136 @@
+
+hsquid:S2209b"5Change this instance-reference to a static reference.(éêº—øÿÿÿÿH±½RMAJORZ
+CODE_SMELL
+g
+squid:S106²"9Replace this use of System.out or System.err by a logger.(Å† H²½RMAJORZ
+CODE_SMELL
+csquid:S2209\"5Change this instance-reference to a static reference.(ƒÇü“H³½RMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(¿ÖŒ÷ıÿÿÿÿ8¢ä‚í¿,H´½RMAJORZ
+CODE_SMELL
+msquid:S2696‰"6Make the enclosing method "static" or remove this set.(ı™ŠÏüÿÿÿÿHµ½RCRITICALZ
+CODE_SMELL
+hsquid:S22096"5Change this instance-reference to a static reference.(ÓÉ§ŒÿÿÿÿÿH¶½RMAJORZ
+CODE_SMELL
+s
+squid:S106µ"9Replace this use of System.out or System.err by a logger.(õÔèïÿÿÿÿÿ8¢¨¶ì¿,H·½RMAJORZ
+CODE_SMELL
+jsquid:S2209V"5Change this instance-reference to a static reference.(Éå 8×ÿ–å¿,H¸½RMAJORZ
+CODE_SMELL
+\squid:S1125?")Remove the literal "false" boolean value.(¸¹½ÜıÿÿÿÿH¹½RMINORZ
+CODE_SMELL
+r
+squid:S106c"9Replace this use of System.out or System.err by a logger.(Ùâ·øÿÿÿÿÿ8›’äí¿,Hº½RMAJORZ
+CODE_SMELL
+Zsquid:S2440"'Remove this instantiation of "MyStack".(ºøŠúÿÿÿÿH»½RMAJORZ
+CODE_SMELL
+jsquid:S2209a"5Change this instance-reference to a static reference.(–ŸÑ8›’äí¿,H¼½RMAJORZ
+CODE_SMELL
+n
+squid:S106"9Replace this use of System.out or System.err by a logger.(•ÙÌ8é‹‰ì¿,H½½RMAJORZ
+CODE_SMELL
+m
+squid:S106X"9Replace this use of System.out or System.err by a logger.(äÜõ›8‰©«ì¿,H¾½RMAJORZ
+CODE_SMELL
+k
+squid:S106%"9Replace this use of System.out or System.err by a logger.(¸şŞ—şÿÿÿÿH¿½RMAJORZ
+CODE_SMELL
+n
+squid:S106À"9Replace this use of System.out or System.err by a logger.(äÓñ¶8¢¨¶ì¿,HÀ½RMAJORZ
+CODE_SMELL
+s
+squid:S106Û"9Replace this use of System.out or System.err by a logger.(«‹¤çşÿÿÿÿ8¢¨¶ì¿,HÁ½RMAJORZ
+CODE_SMELL
+m
+squid:S106h"9Replace this use of System.out or System.err by a logger.(ß¹›Ï8šÜÀì¿,HÂ½RMAJORZ
+CODE_SMELL
+gsquid:S2696"6Make the enclosing method "static" or remove this set.(Ş•“HÃ½RCRITICALZ
+CODE_SMELL
+f
+squid:S106*"9Replace this use of System.out or System.err by a logger.(øı½²HÄ½RMAJORZ
+CODE_SMELL
+s
+squid:S106Ë"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Âæºì¿,HÅ½RMAJORZ
+CODE_SMELL
+n
+squid:S106Ü"9Replace this use of System.out or System.err by a logger.(€ï”¤8šÜÀì¿,HÆ½RMAJORZ
+CODE_SMELL
+csquid:S2209I"5Change this instance-reference to a static reference.(‡«áïHÇ½RMAJORZ
+CODE_SMELL
+l
+squid:S106B"9Replace this use of System.out or System.err by a logger.(ÙÄÎM8‰©«ì¿,HÈ½RMAJORZ
+CODE_SMELL
+s
+squid:S106Ú"9Replace this use of System.out or System.err by a logger.(ÜÃÊÌúÿÿÿÿ8›Óí¿,HÉ½RMAJORZ
+CODE_SMELL
+gsquid:S2696"6Make the enclosing method "static" or remove this set.(Ş•“HÊ½RCRITICALZ
+CODE_SMELL
+f
+squid:S106("9Replace this use of System.out or System.err by a logger.(¹Ñ£æHË½RMAJORZ
+CODE_SMELL
+bsquid:S2209K"5Change this instance-reference to a static reference.(ªâí/HÌ½RMAJORZ
+CODE_SMELL
+s
+squid:S106—"9Replace this use of System.out or System.err by a logger.(îğæôùÿÿÿÿ8¢¨¶ì¿,HÍ½RMAJORZ
+CODE_SMELL
+l
+squid:S106Ê"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿHÎ½RMAJORZ
+CODE_SMELL
+n
+squid:S106Â"9Replace this use of System.out or System.err by a logger.(Å‚í8¢¨¶ì¿,HÏ½RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¬ƒk8Ç•íé¿,HĞ½RMAJORZ
+CODE_SMELL
+xsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(À¡‰Ûÿÿÿÿÿ8¥Å˜Ë¿,HÑ½RMINORZ
+CODE_SMELL
+Šsquid:UselessImportCheck"CRemove this unused import 'com.bridgelabz.service.CustomerService'.(ì•µäûÿÿÿÿ8Ìì³ä¿,HÒ½RMINORZ
+CODE_SMELL
+k"squid:SwitchLastCaseIsDefaultCheck¥""Add a default case to this switch.(ªÑ·ËHÓ½RCRITICALZ
+CODE_SMELL
+Vsquid:S1125."(Remove the literal "true" boolean value.(ÎÃè»HÔ½RMINORZ
+CODE_SMELL
+l
+squid:S106Õ"9Replace this use of System.out or System.err by a logger.(ûà··øÿÿÿÿHÕ½RMAJORZ
+CODE_SMELL
+asquid:S22098"5Change this instance-reference to a static reference.(…Î&HÖ½RMAJORZ
+CODE_SMELL
+s
+squid:S106İ"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¢ş—é¿,H×½RMAJORZ
+CODE_SMELL
+_squid:S3010",Remove this assignment of "transactionList".(–ÅÏ‚øÿÿÿÿHØ½RMAJORZ
+CODE_SMELL
+k
+squid:S106g"9Replace this use of System.out or System.err by a logger.(æ‘»ùÿÿÿÿHÙ½RMAJORZ
+CODE_SMELL
+s
+squid:S106Ó"9Replace this use of System.out or System.err by a logger.(•ÏÍúÿÿÿÿ8›Óí¿,HÚ½RMAJORZ
+CODE_SMELL
+n
+squid:S106É"9Replace this use of System.out or System.err by a logger.(€ï”¤8‰©«ì¿,HÛ½RMAJORZ
+CODE_SMELL
+gsquid:S2696'"6Make the enclosing method "static" or remove this set.(¯²ßHÜ½RCRITICALZ
+CODE_SMELL
+f
+squid:S106A"9Replace this use of System.out or System.err by a logger.(şÑšõHİ½RMAJORZ
+CODE_SMELL
+r
+squid:S106+"9Replace this use of System.out or System.err by a logger.(‚Š¨íûÿÿÿÿ8ïÔœå¿,HŞ½RMAJORZ
+CODE_SMELL
+l
+squid:S106Ç"9Replace this use of System.out or System.err by a logger.(µ¸Ê—ùÿÿÿÿHß½RMAJORZ
+CODE_SMELL
+s
+squid:S106Ş"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‰©«ì¿,Hà½RMAJORZ
+CODE_SMELL
+csquid:S2209M"5Change this instance-reference to a static reference.(¥—¸ŠHá½RMAJORZ
+CODE_SMELL
+r
+squid:S106S"9Replace this use of System.out or System.err by a logger.(µœàªşÿÿÿÿ8š’äí¿,Hâ½RMAJORZ
+CODE_SMELL
+s
+squid:S106È"9Replace this use of System.out or System.err by a logger.(«‹¤çşÿÿÿÿ8ÃĞé¿,Hã½RMAJORZ
+CODE_SMELL
+jsquid:S2589?"7Remove this expression which always evaluates to "true"(¸¹½ÜıÿÿÿÿHä½RMAJORZ
+CODE_SMELL
+zsquid:S1301¥"KReplace this "switch" statement by "if" statements to increase readability.(ªÑ·ËHå½RMINORZ
+CODE_SMELL

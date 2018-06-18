@@ -1,0 +1,38 @@
+
+‰squid:UselessImportCheck"BRemove this unused import 'com.bridgelabz.service.ManagerService'.(µ—‘¶ıÿÿÿÿ8°Ï–è¾,Hæ½RMINORZ
+CODE_SMELL
+m
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ÕŠ÷¸8¡ª›¡¾,Hç½RMAJORZ
+CODE_SMELL
+q"squid:SwitchLastCaseIsDefaultCheck0""Add a default case to this switch.(ªÑ·Ë8¡ªñé¾,Hè½RCRITICALZ
+CODE_SMELL
+r
+squid:S106""9Replace this use of System.out or System.err by a logger.(œÈ üÿÿÿÿ8øñšé¾,Hé½RMAJORZ
+CODE_SMELL
+m
+squid:S106&"9Replace this use of System.out or System.err by a logger.(­Ûá‘8èšÊé¾,Hê½RMAJORZ
+CODE_SMELL
+m
+squid:S106$"9Replace this use of System.out or System.err by a logger.(€â‹ø8èšÊé¾,Hë½RMAJORZ
+CODE_SMELL
+ squid:S1192"hDefine a constant instead of duplicating this literal "/home/adminstrato/BijayaWorkSpace/Basic" 3 times.(©À”ó8óœÑî¿,Hì½RCRITICALZ
+CODE_SMELL
+m
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ÎÏàû8èšÊé¾,Hí½RMAJORZ
+CODE_SMELL
+r
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(öîÎñøÿÿÿÿ8»ğÕç¿,Hî½RMAJORZ
+CODE_SMELL
+r
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ıÉÊûÿÿÿÿ8èšÊé¾,Hï½RMAJORZ
+CODE_SMELL
+„squid:UselessImportCheck"BRemove this unused import 'com.bridgelabz.service.PatientService'.(ÉÍº–8°Ï–è¾,Hğ½RMINORZ
+CODE_SMELL
+r
+squid:S106R"9Replace this use of System.out or System.err by a logger.(ÂæÉÿÿÿÿÿ8»ğÕç¿,Hñ½RMAJORZ
+CODE_SMELL
+ƒsquid:UselessImportCheck"ARemove this unused import 'com.bridgelabz.service.DoctorService'.(ÖÍÿÁ8°Ï–è¾,Hò½RMINORZ
+CODE_SMELL
+r
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ÔĞûıÿÿÿÿ8èšÊé¾,Hó½RMAJORZ
+CODE_SMELL

@@ -1,0 +1,39 @@
+
+l
+squid:S106b"9Replace this use of System.out or System.err by a logger.(µí©È8óîπ•ª,H˙VRMAJORZ
+CODE_SMELL
+âsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(€€Ø¯8óîπ•ª,HÑWRCRITICALZ
+CODE_SMELL
+usquid:S1854"BRemove this useless assignment to local variable "copystackDates".(öÌÊ,8†èÃ•ª,H¯VRMAJORZ
+CODE_SMELL
+usquid:S1854"ARemove this useless assignment to local variable "copystackDays".(Ÿ‡∞ä8†èÃ•ª,HÉWRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLineN"<This block of commented-out lines of code should be removed.(ïÏ¬—8óîπ•ª,H˘VRMAJORZ
+CODE_SMELL
+q
+squid:S1064"9Replace this use of System.out or System.err by a logger.(™”º·˛ˇˇˇˇ8Ï∑º•ª,H˛VRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(ê¶ﬁÆ8óîπ•ª,HˇVRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLineH"<This block of commented-out lines of code should be removed.(ïÏ¬—8óîπ•ª,H˚VRMAJORZ
+CODE_SMELL
+asquid:S1125,"(Remove the literal "true" boolean value.(≤Ú¢Œ¯ˇˇˇˇ8óîπ•ª,H¸VRMINORZ
+CODE_SMELL
+Ñsquid:CommentedOutCodeLine<"<This block of commented-out lines of code should be removed.(È•ûã˘ˇˇˇˇ8óîπ•ª,H˝VRMAJORZ
+CODE_SMELL
+fsquid:S1481"2Remove this unused "copystackDays" local variable.(Ÿ‡∞ä8≠ìä º,H¶WRMINORZ
+CODE_SMELL
+q
+squid:S1065"9Replace this use of System.out or System.err by a logger.(™”º·˛ˇˇˇˇ8‰Æ¡•ª,HıVRMAJORZ
+CODE_SMELL
+q
+squid:S1062"9Replace this use of System.out or System.err by a logger.(›ÖÆ˙ˇˇˇˇ8óîπ•ª,H˜VRMAJORZ
+CODE_SMELL
+q
+squid:S106["9Replace this use of System.out or System.err by a logger.(•∫–≥˘ˇˇˇˇ8‰Æ¡•ª,HÄWRMAJORZ
+CODE_SMELL
+fsquid:S1481"3Remove this unused "copystackDates" local variable.(öÌÊ,8≠ìä º,HßWRMINORZ
+CODE_SMELL
+q
+squid:S106d"9Replace this use of System.out or System.err by a logger.(™”º·˛ˇˇˇˇ8óîπ•ª,HˆVRMAJORZ
+CODE_SMELL

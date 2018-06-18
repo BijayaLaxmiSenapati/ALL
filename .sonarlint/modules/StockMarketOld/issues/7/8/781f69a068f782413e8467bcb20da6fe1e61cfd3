@@ -1,0 +1,17 @@
+
+‡squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶ê€HãªRMINORZ
+CODE_SMELL
+Œsquid:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(î¡ÜıÿÿÿÿHäªRMINORZ
+CODE_SMELL
+~squid:CommentedOutCodeLineX"<This block of commented-out lines of code should be removed.(—±ÄÄùÿÿÿÿHåªRMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine^"<This block of commented-out lines of code should be removed.(šñË(HæªRMAJORZ
+CODE_SMELL
+k
+squid:S106["9Replace this use of System.out or System.err by a logger.(½öúÿÿÿÿHçªRMAJORZ
+CODE_SMELL
+nsquid:S2259³"FA "NullPointerException" could be thrown; "previous" is nullable here.(ï¥¨ŸHèªRMAJORZBUG
+nsquid:S2259ß"FA "NullPointerException" could be thrown; "previous" is nullable here.(ï¥¨ŸHéªRMAJORZBUG
+msquid:S2259ª"FA "NullPointerException" could be thrown; "previous" is nullable here.(˜ëË7HêªRMAJORZBUG
+²squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜‘éİHëªRCRITICALZ
+CODE_SMELL

@@ -1,0 +1,21 @@
+
+…squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éå¾Žúÿÿÿÿ8Ï›‰û¼,H²ˆRMAJORZ
+CODE_SMELL
+{squid:S1075"ARefactor your code to get this URI from a customizable parameter.(Þª‹Øûÿÿÿÿ8±˜‹õ¼,H³ˆRMINORZ
+CODE_SMELL
+Ì%squid:RedundantThrowsDeclarationCheck"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(ÀÙ¹Ëÿÿÿÿÿ8±˜‹õ¼,H´ˆRMINORZ
+CODE_SMELL
+À%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ÀÙ¹Ëÿÿÿÿÿ8Ï›‰û¼,HµˆRMINORZ
+CODE_SMELL
+Ò%squid:RedundantThrowsDeclarationCheck"~Remove the declaration of thrown exception 'org.json.simple.parser.ParseException', as it cannot be thrown from method's body.(ÀÙ¹Ëÿÿÿÿÿ8Ï›‰û¼,H¶ˆRMINORZ
+CODE_SMELL
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(Šèòü8âõ¼,H·ˆRMAJORZ
+CODE_SMELL
+vsquid:S1854"<Remove this useless assignment to local variable "filePath".(Þª‹Øûÿÿÿÿ8Ï›‰û¼,H¸ˆRMAJORZ
+CODE_SMELL
+r
+squid:S106 "9Replace this use of System.out or System.err by a logger.(òÙŸÑÿÿÿÿÿ8ûÂ¾ú¼,H¹ˆRMAJORZ
+CODE_SMELL
+gsquid:S1481"-Remove this unused "filePath" local variable.(Þª‹Øûÿÿÿÿ8Ï›‰û¼,HºˆRMINORZ
+CODE_SMELL

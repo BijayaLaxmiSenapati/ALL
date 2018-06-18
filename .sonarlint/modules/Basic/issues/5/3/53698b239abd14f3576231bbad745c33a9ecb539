@@ -1,0 +1,32 @@
+
+l
+squid:S106B"9Replace this use of System.out or System.err by a logger.(ƒÎ8ÿİˆ»,HóVRMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(¼îšìşÿÿÿÿ8¡¨Ğƒ»,HğVRMAJORZ
+CODE_SMELL
+l
+squid:S106,"9Replace this use of System.out or System.err by a logger.(äîÄÄ8¯¶¥ƒ»,HòVRMAJORZ
+CODE_SMELL
+bsquid:S1125/")Remove the literal "false" boolean value.(âÇ²Ğøÿÿÿÿ8¿•±ƒ»,HôVRMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(­æ“8øé°ˆ»,HêVRMAJORZ
+CODE_SMELL
+q
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ûÃÖ‚»,HíVRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¼†¬8üÄºƒ»,HïVRMAJORZ
+CODE_SMELL
+q
+squid:S106<"9Replace this use of System.out or System.err by a logger.(²‘·ûÿÿÿÿ8ı§„»,HîVRMAJORZ
+CODE_SMELL
+Osquid:S1643;"Use a StringBuilder instead.(³‹²/8è¯…ˆ»,HìVRMINORZ
+CODE_SMELL
+q
+squid:S106>"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ı§„»,HëVRMAJORZ
+CODE_SMELL
+q
+squid:S106("9Replace this use of System.out or System.err by a logger.(²‘·ûÿÿÿÿ8í¤ß‚»,HñVRMAJORZ
+CODE_SMELL
+q
+squid:S1065"9Replace this use of System.out or System.err by a logger.(¡ùíóÿÿÿÿÿ8ı§„»,HéVRMAJORZ
+CODE_SMELL

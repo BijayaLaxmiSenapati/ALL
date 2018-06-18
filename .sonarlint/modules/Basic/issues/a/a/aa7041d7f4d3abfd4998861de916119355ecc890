@@ -1,0 +1,5 @@
+
+ªsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(—øˆØøÿÿÿÿ8 €Ø¼,Hˆ‚RMINORZ
+CODE_SMELL
+®squid:S1319"tThe type of the "arraylist" object should be an interface such as "List" rather than the implementation "ArrayList".(˜¿üùÿÿÿÿ8 €Ø¼,H‰‚RMINORZ
+CODE_SMELL

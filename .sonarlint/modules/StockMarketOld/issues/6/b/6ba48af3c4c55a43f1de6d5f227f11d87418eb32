@@ -1,0 +1,52 @@
+
+wsquid:S2095Ö"HUse try-with-resources or close this "FileReader" in a "finally" clause.(­îüâûÿÿÿÿH«¨RBLOCKERZBUG
+Ysquid:S1148}"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿH¼¨RMINORZVULNERABILITY
+§squid:S1319‡"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(ƒ±óé8·øÌæ¿,Hô¨RMINORZ
+CODE_SMELL
+€squid:CallToDeprecatedMethodk"<Remove this use of "DefaultPrettyPrinter"; it is deprecated.(ŠÀô’øÿÿÿÿH·¨RMINORZ
+CODE_SMELL
+vsquid:S2095×"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Ó¨‘¢Hª¨RBLOCKERZBUG
+l
+squid:S106ß"9Replace this use of System.out or System.err by a logger.(¢ÿ¸¯ùÿÿÿÿH³¨RMAJORZ
+CODE_SMELL
+¥squid:S1319¥"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(˜úÏ‚ûÿÿÿÿH®¨RMINORZ
+CODE_SMELL
+xsquid:S2147z"ECombine this catch with the one at line 112, which has the same body.(É˜ÙŽúÿÿÿÿH¹¨RMINORZ
+CODE_SMELL
+ssquid:S2147u"ECombine this catch with the one at line 112, which has the same body.(ŒŠ•°H¸¨RMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿH¬¨RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(ò¶ºžÿÿÿÿÿH°¨RMAJORZ
+CODE_SMELL
+Ysquid:S1148x"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿH»¨RMINORZVULNERABILITY
+g
+squid:S106ü"9Replace this use of System.out or System.err by a logger.(òÂÈÅH¶¨RMAJORZ
+CODE_SMELL
+†squid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8£Äæ¿,HÈ¨RMAJORZ
+CODE_SMELL
+s
+squid:S106‘"9Replace this use of System.out or System.err by a logger.(¸ª¢žýÿÿÿÿ8·øÌæ¿,Hõ¨RMAJORZ
+CODE_SMELL
+l
+squid:S106ø"9Replace this use of System.out or System.err by a logger.(¢ÿ¸¯ùÿÿÿÿHµ¨RMAJORZ
+CODE_SMELL
+§squid:S1319¹"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(Õþ»ý8ûäÒæ¿,H©RMINORZ
+CODE_SMELL
+Ksquid:S1643Ú"Use a StringBuilder instead.(à·ñÈH§¨RMINORZ
+CODE_SMELL
+l
+squid:S106Ç"9Replace this use of System.out or System.err by a logger.(á¨‰þÿÿÿÿH²¨RMAJORZ
+CODE_SMELL
+g
+squid:S106ã"9Replace this use of System.out or System.err by a logger.(òÂÈÅH´¨RMAJORZ
+CODE_SMELL
+wsquid:S2095ñ"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(‚ô‘‰ùÿÿÿÿH¨¨RBLOCKERZBUG
+…squid:S00119¥"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(˜úÏ‚ûÿÿÿÿ8ç’Èæ¿,HÜ¨RMINORZ
+CODE_SMELL
+Ysquid:S1148s"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHº¨RMINORZVULNERABILITY
+l
+squid:S106¯"9Replace this use of System.out or System.err by a logger.(¸ª¢žýÿÿÿÿH±¨RMAJORZ
+CODE_SMELL
+{squid:S2095ò"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(èº¬›ûÿÿÿÿH©¨RBLOCKERZBUG

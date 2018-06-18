@@ -1,0 +1,25 @@
+
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ç¢‚ğûÿÿÿÿ8ÿÒûÕ¼,HÿRMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(úÜ‘Šÿÿÿÿÿ8ÛàË×¼,H€‚RMAJORZ
+CODE_SMELL
+İ%squid:RedundantThrowsDeclarationCheck"ˆRemove the declaration of thrown exception 'org.codehaus.jackson.map.JsonMappingException' which is a subclass of 'java.io.IOException'.(ÉÜ›Öşÿÿÿÿ8Æª£Ø¼,H‚RMINORZ
+CODE_SMELL
+m
+squid:S1065"9Replace this use of System.out or System.err by a logger.(¬šÔû8Ì„ıØ¼,H‚‚RMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(·øÜ²ûÿÿÿÿ8òûÁÖ¼,Hƒ‚RMAJORZ
+CODE_SMELL
+{squid:S1075"ARefactor your code to get this URI from a customizable parameter.(„Îœíûÿÿÿÿ8Ü‘¢Ø¼,H„‚RMINORZ
+CODE_SMELL
+Ü%squid:RedundantThrowsDeclarationCheck"‡Remove the declaration of thrown exception 'org.codehaus.jackson.JsonGenerationException' which is a subclass of 'java.io.IOException'.(ÉÜ›Öşÿÿÿÿ8Æª£Ø¼,H…‚RMINORZ
+CODE_SMELL
+r
+squid:S1062"9Replace this use of System.out or System.err by a logger.(üœ­“ıÿÿÿÿ8ËŞúØ¼,H†‚RMAJORZ
+CODE_SMELL
+r
+squid:S106!"9Replace this use of System.out or System.err by a logger.(û†‹îÿÿÿÿÿ8ºÄíÖ¼,H‡‚RMAJORZ
+CODE_SMELL
