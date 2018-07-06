@@ -13,6 +13,7 @@ public class Employee
 	public void setPassword(String password) {
 		this.password = password;
 	}
+	
 	public String getName() {
 		return name;
 	}
@@ -36,6 +37,11 @@ public class Employee
 	}
 	public void setEmailId(String emailId) {
 		this.emailId = emailId;
+	}
+	@Override
+	public String toString() {
+		return "Employee [name=" + name + ", age=" + age + ", phoneNumber=" + phoneNumber + ", emailId=" + emailId
+				+ ", password=" + password + "]";
 	}
 
 }

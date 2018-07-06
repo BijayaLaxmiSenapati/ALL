@@ -1,0 +1,61 @@
+
+Œsquid:S2077d"RUse a variable binding mechanism to construct this query instead of concatenation.(ĞŒœ8àê¹Á,H‡ÉRCRITICALZVULNERABILITY
+m
+squid:S1062"9Replace this use of System.out or System.err by a logger.(Äñ³¡8½Á‹†Â,HˆÉRMAJORZ
+CODE_SMELL
+m
+squid:S1068"9Replace this use of System.out or System.err by a logger.(éÄ²Ÿ8†‘ëºÁ,H‰ÉRMAJORZ
+CODE_SMELL
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š¢º„8¾ƒ¸·Á,HŠÉRMAJORZ
+CODE_SMELL
+m
+squid:S106h"9Replace this use of System.out or System.err by a logger.(€ü›¢8¾ƒ¸·Á,H‹ÉRMAJORZ
+CODE_SMELL
+m
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(ÆÄÀç8¾ƒ¸·Á,HŒÉRMAJORZ
+CODE_SMELL
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÆÄÀç8Ø©ƒ»Á,HÉRMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(ß½¢ßúÿÿÿÿ8½Á‹†Â,HÉRMAJORZ
+CODE_SMELL
+m
+squid:S106S"9Replace this use of System.out or System.err by a logger.(ÌÉ£Ò8««“»Á,HÉRMAJORZ
+CODE_SMELL
+r
+squid:S106l"9Replace this use of System.out or System.err by a logger.(º³Ìöúÿÿÿÿ8†‘ëºÁ,HÉRMAJORZ
+CODE_SMELL
+`squid:S1148r"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ò ²ºÁ,H‘ÉRMINORZVULNERABILITY
+m
+squid:S106/"9Replace this use of System.out or System.err by a logger.(ğ“8½Á‹†Â,H’ÉRMAJORZ
+CODE_SMELL
+m
+squid:S106W"9Replace this use of System.out or System.err by a logger.(Š¢º„8¾ƒ¸·Á,H“ÉRMAJORZ
+CODE_SMELL
+l
+squid:S1061"9Replace this use of System.out or System.err by a logger.(Éº¢B8½Á‹†Â,H”ÉRMAJORZ
+CODE_SMELL
+l
+squid:S106:"9Replace this use of System.out or System.err by a logger.(—Áø`8¾ƒ¸·Á,H•ÉRMAJORZ
+CODE_SMELL
+r
+squid:S106U"9Replace this use of System.out or System.err by a logger.(À·¯•úÿÿÿÿ8««“»Á,H–ÉRMAJORZ
+CODE_SMELL
+m
+squid:S106""9Replace this use of System.out or System.err by a logger.(ï™ªÇ8¾ƒ¸·Á,H—ÉRMAJORZ
+CODE_SMELL
+m
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(ÙÍÎ8««“»Á,H˜ÉRMAJORZ
+CODE_SMELL
+r
+squid:S1069"9Replace this use of System.out or System.err by a logger.(‰‡…ˆüÿÿÿÿ8¾ƒ¸·Á,H™ÉRMAJORZ
+CODE_SMELL
+`squid:S1148H"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8àê¹Á,HšÉRMINORZVULNERABILITY
+l
+squid:S1060"9Replace this use of System.out or System.err by a logger.(Ğ²B8½Á‹†Â,H›ÉRMAJORZ
+CODE_SMELL
+squid:S2077"RUse a variable binding mechanism to construct this query instead of concatenation.(øÕÉ‰8Ò ²ºÁ,HœÉRCRITICALZVULNERABILITY
+l
+squid:S106."9Replace this use of System.out or System.err by a logger.(ºı§m8½Á‹†Â,HÉRMAJORZ
+CODE_SMELL

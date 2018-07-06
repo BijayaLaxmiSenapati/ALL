@@ -1,0 +1,16 @@
+
+r
+squid:S106-"9Replace this use of System.out or System.err by a logger.(™ü¡ûÿÿÿÿ8İ´ÂØÃ,H¶İRMAJORZ
+CODE_SMELL
+osquid:S2259,"AA "NullPointerException" could be thrown; "con" is nullable here.(³Â–ü8İ´ÂØÃ,H·İRMAJORZBUG
+`squid:S1148a"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8İ´ÂØÃ,H»İRMINORZVULNERABILITY
+`squid:S1148@"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8İ´ÂØÃ,H¸İRMINORZVULNERABILITY
+…squid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(şµäÉúÿÿÿÿ8İ´ÂØÃ,H´İRMAJORZ
+CODE_SMELL
+‰squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬™•H¨İRMINORZ
+CODE_SMELL
+`squid:S1148V"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8İ´ÂØÃ,HºİRMINORZVULNERABILITY
+squid:S2068"U'password' detected in this expression, review this potentially hardcoded credential.(ÙœÂ›8İ´ÂØÃ,H³İRBLOCKERZVULNERABILITY
+€squid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(†€éˆ8İ´ÂØÃ,HµİRMAJORZ
+CODE_SMELL
+`squid:S1148K"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8İ´ÂØÃ,H¹İRMINORZVULNERABILITY

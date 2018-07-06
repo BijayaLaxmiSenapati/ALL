@@ -1,0 +1,18 @@
+
+m
+squid:S106%"9Replace this use of System.out or System.err by a logger.(£·®8ò‡ŞØÂ,H¬ÎRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¨ïö68éë¼Â,HŞÌRMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(Û‚¸œúÿÿÿÿ8ì•ÙÂ,HÆÎRMAJORZ
+CODE_SMELL
+`squid:S1481"&Remove this unused "c" local variable.(ˆÆ§Êúÿÿÿÿ8Ÿˆ„¿Â,HãÌRMINORZ
+CODE_SMELL
+}squid:UselessImportCheck";Remove this unused import 'java.lang.reflect.TypeVariable'.(¯­å„8Ùêº¿Â,HçÌRMINORZ
+CODE_SMELL
+xsquid:UselessImportCheck"7Remove this unused import 'java.lang.reflect.Modifier'.(×£Ğ68‡”ØÂ,H÷ÍRMINORZ
+CODE_SMELL
+‚squid:UselessImportCheck
+";Remove this unused import 'com.mysql.cj.core.result.Field'.(Â—öÍùÿÿÿÿ8±¡ã¿Â,HåÌRMINORZ
+CODE_SMELL
+`squid:S1148*"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8™ÄŸ¾Â,HáÌRMINORZVULNERABILITY

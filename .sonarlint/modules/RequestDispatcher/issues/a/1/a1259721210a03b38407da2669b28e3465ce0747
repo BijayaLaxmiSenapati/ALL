@@ -1,0 +1,8 @@
+
+_squid:S1989"'Add a "try/catch" block for "parseInt".(çŒñø8¾ÄŞƒÆ,H¢íRMINORZVULNERABILITY
+xsquid:S2095 "HUse try-with-resources or close this "Connection" in a "finally" clause.(ÙœÂ›8¾ÄŞƒÆ,H—íRBLOCKERZBUG
+squid:S2068 "U'password' detected in this expression, review this potentially hardcoded credential.(ÙœÂ›8¾ÄŞƒÆ,H“íRBLOCKERZVULNERABILITY
+`squid:S1148("#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¾ÄŞƒÆ,HŸíRMINORZVULNERABILITY
+squid:S2095""OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(„Õ‘8¾ÄŞƒÆ,H–íRBLOCKERZBUG
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(“ğã|8øÎìƒÆ,H£íRMAJORZ
+CODE_SMELL

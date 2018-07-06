@@ -1,0 +1,13 @@
+
+m
+squid:S106("9Replace this use of System.out or System.err by a logger.(ώÿ½Η8©ώÿÒΓ,H‚ΫRMAJORZ
+CODE_SMELL
+`squid:S1148+"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8©ώÿÒΓ,H„ΫRMINORZVULNERABILITY
+squid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ιγΖμωÿÿÿÿ8©ώÿÒΓ,HƒΫRMINORZ
+CODE_SMELL
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(°ζ™Ϊ8©ώÿÒΓ,HΫRMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(£¶Νϋψÿÿÿÿ8©ώÿÒΓ,H€ΫRMAJORZ
+CODE_SMELL

@@ -1,48 +1,48 @@
 
-bsquid:S1125$")Remove the literal "false" boolean value.( •æÆüÿÿÿÿ8ş•ƒ¹,HURMINORZ
+m
+squid:S106,"9Replace this use of System.out or System.err by a logger.(¦Ñã®8ÿ Ñ¼·,H”ÆRMAJORZ
 CODE_SMELL
-msquid:S1197"8Move the array designator from the variable to the type.(İí–£8ØêÔŠ»,HURMINORZ
+squid:S1192)"YDefine a constant instead of duplicating this literal "________________________" 4 times.(É¯¸i8ØêÔŠ»,H•ÆRCRITICALZ
 CODE_SMELL
-l
-squid:S106*"9Replace this use of System.out or System.err by a logger.(¦²¼ë8ª²«¿·,HURMAJORZ
+rsquid:S1197n"8Move the array designator from the variable to the type.(‚ªô”ûÿÿÿÿ8ØêÔŠ»,H–ÆRMINORZ
 CODE_SMELL
-k
-squid:S106E"9Replace this use of System.out or System.err by a logger.(É¯¸i8ØêÔŠ»,H‘URMAJORZ
+csquid:S1125.")Remove the literal "false" boolean value.(ê¹¥Èúÿÿÿÿ8ºÚªƒ¹,H—ÆRMINORZ
 CODE_SMELL
-qsquid:S1197w"8Move the array designator from the variable to the type.(Â¨ßîıÿÿÿÿ8ØêÔŠ»,H’URMINORZ
+csquid:S1125?")Remove the literal "false" boolean value.(ê¹¥Èúÿÿÿÿ8Ÿ©ƒ¹,H˜ÆRMINORZ
 CODE_SMELL
-squid:S1192)"YDefine a constant instead of duplicating this literal "________________________" 4 times.(É¯¸i8ØêÔŠ»,H“URCRITICALZ
+m
+squid:S106*"9Replace this use of System.out or System.err by a logger.(¦²¼ë8ª²«¿·,H™ÆRMAJORZ
 CODE_SMELL
-bsquid:S1125.")Remove the literal "false" boolean value.(ê¹¥Èúÿÿÿÿ8ºÚªƒ¹,H”URMINORZ
+rsquid:S1197w"8Move the array designator from the variable to the type.(Â¨ßîıÿÿÿÿ8ØêÔŠ»,HšÆRMINORZ
 CODE_SMELL
-bsquid:S1125?")Remove the literal "false" boolean value.(ê¹¥Èúÿÿÿÿ8Ÿ©ƒ¹,H•URMINORZ
-CODE_SMELL
-bsquid:S1125N")Remove the literal "false" boolean value.(ê¹¥Èúÿÿÿÿ8ºÚªƒ¹,H–URMINORZ
-CODE_SMELL
-msquid:S1197—"8Move the array designator from the variable to the type.(À§¹Œ8ØêÔŠ»,H—URMINORZ
-CODE_SMELL
-‹
-squid:S135J"YReduce the total number of break and continue statements in this loop to use at most one.(¤èÄ78ŸûÆ½·,H˜URMINORZ
+m
+squid:S106a"9Replace this use of System.out or System.err by a logger.(¸Ì½Ï8ª²«¿·,H›ÆRMAJORZ
 CODE_SMELL
 l
-squid:S106a"9Replace this use of System.out or System.err by a logger.(¸Ì½Ï8ª²«¿·,H™URMAJORZ
+squid:S106T"9Replace this use of System.out or System.err by a logger.(É¯¸i8ØêÔŠ»,HœÆRMAJORZ
 CODE_SMELL
-‰squid:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ÛÛ¯ø8ÿ Ñ¼·,HšURCRITICALZ
+csquid:S1125$")Remove the literal "false" boolean value.( •æÆüÿÿÿÿ8ş•ƒ¹,HÆRMINORZ
 CODE_SMELL
-qsquid:S1197n"8Move the array designator from the variable to the type.(‚ªô”ûÿÿÿÿ8ØêÔŠ»,H›URMINORZ
+nsquid:S1197—"8Move the array designator from the variable to the type.(À§¹Œ8ØêÔŠ»,HÆRMINORZ
 CODE_SMELL
-k
-squid:S106)"9Replace this use of System.out or System.err by a logger.(É¯¸i8ØêÔŠ»,HœURMAJORZ
-CODE_SMELL
-k
-squid:S1064"9Replace this use of System.out or System.err by a logger.(É¯¸i8ØêÔŠ»,HURMAJORZ
-CODE_SMELL
-k
-squid:S106T"9Replace this use of System.out or System.err by a logger.(É¯¸i8ØêÔŠ»,HURMAJORZ
-CODE_SMELL
-q
-squid:S106e"9Replace this use of System.out or System.err by a logger.(Ììşúùÿÿÿÿ8ª²«¿·,HŸURMAJORZ
+nsquid:S1197"8Move the array designator from the variable to the type.(İí–£8ØêÔŠ»,HŸÆRMINORZ
 CODE_SMELL
 l
-squid:S106,"9Replace this use of System.out or System.err by a logger.(¦Ñã®8ÿ Ñ¼·,H URMAJORZ
+squid:S106)"9Replace this use of System.out or System.err by a logger.(É¯¸i8ØêÔŠ»,H ÆRMAJORZ
+CODE_SMELL
+l
+squid:S1064"9Replace this use of System.out or System.err by a logger.(É¯¸i8ØêÔŠ»,H¡ÆRMAJORZ
+CODE_SMELL
+r
+squid:S106e"9Replace this use of System.out or System.err by a logger.(Ììşúùÿÿÿÿ8ª²«¿·,H¢ÆRMAJORZ
+CODE_SMELL
+csquid:S1125N")Remove the literal "false" boolean value.(ê¹¥Èúÿÿÿÿ8ºÚªƒ¹,H£ÆRMINORZ
+CODE_SMELL
+Œ
+squid:S135J"YReduce the total number of break and continue statements in this loop to use at most one.(¤èÄ78ŸûÆ½·,H¤ÆRMINORZ
+CODE_SMELL
+l
+squid:S106E"9Replace this use of System.out or System.err by a logger.(É¯¸i8ØêÔŠ»,H¥ÆRMAJORZ
+CODE_SMELL
+Šsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ÛÛ¯ø8ÿ Ñ¼·,H¦ÆRCRITICALZ
 CODE_SMELL

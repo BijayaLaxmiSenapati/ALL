@@ -1,0 +1,12 @@
+
+`squid:S11483"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8õ¥ıçÂ,HçÜRMINORZVULNERABILITY
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©œûİ8ù¨éçÂ,HèÜRMINORZ
+CODE_SMELL
+`squid:S1148D"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ù×ÿçÂ,HéÜRMINORZVULNERABILITY
+ssquid:S2259"EA "NullPointerException" could be thrown; "mysqlDs" is nullable here.(öÔ¦Ü8õ¥ıçÂ,HêÜRMAJORZBUG
+`squid:S11485"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8õ¥ıçÂ,HëÜRMINORZVULNERABILITY
+ysquid:S21474"DCombine this catch with the one at line 50, which has the same body.(É®£8õ¥ıçÂ,HìÜRMINORZ
+CODE_SMELL
+`squid:S1148""#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8õ¥ıçÂ,HíÜRMINORZVULNERABILITY
+tsquid:S1118":Add a private constructor to hide the implicit public one.(ñÒ£¯ıÿÿÿÿ8õ¥ıçÂ,HîÜRMAJORZ
+CODE_SMELL

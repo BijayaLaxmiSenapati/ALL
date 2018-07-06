@@ -1,0 +1,22 @@
+
+r
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8üûÅ,HšëRMAJORZ
+CODE_SMELL
+_squid:S1989&"'Add a "try/catch" block for "parseInt".(š‚Œë8³ íøÅ,H—ëRMINORZVULNERABILITY
+osquid:S1161"":Add the "@Override" annotation above this method signature(§œ×ä8®ß¬ûÅ,HëRMAJORZ
+CODE_SMELL
+esquid:S1989)"(Add a "try/catch" block for "getWriter".(ïô†úÿÿÿÿ8ø©ùÅ,H ëRMINORZVULNERABILITY
+dsquid:S1135#"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHŸëRINFOZ
+CODE_SMELL
+¹squid:S1186."€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰€€¡8½ê—úÅ,H™ëRCRITICALZ
+CODE_SMELL
+_squid:S1989'"'Add a "try/catch" block for "parseInt".(‰ Õú8ø©ùÅ,H–ëRMINORZVULNERABILITY
+r
+squid:S106%"9Replace this use of System.out or System.err by a logger.(¢ş„˜øÿÿÿÿ8üûÅ,HœëRMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ı«ã¾8Ç«‰øÅ,HëRMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ƒ àîşÿÿÿÿ8²£‡şÅ,H­ëRMAJORZ
+CODE_SMELL
+fsquid:S1135"2Complete the task associated to this TODO comment.(õáŒï8²£‡şÅ,H®ëRINFOZ
+CODE_SMELL

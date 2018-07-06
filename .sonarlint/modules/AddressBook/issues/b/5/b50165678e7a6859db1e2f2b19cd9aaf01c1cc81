@@ -1,0 +1,32 @@
+
+†squid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(Š–Ä‡úÿÿÿÿ8È„Å,HÏçRMAJORZ
+CODE_SMELL
+`squid:S1148z"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8È„Å,HÒçRMINORZVULNERABILITY
+zsquid:S2147r"ECombine this catch with the one at line 109, which has the same body.(ŒŠ•°8È„Å,HÔçRMINORZ
+CODE_SMELL
+`squid:S1148u"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ËÿˆÅ,HÚçRMINORZVULNERABILITY
+¥squid:S1319€"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(ÏÆ8È„Å,HÑçRMINORZ
+CODE_SMELL
+s
+squid:S106£"9Replace this use of System.out or System.err by a logger.(á¨‰þÿÿÿÿ8È„Å,HÌçRMAJORZ
+CODE_SMELL
+s
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(¼‘çŸùÿÿÿÿ8È„Å,HÓçRMAJORZ
+CODE_SMELL
+¦squid:S1319€"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÏÆ8È„Å,HÕçRMINORZ
+CODE_SMELL
+`squid:S1148Y"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8È„Å,HÖçRMINORZVULNERABILITY
+«squid:S1319•"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(üÉ£½úÿÿÿÿ8È„Å,HËçRMINORZ
+CODE_SMELL
+r
+squid:S106|"9Replace this use of System.out or System.err by a logger.(ò¶ºžÿÿÿÿÿ8È„Å,HÎçRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(†€éˆ8È„Å,HÐçRMAJORZ
+CODE_SMELL
+tsquid:S1118":Add a private constructor to hide the implicit public one.(Ñªí£ùÿÿÿÿ8È„Å,HÍçRMAJORZ
+CODE_SMELL
+squid:S2147w"ECombine this catch with the one at line 109, which has the same body.(É˜ÙŽúÿÿÿÿ8È„Å,H×çRMINORZ
+CODE_SMELL
+`squid:S1148p"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ËÿˆÅ,HÙçRMINORZVULNERABILITY
+‡squid:CallToDeprecatedMethodh"<Remove this use of "DefaultPrettyPrinter"; it is deprecated.(ŠÀô’øÿÿÿÿ8ËÿˆÅ,HØçRMINORZ
+CODE_SMELL

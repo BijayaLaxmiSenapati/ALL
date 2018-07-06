@@ -1,0 +1,19 @@
+
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(…çý›ùÿÿÿÿ8õ§ïºÂ,HæÍRMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ï°ó²ùÿÿÿÿ8õ§ïºÂ,HçÍRMAJORZ
+CODE_SMELL
+¢"squid:ClassVariableVisibilityCheck"SMake baseInt a static final constant or non-public and provide accessors if needed.(ˆçøž8õ§ïºÂ,HèÍRMINORZVULNERABILITY
+r
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(æÙó²ýÿÿÿÿ8õ§ïºÂ,HéÍRMAJORZ
+CODE_SMELL
+osquid:UnusedPrivateMethod",Remove this unused private "method3" method.(¹¤•á8õ§ïºÂ,HêÍRMAJORZ
+CODE_SMELL
+|squid:S2094"BRemove this empty class, write its code or make it an "interface".(ÌÎÉìúÿÿÿÿ8…úñºÂ,HëÍRMINORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬Ñ¼½øÿÿÿÿ8õ§ïºÂ,HìÍRMAJORZ
+CODE_SMELL

@@ -1,0 +1,15 @@
+
+ƒsquid:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Áÿ¼µHÂ¿RBLOCKERZ
+CODE_SMELL
+ƒsquid:S2975,"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Áÿ¼µHÃ¿RBLOCKERZ
+CODE_SMELL
+k
+squid:S106M"9Replace this use of System.out or System.err by a logger.(åãå¨þÿÿÿÿHÄ¿RMAJORZ
+CODE_SMELL
+k
+squid:S106U"9Replace this use of System.out or System.err by a logger.(åãå¨þÿÿÿÿHÅ¿RMAJORZ
+CODE_SMELL
+msquid:S2259Q"FA "NullPointerException" could be thrown; "student2" is nullable here.(±°ÞÚHÆ¿RMAJORZBUG
+Vsquid:S1185"(Remove this method to simply inherit it.(Áÿ¼µHÇ¿RMINORZ
+CODE_SMELL
+Ysquid:S1148H"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHÈ¿RMINORZVULNERABILITY

@@ -1,0 +1,18 @@
+
+ysquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(ƒ„ñîHùöRMAJORZ
+CODE_SMELL
+ysquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(ÔºÉãHúöRMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(‡Å³ûÿÿÿÿHûöRMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(“¤ìøúÿÿÿÿHüöRMAJORZ
+CODE_SMELL
+f
+squid:S106"9Replace this use of System.out or System.err by a logger.(ó÷¨äHýöRMAJORZ
+CODE_SMELL
+k
+squid:S1065"9Replace this use of System.out or System.err by a logger.(¡Ž§·üÿÿÿÿHþöRMAJORZ
+CODE_SMELL
+msquid:S1118":Add a private constructor to hide the implicit public one.(©­ä†ÿÿÿÿÿHÿöRMAJORZ
+CODE_SMELL
+Tsquid:S11487"#Use a logger to log this exception.(á Ÿ‚H€÷RMINORZVULNERABILITY

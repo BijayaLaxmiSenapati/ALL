@@ -1,0 +1,32 @@
+
+r
+squid:S106|"9Replace this use of System.out or System.err by a logger.(ò¶ºÿÿÿÿÿ8Ñ®æÂ,HëäRMAJORZ
+CODE_SMELL
+`squid:S1148p"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ä®œèÂ,HìäRMINORZVULNERABILITY
+`squid:S1148z"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ñ®æÂ,HíäRMINORZVULNERABILITY
+s
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(¼‘çŸùÿÿÿÿ8Ñ®æÂ,HîäRMAJORZ
+CODE_SMELL
+tsquid:S1118":Add a private constructor to hide the implicit public one.(Ñªí£ùÿÿÿÿ8ŒÔ”àÂ,HïäRMAJORZ
+CODE_SMELL
+zsquid:S2147r"ECombine this catch with the one at line 109, which has the same body.(ŒŠ•°8Ñ®æÂ,HğäRMINORZ
+CODE_SMELL
+`squid:S1148Y"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ŒÔ”àÂ,HñäRMINORZVULNERABILITY
+†squid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(Š–Ä‡úÿÿÿÿ8Ñ®æÂ,HòäRMAJORZ
+CODE_SMELL
+«squid:S1319•"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(üÉ£½úÿÿÿÿ8Ñ®æÂ,HóäRMINORZ
+CODE_SMELL
+‡squid:CallToDeprecatedMethodh"<Remove this use of "DefaultPrettyPrinter"; it is deprecated.(ŠÀô’øÿÿÿÿ8ä®œèÂ,HôäRMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(†€éˆ8¦øÑ¸Ã,HõäRMAJORZ
+CODE_SMELL
+squid:S2147w"ECombine this catch with the one at line 109, which has the same body.(É˜Ùúÿÿÿÿ8Ñ®æÂ,HöäRMINORZ
+CODE_SMELL
+¦squid:S1319€"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÏÆ8Ñ®æÂ,H÷äRMINORZ
+CODE_SMELL
+¥squid:S1319€"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(ÏÆ8Ñ®æÂ,HøäRMINORZ
+CODE_SMELL
+s
+squid:S106£"9Replace this use of System.out or System.err by a logger.(á¨‰şÿÿÿÿ8Ñ®æÂ,HùäRMAJORZ
+CODE_SMELL
+`squid:S1148u"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ä®œèÂ,HúäRMINORZVULNERABILITY

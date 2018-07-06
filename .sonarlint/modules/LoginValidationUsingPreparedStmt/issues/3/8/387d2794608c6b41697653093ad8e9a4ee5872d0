@@ -1,0 +1,52 @@
+
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(фдюГ8ялы╫а,HмхRMAJORZ
+CODE_SMELL
+l
+squid:S1061"9Replace this use of System.out or System.err by a logger.(≈аЬ`8ялы╫а,HнхRMAJORZ
+CODE_SMELL
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(┼╒╨└8ялы╫а,HохRMAJORZ
+CODE_SMELL
+l
+squid:S106("9Replace this use of System.out or System.err by a logger.(и╨╒B8онф╪а,HпхRMAJORZ
+CODE_SMELL
+m
+squid:S106)"9Replace this use of System.out or System.err by a logger.(дЯЁ║8ялы╫а,HяхRMAJORZ
+CODE_SMELL
+`squid:S1148b"#Use a logger to log this exception.(─ит┘ЩЪЪЪЪ8ялы╫а,HрхRMINORZVULNERABILITY
+▓squid:S2077]"RUse a variable binding mechanism to construct this query instead of concatenation.(оъгоЧЪЪЪЪ8┌ЮЩ╫а,HсхRCRITICALZVULNERABILITY
+r
+squid:S1060"9Replace this use of System.out or System.err by a logger.(┴┤┘┬ЭЪЪЪЪ8онф╪а,HтхRMAJORZ
+CODE_SMELL
+m
+squid:S106G"9Replace this use of System.out or System.err by a logger.(│ымн8онф╪а,HухRMAJORZ
+CODE_SMELL
+l
+squid:S106%"9Replace this use of System.out or System.err by a logger.(╨Щ╖m8онф╪а,HжхRMAJORZ
+CODE_SMELL
+r
+squid:S106K"9Replace this use of System.out or System.err by a logger.(ю╥╞∙ЗЪЪЪЪ8онф╪а,HвхRMAJORZ
+CODE_SMELL
+m
+squid:S106O"9Replace this use of System.out or System.err by a logger.(фдюГ8онф╪а,HьхRMAJORZ
+CODE_SMELL
+m
+squid:S106I"9Replace this use of System.out or System.err by a logger.(лиёр8онф╪а,HыхRMAJORZ
+CODE_SMELL
+m
+squid:S106/"9Replace this use of System.out or System.err by a logger.(Ид╡÷8онф╪а,HзхRMAJORZ
+CODE_SMELL
+`squid:S1148?"#Use a logger to log this exception.(─ит┘ЩЪЪЪЪ8онф╪а,HшхRMINORZVULNERABILITY
+m
+squid:S106&"9Replace this use of System.out or System.err by a logger.(█▌П⌠8онф╪а,HэхRMAJORZ
+CODE_SMELL
+l
+squid:S106'"9Replace this use of System.out or System.err by a logger.(п█╡B8онф╪а,HщхRMAJORZ
+CODE_SMELL
+m
+squid:S106M"9Replace this use of System.out or System.err by a logger.(┼╒╨└8онф╪а,HчхRMAJORZ
+CODE_SMELL
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(О≥╙г8ялы╫а,HъхRMAJORZ
+CODE_SMELL

@@ -1,0 +1,60 @@
+
+r
+squid:S1069"9Replace this use of System.out or System.err by a logger.(£Š®úùÿÿÿÿ8ÚœÃÁ,H±ÆRMAJORZ
+CODE_SMELL
+r
+squid:S106<"9Replace this use of System.out or System.err by a logger.(’«™ ùÿÿÿÿ8ÚœÃÁ,HªÆRMAJORZ
+CODE_SMELL
+l
+squid:S106\"9Replace this use of System.out or System.err by a logger.(ÓúÍ98ÚœÃÁ,H¼ÆRMAJORZ
+CODE_SMELL
+^squid:S1125…"(Remove the literal "true" boolean value.(öË‰ê8ÚœÃÁ,HµÆRMINORZ
+CODE_SMELL
+r
+squid:S106H"9Replace this use of System.out or System.err by a logger.(Œóîÿÿÿÿÿÿ8ÚœÃÁ,H¸ÆRMAJORZ
+CODE_SMELL
+r
+squid:S106`"9Replace this use of System.out or System.err by a logger.(˜úïĞÿÿÿÿÿ8ÚœÃÁ,H¬ÆRMAJORZ
+CODE_SMELL
+r
+squid:S106E"9Replace this use of System.out or System.err by a logger.(˜úïĞÿÿÿÿÿ8ÚœÃÁ,H²ÆRMAJORZ
+CODE_SMELL
+m
+squid:S1067"9Replace this use of System.out or System.err by a logger.(¬¨Ÿú8ÚœÃÁ,H¨ÆRMAJORZ
+CODE_SMELL
+m
+squid:S106B"9Replace this use of System.out or System.err by a logger.(Çœùü8ÚœÃÁ,H·ÆRMAJORZ
+CODE_SMELL
+wsquid:S1126"AReplace this if-then-else statement by a single return statement.(¯¶ªİ8ÚœÃÁ,H»ÆRMINORZ
+CODE_SMELL
+m
+squid:S106#"9Replace this use of System.out or System.err by a logger.(¯‰¡Ö8ÚœÃÁ,H­ÆRMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÚœÃÁ,H´ÆRMAJORZ
+CODE_SMELL
+r
+squid:S106;"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÚœÃÁ,H¯ÆRMAJORZ
+CODE_SMELL
+m
+squid:S1061"9Replace this use of System.out or System.err by a logger.(ùŸºß8ÚœÃÁ,H°ÆRMAJORZ
+CODE_SMELL
+wsquid:S1126¤"AReplace this if-then-else statement by a single return statement.(íÓ½û8ÚœÃÁ,H«ÆRMINORZ
+CODE_SMELL
+wsquid:S1126™"AReplace this if-then-else statement by a single return statement.(½Ëç8ÚœÃÁ,H§ÆRMINORZ
+CODE_SMELL
+m
+squid:S106c"9Replace this use of System.out or System.err by a logger.(ú‰ü8ÚœÃÁ,H®ÆRMAJORZ
+CODE_SMELL
+¢ squid:ForLoopCounterChangedCheck""XRefactor the code in order to not assign to this loop counter from within the loop body.(ÌµĞ·8ÚœÃÁ,H¹ÆRMAJORZ
+CODE_SMELL
+r
+squid:S106("9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÚœÃÁ,H¶ÆRMAJORZ
+CODE_SMELL
+r
+squid:S106L"9Replace this use of System.out or System.err by a logger.(—¦‹†úÿÿÿÿ8ÚœÃÁ,H©ÆRMAJORZ
+CODE_SMELL
+wsquid:S1126…"AReplace this if-then-else statement by a single return statement.(öË‰ê8ÚœÃÁ,HºÆRMINORZ
+CODE_SMELL
+“squid:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(„äÂâÿÿÿÿÿ8ÚœÃÁ,H³ÆRMINORZ
+CODE_SMELL

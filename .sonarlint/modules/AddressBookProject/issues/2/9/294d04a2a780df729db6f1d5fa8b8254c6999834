@@ -1,0 +1,101 @@
+
+r"squid:SwitchLastCaseIsDefaultCheckÀ""Add a default case to this switch.(À¢Ó£8º¹ë¬Ã,H¼åRCRITICALZ
+CODE_SMELL
+`squid:S1148,"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¸ßß‘Ã,H¿åRMINORZVULNERABILITY
+n
+squid:S106º"9Replace this use of System.out or System.err by a logger.(—Û¦ÿ8º¹ë¬Ã,H—åRMAJORZ
+CODE_SMELL
+`squid:S1148:"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÐÃ èÂ,H˜åRMINORZVULNERABILITY
+m
+squid:S106O"9Replace this use of System.out or System.err by a logger.(Éþ–ü8û‰·´Ã,H–åRMAJORZ
+CODE_SMELL
+n
+squid:S106¿"9Replace this use of System.out or System.err by a logger.(ˆ÷Õ˜8øÐ½ÿÄ,HºåRMAJORZ
+CODE_SMELL
+`squid:S1148H"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÐÃ èÂ,H¥åRMINORZVULNERABILITY
+r
+squid:S106v"9Replace this use of System.out or System.err by a logger.(ÈÙ¦•úÿÿÿÿ8º¹ë¬Ã,H¬åRMAJORZ
+CODE_SMELL
+n
+squid:S106¾"9Replace this use of System.out or System.err by a logger.(–ôæÞ8º¹ë¬Ã,H£åRMAJORZ
+CODE_SMELL
+n
+squid:S106«"9Replace this use of System.out or System.err by a logger.(ø—Ð˜8À¸Æ·Ã,H®åRMAJORZ
+CODE_SMELL
+†squid:CommentedOutCodeLine˜"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8‚ÚáµÃ,HŸåRMAJORZ
+CODE_SMELL
+n
+squid:S106¹"9Replace this use of System.out or System.err by a logger.(·Ù’–8À…ûŒÃ,H¹åRMAJORZ
+CODE_SMELL
+s
+squid:S106Í"9Replace this use of System.out or System.err by a logger.(”±´Óùÿÿÿÿ8„Æ§‘Ã,HšåRMAJORZ
+CODE_SMELL
+s
+squid:S106Ö"9Replace this use of System.out or System.err by a logger.(õŸìÃûÿÿÿÿ8º¹ë¬Ã,H›åRMAJORZ
+CODE_SMELL
+n
+squid:S106ê"9Replace this use of System.out or System.err by a logger.(¦­§˜8º¹ë¬Ã,H³åRMAJORZ
+CODE_SMELL
+s
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(ÞØÐíûÿÿÿÿ8ÂÎÇ´Ã,H¤åRMAJORZ
+CODE_SMELL
+†squid:S1192È"HDefine a constant instead of duplicating this literal "update " 5 times.(úãùÂüÿÿÿÿ8ëä‘³Ã,H¡åRCRITICALZ
+CODE_SMELL
+r
+squid:S106F"9Replace this use of System.out or System.err by a logger.(ÑÒÙÜýÿÿÿÿ8ÕšŸ‹Ã,H•åRMAJORZ
+CODE_SMELL
+’squid:S2077i"RUse a variable binding mechanism to construct this query instead of concatenation.(àÂºâúÿÿÿÿ8ÅÄ‚‹Ã,H¢åRCRITICALZVULNERABILITY
+squid:CommentedOutCodeLineõ"<This block of commented-out lines of code should be removed.(ç‘¢‚8Òö¿©Ã,HªåRMAJORZ
+CODE_SMELL
+’squid:S2077E"RUse a variable binding mechanism to construct this query instead of concatenation.(í™”ÿÿÿÿÿ8è«‘êÂ,H°åRCRITICALZVULNERABILITY
+m
+squid:S106!"9Replace this use of System.out or System.err by a logger.(‘¤¡ƒ8ë§°éÂ,HÀåRMAJORZ
+CODE_SMELL
+s
+squid:S106ß"9Replace this use of System.out or System.err by a logger.(È®º©ûÿÿÿÿ8º¹ë¬Ã,H©åRMAJORZ
+CODE_SMELL
+`squid:S1148""#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8„Æ§‘Ã,HåRMINORZVULNERABILITY
+s
+squid:S106â"9Replace this use of System.out or System.err by a logger.(éÐ«þÿÿÿÿ8·–ÆºÃ,H·åRMAJORZ
+CODE_SMELL
+s
+squid:S106§"9Replace this use of System.out or System.err by a logger.(±¶ÈÅùÿÿÿÿ8ÂÎÇ´Ã,H±åRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(ÆÝºµ8ÃùÅ¶Ã,H™åRMAJORZ
+CODE_SMELL
+m
+squid:S106»"9Replace this use of System.out or System.err by a logger.(ïÓ…q8º¹ë¬Ã,H¨åRMAJORZ
+CODE_SMELL
+`squid:S1148a"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Ç€”êÂ,H¯åRMINORZVULNERABILITY
+asquid:S1148„"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÅÄ‚‹Ã,H«åRMINORZVULNERABILITY
+”squid:S1192È"VDefine a constant instead of duplicating this literal "' where firstName = '" 5 times.(úãùÂüÿÿÿÿ8Î­ŠýÄ,H²åRCRITICALZ
+CODE_SMELL
+†squid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(¾¤ƒýüÿÿÿÿ8½«ç·Ã,H§åRMAJORZ
+CODE_SMELL
+n
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(Ãü¤¥8º¹ë¬Ã,H¾åRMAJORZ
+CODE_SMELL
+m
+squid:S106y"9Replace this use of System.out or System.err by a logger.(»¾³È8û‰·´Ã,H åRMAJORZ
+CODE_SMELL
+s
+squid:S106¼"9Replace this use of System.out or System.err by a logger.(‡ÊÙ‰ýÿÿÿÿ8Èõ¶Ã,H½åRMAJORZ
+CODE_SMELL
+asquid:S1148Á"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8›Ï¢³Ã,HµåRMINORZVULNERABILITY
+s
+squid:S106¬"9Replace this use of System.out or System.err by a logger.(±¶ÈÅùÿÿÿÿ8º¹ë¬Ã,H¶åRMAJORZ
+CODE_SMELL
+n
+squid:S106½"9Replace this use of System.out or System.err by a logger.(Õž‹«8º¹ë¬Ã,H­åRMAJORZ
+CODE_SMELL
+s
+squid:S106Ã"9Replace this use of System.out or System.err by a logger.(÷Çõçùÿÿÿÿ8º¹ë¬Ã,H¸åRMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(ã¯¯œûÿÿÿÿ8«¿¿·Ã,H»åRMAJORZ
+CODE_SMELL
+`squid:S11483"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÐÃ èÂ,HžåRMINORZVULNERABILITY
+`squid:S1148z"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8«¿¿·Ã,H´åRMINORZVULNERABILITY
+s
+squid:S106Æ"9Replace this use of System.out or System.err by a logger.(éÐ«þÿÿÿÿ8×‘€ŒÃ,H¦åRMAJORZ
+CODE_SMELL
+`squid:S1148k"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÐÃ èÂ,HœåRMINORZVULNERABILITY

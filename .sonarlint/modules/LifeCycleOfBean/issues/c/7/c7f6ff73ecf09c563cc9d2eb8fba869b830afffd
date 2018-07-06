@@ -1,0 +1,20 @@
+
+À%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ØÛˆøÿÿÿÿ8¹‰ÄÒÄ,HıáRMINORZ
+CODE_SMELL
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(Îé­ì8ÉŒÎĞÄ,HëáRMAJORZ
+CODE_SMELL
+m
+squid:S106	"9Replace this use of System.out or System.err by a logger.(Ü·áå8¬“ÇĞÄ,HêáRMAJORZ
+CODE_SMELL
+squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ØÛˆøÿÿÿÿ8¹‰ÄÒÄ,HÿáRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼íà8µÍÑĞÄ,HìáRMAJORZ
+CODE_SMELL
+squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¼şàÌÿÿÿÿÿ8¹‰ÄÒÄ,H€âRMAJORZ
+CODE_SMELL
+À%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¼şàÌÿÿÿÿÿ8¹‰ÄÒÄ,HşáRMINORZ
+CODE_SMELL
+€squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ì‰8ñÜºÓÄ,H‘âRMAJORZ
+CODE_SMELL

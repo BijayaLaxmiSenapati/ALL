@@ -1,172 +1,167 @@
 
-n
-squid:S106"9Replace this use of System.out or System.err by a logger.(ãÎ×‡8ØœÔ½,Hõ¹RMAJORZ
+Šsquid:UselessImportCheck"CRemove this unused import 'java.util.concurrent.ConcurrentHashMap'.(ÓŠÓøúÿÿÿÿ8óßô½,H¦ØRMINORZ
 CODE_SMELL
 s
-squid:S106ô"9Replace this use of System.out or System.err by a logger.(‰©ÿşıÿÿÿÿ8•õ½,Hı¹RMAJORZ
+squid:S106’"9Replace this use of System.out or System.err by a logger.(Õíç×ùÿÿÿÿ8§üú½,H§ØRMAJORZ
+CODE_SMELL
+‹squid:UselessImportCheck"IRemove this unused import 'org.codehaus.jackson.JsonGenerationException'.(ÉÀ—8ØœÔ½,H¨ØRMINORZ
 CODE_SMELL
 n
-squid:S106»"9Replace this use of System.out or System.err by a logger.(ÉÑª€8¨Ô½,Hß¹RMAJORZ
+squid:S106Œ"9Replace this use of System.out or System.err by a logger.(ãÎ×‡8ØœÔ½,H©ØRMAJORZ
+CODE_SMELL
+n
+squid:S106Û"9Replace this use of System.out or System.err by a logger.(ÖÔóÙ8ØœÔ½,HªØRMAJORZ
 CODE_SMELL
 s
-squid:S106¼"9Replace this use of System.out or System.err by a logger.(‘ì°¤øÿÿÿÿ8ØœÔ½,HŠºRMAJORZ
-CODE_SMELL
-n
-squid:S106"9Replace this use of System.out or System.err by a logger.(ğŠØÎ8ØœÔ½,H÷¹RMAJORZ
-CODE_SMELL
-€squid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(ÃöË½8¼‰í½,Hå¹RMAJORZ
+squid:S106ù"9Replace this use of System.out or System.err by a logger.(È®º©ûÿÿÿÿ8ØœÔ½,H«ØRMAJORZ
 CODE_SMELL
 r
-squid:S106&"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ØœÔ½,Hô¹RMAJORZ
-CODE_SMELL
-n
-squid:S106—"9Replace this use of System.out or System.err by a logger.(Ò»¸¾8ŞÏµõ½,Hû¹RMAJORZ
-CODE_SMELL
-n
-squid:S106Û"9Replace this use of System.out or System.err by a logger.(âò±ƒ8ØœÔ½,Hé¹RMAJORZ
+squid:S1065"9Replace this use of System.out or System.err by a logger.(„…Ãùÿÿÿÿ8ØœÔ½,H¬ØRMAJORZ
 CODE_SMELL
 s
-squid:S106â"9Replace this use of System.out or System.err by a logger.(÷Çõçùÿÿÿÿ8§üú½,HºRMAJORZ
-CODE_SMELL
-n
-squid:S106ê"9Replace this use of System.out or System.err by a logger.(©×ªË8¨Ô½,Hâ¹RMAJORZ
-CODE_SMELL
-n
-squid:S106È"9Replace this use of System.out or System.err by a logger.(‰–8ØœÔ½,Hù¹RMAJORZ
-CODE_SMELL
-asquid:S1148ş"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ØœÔ½,HÙ¹RMINORZVULNERABILITY
-s
-squid:S106™"9Replace this use of System.out or System.err by a logger.(ŒšÆîÿÿÿÿÿ8ğŞÔ½,Hæ¹RMAJORZ
+squid:S106Æ"9Replace this use of System.out or System.err by a logger.(ú˜¾æøÿÿÿÿ8À¹–ßÂ,H­ØRMAJORZ
 CODE_SMELL
 s
-squid:S106‘"9Replace this use of System.out or System.err by a logger.(Øò‹ªúÿÿÿÿ8¨Ô½,H‘ºRMAJORZ
-CODE_SMELL
-l
-squid:S106="9Replace this use of System.out or System.err by a logger.(Â¯¦8ØœÔ½,Hú¹RMAJORZ
+squid:S106Ë"9Replace this use of System.out or System.err by a logger.(˜õà¨ıÿÿÿÿ8ØœÔ½,H®ØRMAJORZ
 CODE_SMELL
 r
-squid:S1069"9Replace this use of System.out or System.err by a logger.(Ïé Øıÿÿÿÿ8ØœÔ½,H€ºRMAJORZ
-CODE_SMELL
-l
-squid:S1068"9Replace this use of System.out or System.err by a logger.(©¯È8ØœÔ½,HŒºRMAJORZ
-CODE_SMELL
-€squid:CommentedOutCodeLineg"<This block of commented-out lines of code should be removed.(áÚÈ8‘ıû½,H†ºRMAJORZ
-CODE_SMELL
-r
-squid:S106?"9Replace this use of System.out or System.err by a logger.(§Ò¯«øÿÿÿÿ8¨Ô½,HˆºRMAJORZ
+squid:S106>"9Replace this use of System.out or System.err by a logger.(§Ò¯«øÿÿÿÿ8ØœÔ½,H¯ØRMAJORZ
 CODE_SMELL
 s
-squid:S106Ç"9Replace this use of System.out or System.err by a logger.(ú˜¾æøÿÿÿÿ8ÍÍÛñ½,Hİ¹RMAJORZ
-CODE_SMELL
-n
-squid:S106Ø"9Replace this use of System.out or System.err by a logger.(›±Î«8¨Ô½,Hö¹RMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(Øò‹ªúÿÿÿÿ8¨Ô½,H°ØRMAJORZ
 CODE_SMELL
 s
-squid:S106ú"9Replace this use of System.out or System.err by a logger.(È®º©ûÿÿÿÿ8ØœÔ½,HÜ¹RMAJORZ
-CODE_SMELL
-asquid:S1148±"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ØœÔ½,Hì¹RMINORZVULNERABILITY
-r
-squid:S106Y"9Replace this use of System.out or System.err by a logger.(œ¦Íşÿÿÿÿ8ØœÔ½,Hî¹RMAJORZ
-CODE_SMELL
-squid:UselessImportCheck":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8ØœÔ½,HºRMINORZ
-CODE_SMELL
-‘squid:UselessImportCheck"JRemove this unused import 'org.codehaus.jackson.map.JsonMappingException'.(Ì‹çÚıÿÿÿÿ8ØœÔ½,Hş¹RMINORZ
-CODE_SMELL
-‹squid:UselessImportCheck"IRemove this unused import 'org.codehaus.jackson.JsonGenerationException'.(ÉÀ—8ØœÔ½,HØ¹RMINORZ
-CODE_SMELL
-…squid:CommentedOutCodeLine<"<This block of commented-out lines of code should be removed.(»ûİÒüÿÿÿÿ8‘ıû½,Hò¹RMAJORZ
-CODE_SMELL
-s
-squid:S106Ù"9Replace this use of System.out or System.err by a logger.(¯´¦’øÿÿÿÿ8ØœÔ½,Hè¹RMAJORZ
-CODE_SMELL
-r
-squid:S106,"9Replace this use of System.out or System.err by a logger.(¿¥¬İıÿÿÿÿ8¨Ô½,Hğ¹RMAJORZ
-CODE_SMELL
-r
-squid:S1066"9Replace this use of System.out or System.err by a logger.(„…Ãùÿÿÿÿ8ØœÔ½,HƒºRMAJORZ
-CODE_SMELL
-Šsquid:UselessImportCheck"CRemove this unused import 'java.util.concurrent.ConcurrentHashMap'.(ÓŠÓøúÿÿÿÿ8óßô½,Hí¹RMINORZ
-CODE_SMELL
-asquid:S1148µ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ØœÔ½,Hà¹RMINORZVULNERABILITY
-m
-squid:S106:"9Replace this use of System.out or System.err by a logger.(øİœÙ8¨Ô½,Hë¹RMAJORZ
-CODE_SMELL
-„squid:S4042£"IUse "java.nio.Files#delete" here for better messages on error conditions.(±İÌÕûÿÿÿÿ8§üú½,Hê¹RMAJORZ
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(Âšûøÿÿÿÿ8À¹–ßÂ,H±ØRMAJORZ
 CODE_SMELL
 m
-squid:S106•"9Replace this use of System.out or System.err by a logger.(ÅÑ÷I8ØœÔ½,HÚ¹RMAJORZ
+squid:S1069"9Replace this use of System.out or System.err by a logger.(øİœÙ8ØœÔ½,H²ØRMAJORZ
 CODE_SMELL
+n
+squid:S106Ç"9Replace this use of System.out or System.err by a logger.(‰–8ÍÍÛñ½,H³ØRMAJORZ
+CODE_SMELL
+‘squid:UselessImportCheck"JRemove this unused import 'org.codehaus.jackson.map.JsonMappingException'.(Ì‹çÚıÿÿÿÿ8ØœÔ½,H´ØRMINORZ
+CODE_SMELL
+asquid:S1148ú"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ØœÔ½,HµØRMINORZVULNERABILITY
 s
-squid:S106Ì"9Replace this use of System.out or System.err by a logger.(˜õà¨ıÿÿÿÿ8ØœÔ½,H×¹RMAJORZ
+squid:S106‹"9Replace this use of System.out or System.err by a logger.(ø÷ÔŸûÿÿÿÿ8À¹–ßÂ,H¶ØRMAJORZ
+CODE_SMELL
+€squid:S2147²"ECombine this catch with the one at line 173, which has the same body.(©œ¡ÿÿÿÿÿ8ØœÔ½,H·ØRMINORZ
 CODE_SMELL
 r
-squid:S1067"9Replace this use of System.out or System.err by a logger.(¢ÎÌòùÿÿÿÿ8¨Ô½,H‡ºRMAJORZ
-CODE_SMELL
-n
-squid:S106Š"9Replace this use of System.out or System.err by a logger.(î©–ˆ8ØœÔ½,Hü¹RMAJORZ
+squid:S1068"9Replace this use of System.out or System.err by a logger.(Ïé Øıÿÿÿÿ8ØœÔ½,H¸ØRMAJORZ
 CODE_SMELL
 s
-squid:S106Œ"9Replace this use of System.out or System.err by a logger.(ø÷ÔŸûÿÿÿÿ8ØœÔ½,H„ºRMAJORZ
+squid:S106Ù"9Replace this use of System.out or System.err by a logger.(ÍÙŞùÿÿÿÿ8ØœÔ½,H¹ØRMAJORZ
 CODE_SMELL
 n
-squid:S106"9Replace this use of System.out or System.err by a logger.(‡’¼»8•õ½,HÛ¹RMAJORZ
+squid:S106Ú"9Replace this use of System.out or System.err by a logger.(âò±ƒ8¨Ô½,HºØRMAJORZ
 CODE_SMELL
+m
+squid:S106”"9Replace this use of System.out or System.err by a logger.(ÅÑ÷I8ØœÔ½,H»ØRMAJORZ
+CODE_SMELL
+n
+squid:S106×"9Replace this use of System.out or System.err by a logger.(›±Î«8À¹–ßÂ,H¼ØRMAJORZ
+CODE_SMELL
+n
+squid:S106¥"9Replace this use of System.out or System.err by a logger.(Ô¨»8ØœÔ½,H½ØRMAJORZ
+CODE_SMELL
+m
+squid:S106ç"9Replace this use of System.out or System.err by a logger.(ÆÓâ/8ØœÔ½,H¾ØRMAJORZ
+CODE_SMELL
+n
+squid:S106é"9Replace this use of System.out or System.err by a logger.(©×ªË8¨Ô½,H¿ØRMAJORZ
+CODE_SMELL
+n
+squid:S106ô"9Replace this use of System.out or System.err by a logger.(ƒ³¥‡8•õ½,HÀØRMAJORZ
+CODE_SMELL
+s
+squid:S106Ø"9Replace this use of System.out or System.err by a logger.(¯´¦’øÿÿÿÿ8¨Ô½,HÁØRMAJORZ
+CODE_SMELL
+l
+squid:S1067"9Replace this use of System.out or System.err by a logger.(©¯È8¨Ô½,HÂØRMAJORZ
+CODE_SMELL
+n
+squid:S106º"9Replace this use of System.out or System.err by a logger.(ÉÑª€8À¹–ßÂ,HÃØRMAJORZ
+CODE_SMELL
+l
+squid:S106<"9Replace this use of System.out or System.err by a logger.(Â¯¦8À¹–ßÂ,HÄØRMAJORZ
+CODE_SMELL
+n
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(î©–ˆ8ØœÔ½,HÅØRMAJORZ
+CODE_SMELL
+n
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(‡’¼»8•õ½,HÆØRMAJORZ
+CODE_SMELL
+m
+squid:S106="9Replace this use of System.out or System.err by a logger.(¢ºĞ8ØœÔ½,HÇØRMAJORZ
+CODE_SMELL
+r
+squid:S1066"9Replace this use of System.out or System.err by a logger.(¢ÎÌòùÿÿÿÿ8ØœÔ½,HÈØRMAJORZ
+CODE_SMELL
+s
+squid:S106ñ"9Replace this use of System.out or System.err by a logger.(’ºšùüÿÿÿÿ8ØœÔ½,HÉØRMAJORZ
+CODE_SMELL
+r
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ØœÔ½,HÊØRMAJORZ
+CODE_SMELL
+r
+squid:S106R"9Replace this use of System.out or System.err by a logger.(œíèÀüÿÿÿÿ8ØœÔ½,HËØRMAJORZ
+CODE_SMELL
+s
+squid:S106á"9Replace this use of System.out or System.err by a logger.(÷Çõçùÿÿÿÿ8§üú½,HÌØRMAJORZ
+CODE_SMELL
+asquid:S1148´"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ØœÔ½,HÍØRMINORZVULNERABILITY
+€squid:CommentedOutCodeLinef"<This block of commented-out lines of code should be removed.(áÚÈ8‘ıû½,HÎØRMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(»ûİÒüÿÿÿÿ8‘ıû½,HÏØRMAJORZ
+CODE_SMELL
+m
+squid:S106)"9Replace this use of System.out or System.err by a logger.(ØëË¿8ØœÔ½,HĞØRMAJORZ
+CODE_SMELL
+s
+squid:S106˜"9Replace this use of System.out or System.err by a logger.(ŒšÆîÿÿÿÿÿ8ğŞÔ½,HÑØRMAJORZ
+CODE_SMELL
+„squid:S4042Ÿ"IUse "java.nio.Files#delete" here for better messages on error conditions.(±İÌÕûÿÿÿÿ8§üú½,HÒØRMAJORZ
+CODE_SMELL
+r
+squid:S106+"9Replace this use of System.out or System.err by a logger.(¿¥¬İıÿÿÿÿ8¨Ô½,HÓØRMAJORZ
+CODE_SMELL
+s
+squid:S106Ü"9Replace this use of System.out or System.err by a logger.(²ÊïËıÿÿÿÿ8ØœÔ½,HÔØRMAJORZ
+CODE_SMELL
+n
+squid:S106–"9Replace this use of System.out or System.err by a logger.(Ò»¸¾8ŞÏµõ½,HÕØRMAJORZ
+CODE_SMELL
+m
+squid:S106:"9Replace this use of System.out or System.err by a logger.(œ­¸8¨Ô½,HÖØRMAJORZ
+CODE_SMELL
+r
+squid:S1064"9Replace this use of System.out or System.err by a logger.(†Á™ùÿÿÿÿÿ8À¹–ßÂ,H×ØRMAJORZ
+CODE_SMELL
+s
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(íßéşÿÿÿÿ8¨Ô½,HØØRMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLineI"<This block of commented-out lines of code should be removed.(ÃöË½8¼‰í½,HÙØRMAJORZ
+CODE_SMELL
+s
+squid:S106î"9Replace this use of System.out or System.err by a logger.(ÑÒÙÜıÿÿÿÿ8ØœÔ½,HÚØRMAJORZ
+CODE_SMELL
+s
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ÿ¦ñªúÿÿÿÿ8ØœÔ½,HÛØRMAJORZ
+CODE_SMELL
+r
+squid:S106X"9Replace this use of System.out or System.err by a logger.(œ¦Íşÿÿÿÿ8ØœÔ½,HÜØRMAJORZ
+CODE_SMELL
+asquid:S1148°"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ØœÔ½,HİØRMINORZVULNERABILITY
+s
+squid:S106»"9Replace this use of System.out or System.err by a logger.(‘ì°¤øÿÿÿÿ8¨Ô½,HŞØRMAJORZ
+CODE_SMELL
+squid:UselessImportCheck":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8ØœÔ½,HßØRMINORZ
+CODE_SMELL
+n
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğŠØÎ8ØœÔ½,HàØRMAJORZ
+CODE_SMELL
+{squid:S2259·"GA "NullPointerException" could be thrown; "jsonArray" is nullable here.(öî´şıÿÿÿÿ8ØœÔ½,HáØRMAJORZBUG
 ‡
-squid:S128l"LEnd this switch case with an unconditional break, return or throw statement.(˜Çúÿÿÿÿ8Ñ†öñ½,H…ºRBLOCKERZ
-CODE_SMELL
-m
-squid:S106;"9Replace this use of System.out or System.err by a logger.(œ­¸8ØœÔ½,H“ºRMAJORZ
-CODE_SMELL
-s
-squid:S106ğ"9Replace this use of System.out or System.err by a logger.(ÑÒÙÜıÿÿÿÿ8ØœÔ½,HŞ¹RMAJORZ
-CODE_SMELL
-r
-squid:S106S"9Replace this use of System.out or System.err by a logger.(œíèÀüÿÿÿÿ8ØœÔ½,H’ºRMAJORZ
-CODE_SMELL
-n
-squid:S106ø"9Replace this use of System.out or System.err by a logger.(ƒ³¥‡8¨Ô½,Hñ¹RMAJORZ
-CODE_SMELL
-r
-squid:S1065"9Replace this use of System.out or System.err by a logger.(†Á™ùÿÿÿÿÿ8ØœÔ½,Hï¹RMAJORZ
-CODE_SMELL
-m
-squid:S106>"9Replace this use of System.out or System.err by a logger.(¢ºĞ8ØœÔ½,H‹ºRMAJORZ
-CODE_SMELL
-m
-squid:S106è"9Replace this use of System.out or System.err by a logger.(ÆÓâ/8ØœÔ½,H‚ºRMAJORZ
-CODE_SMELL
-s
-squid:S106“"9Replace this use of System.out or System.err by a logger.(Õíç×ùÿÿÿÿ8§üú½,HºRMAJORZ
-CODE_SMELL
-n
-squid:S106Ü"9Replace this use of System.out or System.err by a logger.(ÖÔóÙ8ØœÔ½,HºRMAJORZ
-CODE_SMELL
-m
-squid:S106*"9Replace this use of System.out or System.err by a logger.(ØëË¿8ØœÔ½,Hä¹RMAJORZ
-CODE_SMELL
-{squid:S2259¸"GA "NullPointerException" could be thrown; "jsonArray" is nullable here.(öî´şıÿÿÿÿ8ØœÔ½,Hø¹RMAJORZBUG
-s
-squid:S106Œ"9Replace this use of System.out or System.err by a logger.(íßéşÿÿÿÿ8¨Ô½,Hÿ¹RMAJORZ
-CODE_SMELL
-€squid:S2147³"ECombine this catch with the one at line 174, which has the same body.(©œ¡ÿÿÿÿÿ8ØœÔ½,H‰ºRMINORZ
-CODE_SMELL
-s
-squid:S106Ú"9Replace this use of System.out or System.err by a logger.(ÍÙŞùÿÿÿÿ8¨Ô½,Hç¹RMAJORZ
-CODE_SMELL
-s
-squid:S106ò"9Replace this use of System.out or System.err by a logger.(’ºšùüÿÿÿÿ8ØœÔ½,Hã¹RMAJORZ
-CODE_SMELL
-s
-squid:S106‚"9Replace this use of System.out or System.err by a logger.(Ÿ¦ñªúÿÿÿÿ8ØœÔ½,Há¹RMAJORZ
-CODE_SMELL
-s
-squid:S106¥"9Replace this use of System.out or System.err by a logger.(Âšûøÿÿÿÿ8ØœÔ½,Hó¹RMAJORZ
-CODE_SMELL
-vsquid:UselessImportCheck	"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ8‘€»ò¿,HÁ»RMINORZ
-CODE_SMELL
-s
-squid:S106İ"9Replace this use of System.out or System.err by a logger.(²ÊïËıÿÿÿÿ8÷ã°õ½,HºRMAJORZ
-CODE_SMELL
-n
-squid:S106©"9Replace this use of System.out or System.err by a logger.(Ô¨»8¼ßöò¿,Hê¼RMAJORZ
+squid:S128k"LEnd this switch case with an unconditional break, return or throw statement.(˜Çúÿÿÿÿ8Ñ†öñ½,HâØRBLOCKERZ
 CODE_SMELL

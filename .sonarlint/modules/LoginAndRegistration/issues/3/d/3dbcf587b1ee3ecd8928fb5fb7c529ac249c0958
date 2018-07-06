@@ -1,0 +1,6 @@
+
+asquid:S1989;"+Add a "try/catch" block for "sendRedirect".(²ô¤ÿøÿÿÿÿH÷RMINORZVULNERABILITY
+ssquid:S2696"6Make the enclosing method "static" or remove this set.(û²õÆøÿÿÿÿ8¥‘é¯Æ,H÷RCRITICALZ
+CODE_SMELL
+asquid:S1989>"+Add a "try/catch" block for "sendRedirect".(Ù¡§ÄüÿÿÿÿH÷RMINORZVULNERABILITY
+Ysquid:S1148A"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH÷RMINORZVULNERABILITY

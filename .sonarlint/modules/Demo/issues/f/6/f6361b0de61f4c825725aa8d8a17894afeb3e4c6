@@ -1,0 +1,11 @@
+
+asquid:S1989>"+Add a "try/catch" block for "sendRedirect".(Ö¬ô¸ùÿÿÿÿHËöRMINORZVULNERABILITY
+asquid:S1989B"+Add a "try/catch" block for "sendRedirect".(ÉãÚ€úÿÿÿÿHÌöRMINORZVULNERABILITY
+ysquid:CommentedOutCodeLine<"<This block of commented-out lines of code should be removed.(¶×±šHÍöRMAJORZ
+CODE_SMELL
+f
+squid:S106A"9Replace this use of System.out or System.err by a logger.(šÇ‘ãHÎöRMAJORZ
+CODE_SMELL
+lsquid:S2696"6Make the enclosing method "static" or remove this set.(û²õÆøÿÿÿÿHÏöRCRITICALZ
+CODE_SMELL
+Ysquid:S1148E"#Use a logger to log this exception.(ÂþÿâûÿÿÿÿHÐöRMINORZVULNERABILITY

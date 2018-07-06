@@ -1,0 +1,26 @@
+
+squid:S2068%"U'password' detected in this expression, review this potentially hardcoded credential.(ÙœÂ›8õ¥­Æ,HïëRBLOCKERZVULNERABILITY
+`squid:S11481"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8õ¥­Æ,HóëRMINORZVULNERABILITY
+dsquid:S1989"'Add a "try/catch" block for "parseInt".(ÌüôÎşÿÿÿÿ8ÍÎê€Æ,HêëRMINORZVULNERABILITY
+squid:S2095'"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(„Õ‘8»Òä‚Æ,HÛìRBLOCKERZBUG
+xsquid:S2095%"HUse try-with-resources or close this "Connection" in a "finally" clause.(ÙœÂ›8÷‡ä‚Æ,HÙìRBLOCKERZBUG
+m
+squid:S106+"9Replace this use of System.out or System.err by a logger.(Âà‚Ã8éÎÃ‚Æ,HØìRMAJORZ
+CODE_SMELL
+m
+squid:S106-"9Replace this use of System.out or System.err by a logger.(ÎÈš8„ø­‚Æ,H½ìRMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(ı’¹ÿşÿÿÿÿ8„ø­‚Æ,H¼ìRMAJORZ
+CODE_SMELL
+m
+squid:S106)"9Replace this use of System.out or System.err by a logger.(ÖÙä‘8éÎÃ‚Æ,H×ìRMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(è·’÷8’Âì‚Æ,HæìRMAJORZ
+CODE_SMELL
+`squid:S1989"(Add a "try/catch" block for "getWriter".(¾šçŞ8õ¥­Æ,HğëRMINORZVULNERABILITY
+€squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(İıáä8µÈı‚Æ,HñìRMAJORZ
+CODE_SMELL
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã™‰¡8„ø­‚Æ,H¾ìRMAJORZ
+CODE_SMELL

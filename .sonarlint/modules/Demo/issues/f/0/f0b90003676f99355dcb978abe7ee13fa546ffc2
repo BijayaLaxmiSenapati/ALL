@@ -1,0 +1,22 @@
+
+k
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ä»í’úÿÿÿÿHãõRMAJORZ
+CODE_SMELL
+ysquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(€Ò‘ŒHâõRMAJORZ
+CODE_SMELL
+f
+squid:S1063"9Replace this use of System.out or System.err by a logger.(¹ÁÙñHåõRMAJORZ
+CODE_SMELL
+Ysquid:S1148:"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHêõRMINORZVULNERABILITY
+usquid:UselessImportCheck":Remove this unused import 'com.bridgelabz.model.UserBean'.(„€‹°HéõRMINORZ
+CODE_SMELL
+dsquid:S1135C"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHçõRINFOZ
+CODE_SMELL
+k
+squid:S106&"9Replace this use of System.out or System.err by a logger.(îž¸ýÿÿÿÿHäõRMAJORZ
+CODE_SMELL
+dsquid:S1135H"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHèõRINFOZ
+CODE_SMELL
+k
+squid:S1067"9Replace this use of System.out or System.err by a logger.(¡•ÍÌûÿÿÿÿHæõRMAJORZ
+CODE_SMELL

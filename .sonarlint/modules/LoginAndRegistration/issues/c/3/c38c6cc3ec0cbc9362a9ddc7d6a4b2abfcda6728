@@ -1,0 +1,23 @@
+
+f
+squid:S1062"9Replace this use of System.out or System.err by a logger.(÷ÉÃH¡øRMAJORZ
+CODE_SMELL
+gsquid:S1444"6Make this "public static totalUserVisited" field final(Ú‘®HøRMINORZVULNERABILITY
+f
+squid:S1060"9Replace this use of System.out or System.err by a logger.(ëä–¥H¢øRMAJORZ
+CODE_SMELL
+k
+squid:S1061"9Replace this use of System.out or System.err by a logger.(‚ã…‘ÿÿÿÿÿH øRMAJORZ
+CODE_SMELL
+f
+squid:S106#"9Replace this use of System.out or System.err by a logger.(õüÈ¤HøRMAJORZ
+CODE_SMELL
+²squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Šà÷ÙH¦øRCRITICALZ
+CODE_SMELL
+¤"squid:ClassVariableVisibilityCheck"\Make totalUserVisited a static final constant or non-public and provide accessors if needed.(Ú‘®H¤øRMINORZVULNERABILITY
+f
+squid:S1064"9Replace this use of System.out or System.err by a logger.(çë§æH£øRMAJORZ
+CODE_SMELL
+f
+squid:S106%"9Replace this use of System.out or System.err by a logger.(÷ÉÃHŸøRMAJORZ
+CODE_SMELL

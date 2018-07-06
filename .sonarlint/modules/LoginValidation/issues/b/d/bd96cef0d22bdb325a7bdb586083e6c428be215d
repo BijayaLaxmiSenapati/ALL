@@ -1,0 +1,10 @@
+
+squid:S2068"U'password' detected in this expression, review this potentially hardcoded credential.(ÙœÂ›8ÚùıàÁ,H¯ÜRBLOCKERZVULNERABILITY
+Hsquid:S1220""Move this file to a named package.H³ÜRMINORZ
+CODE_SMELL
+`squid:S11487"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÚùıàÁ,H°ÜRMINORZVULNERABILITY
+`squid:S1148 "#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8 öÿàÁ,H²ÜRMINORZVULNERABILITY
+`squid:S1148,"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÚùıàÁ,H±ÜRMINORZVULNERABILITY
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(à‘š“8¬İŠáÁ,H®ÜRMAJORZ
+CODE_SMELL

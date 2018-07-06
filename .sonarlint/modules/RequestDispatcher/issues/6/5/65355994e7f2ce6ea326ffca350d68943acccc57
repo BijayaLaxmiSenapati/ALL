@@ -1,0 +1,16 @@
+
+esquid:S1481"0Remove this unused "productName" local variable.(¬ãÞ¿8“æý‚Æ,HóìRMINORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†¡ šýÿÿÿÿ8“æý‚Æ,HòìRMAJORZ
+CODE_SMELL
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(ç¹‡8ìŒæÆ,H€ìRMAJORZ
+CODE_SMELL
+}squid:S1854"CRemove this useless assignment to local variable "productQuantity".(ôä’®ýÿÿÿÿ8“æý‚Æ,HõìRMAJORZ
+CODE_SMELL
+nsquid:S1481"4Remove this unused "productQuantity" local variable.(ôä’®ýÿÿÿÿ8“æý‚Æ,HôìRMINORZ
+CODE_SMELL
+tsquid:S1854"?Remove this useless assignment to local variable "productName".(¬ãÞ¿8“æý‚Æ,HöìRMAJORZ
+CODE_SMELL
+^squid:S1989"&Add a "try/catch" block for "forward".(ó˜•Ô8Î¯×€Æ,HèëRMINORZVULNERABILITY
+^squid:S1989"&Add a "try/catch" block for "forward".(ó˜•Ô8Î¯×€Æ,HéëRMINORZVULNERABILITY

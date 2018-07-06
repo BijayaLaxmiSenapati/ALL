@@ -1,0 +1,16 @@
+
+`squid:S1148>"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8†ΣόλΑ,H©έRMINORZVULNERABILITY
+…squid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(ώµδΙϊÿÿÿÿ8³„κΑ,HªέRMAJORZ
+CODE_SMELL
+`squid:S1148_"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8†ΣόλΑ,H«έRMINORZVULNERABILITY
+`squid:S1148T"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8†ΣόλΑ,H¬έRMINORZVULNERABILITY
+osquid:S2259*"AA "NullPointerException" could be thrown; "con" is nullable here.(³Β–ό8£©ριΑ,H­έRMAJORZBUG
+`squid:S1148I"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8†ΣόλΑ,H®έRMINORZVULNERABILITY
+squid:S2068"U'password' detected in this expression, review this potentially hardcoded credential.(ΩΒ›8£©ριΑ,H―έRBLOCKERZVULNERABILITY
+r
+squid:S106+"9Replace this use of System.out or System.err by a logger.(™ό΅ϋÿÿÿÿ8£©ριΑ,H°έRMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(†€ι8£©ριΑ,H±έRMAJORZ
+CODE_SMELL
+Hsquid:S1220""Move this file to a named package.H²έRMINORZ
+CODE_SMELL

@@ -1,0 +1,11 @@
+
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(»ó¦—üÿÿÿÿHŞÛRMAJORZ
+CODE_SMELL
+­%squid:RedundantThrowsDeclarationCheck"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(™£…OHİÛRMINORZ
+CODE_SMELL
+³%squid:RedundantThrowsDeclarationCheck"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(ÿüûıÿÿÿÿHÜÛRMINORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ô¸¦½øÿÿÿÿHßÛRMAJORZ
+CODE_SMELL

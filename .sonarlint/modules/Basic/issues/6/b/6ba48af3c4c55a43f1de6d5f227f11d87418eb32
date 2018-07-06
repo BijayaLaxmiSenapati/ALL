@@ -1,235 +1,223 @@
 
-asquid:S1148œ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¼¿«Ì½,H¬ºRMINORZVULNERABILITY
-s
-squid:S106 "9Replace this use of System.out or System.err by a logger.(Û«åçúÿÿÿÿ8¬¤òô»,H«ºRMAJORZ
+†squid:CommentedOutCodeLine¸"<This block of commented-out lines of code should be removed.(Í…¥¾ùÿÿÿÿ8¬¤òô»,HçØRMAJORZ
+CODE_SMELL
+asquid:S1148ÿ
+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¼¿«Ì½,HèØRMINORZVULNERABILITY
+n
+squid:S106ç"9Replace this use of System.out or System.err by a logger.(ˆè½˜8ÏÏ¥ˆ»,HéØRMAJORZ
+CODE_SMELL
+asquid:S1148„"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ğ¡ÁÃ½,HêØRMINORZVULNERABILITY
+Rsquid:S1643³"Use a StringBuilder instead.(à·ñÈ8æ²Í´¹,HëØRMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine¾"<This block of commented-out lines of code should be removed.(à·ï¾8¹©…¹,HìØRMAJORZ
+CODE_SMELL
+†squid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(Íæ«øıÿÿÿÿ8æ²Í´¹,HíØRMAJORZ
+CODE_SMELL
+l
+squid:S106ä"9Replace this use of System.out or System.err by a logger.(²–‚ûÿÿÿÿHîØRMAJORZ
 CODE_SMELL
 s
-squid:S106Ò"9Replace this use of System.out or System.err by a logger.(İäŠœıÿÿÿÿ8…üô–·,H¶ºRMAJORZ
+squid:S106Ÿ"9Replace this use of System.out or System.err by a logger.(Û«åçúÿÿÿÿ8ÜÄ¨æÂ,HïØRMAJORZ
 CODE_SMELL
-~squid:S2095°"HUse try-with-resources or close this "FileReader" in a "finally" clause.(­îüâûÿÿÿÿ8¦”Êä¸,HËºRBLOCKERZBUG
-Rsquid:S1643‘"Use a StringBuilder instead.(ÊĞòÜ8æ²Í´¹,H¥ºRMINORZ
+Usquid:S1659Ë
+"Declare "k" on a separate line.(ø†ËÈ8çöìı»,HğØRMINORZ
 CODE_SMELL
-squid:CommentedOutCodeLine¿"<This block of commented-out lines of code should be removed.(à·ï¾8¹©…¹,H­ºRMAJORZ
+}squid:S2095°"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Ó¨‘¢8¦”Êä¸,HñØRBLOCKERZBUG
+s
+squid:S106§"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8æ²Í´¹,HòØRMAJORZ
+CODE_SMELL
+n
+squid:S106Õ"9Replace this use of System.out or System.err by a logger.(“³½í8¬¤òô»,HóØRMAJORZ
+CODE_SMELL
+tsquid:S2184Ö"ECast one of the operands of this subtraction operation to a "double".( ×Ğ8æ²Í´¹,HôØRMINORZBUG
+Xsquid:S1659Ë
+""Declare "low1" on a separate line.(ø†ËÈ8çöìı»,HõØRMINORZ
+CODE_SMELL
+n
+squid:S106›"9Replace this use of System.out or System.err by a logger.(± –²8Ä³§—·,HöØRMAJORZ
+CODE_SMELL
+†squid:CommentedOutCodeLineÌ
+"<This block of commented-out lines of code should be removed.(ø„©İúÿÿÿÿ8çöìı»,H÷ØRMAJORZ
+CODE_SMELL
+‚squid:S2095Ê"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(èº¬›ûÿÿÿÿ8ÏÏ¥ˆ»,HøØRBLOCKERZBUG
+tsquid:S2184è"@Cast one of the operands of this integer division to a "double".(«¬¸Èıÿÿÿÿ8Şœ¸·,HùØRMINORZBUG
+†squid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(ãÌ…Õşÿÿÿÿ8æ²Í´¹,HúØRMAJORZ
+CODE_SMELL
+¥squid:S1319"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(ÏÆ8ëŠ‰¤¾,HûØRMINORZ
+CODE_SMELL
+s
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(ãöİúÿÿÿÿ8¡Âæµ¸,HüØRMAJORZ
+CODE_SMELL
+tsquid:S1854Ş"9Remove this useless assignment to local variable "root1".(ùºÇµûÿÿÿÿ8æ²Í´¹,HıØRMAJORZ
+CODE_SMELL
+|squid:S2147"FCombine this catch with the one at line 1404, which has the same body.(ŒŠ•°8¼¿«Ì½,HşØRMINORZ
+CODE_SMELL
+‹squid:UselessImportCheck!"IRemove this unused import 'com.bridgelabz.objectorientedprograms.Person'.(ø”å8ëŠ‰¤¾,HÿØRMINORZ
+CODE_SMELL
+”squid:S2293ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(İ¤¸ùÿÿÿÿ8 ™ËÜ¸,H€ÙRMINORZ
+CODE_SMELL
+r"squid:SwitchLastCaseIsDefaultCheckã	""Add a default case to this switch.(›ë÷Æ8ÿàËö»,HÙRCRITICALZ
+CODE_SMELL
+nsquid:S1197Ê
+"8Move the array designator from the variable to the type.(¡†°ù8çöìı»,H‚ÙRMINORZ
+CODE_SMELL
+†squid:CommentedOutCodeLine¼"<This block of commented-out lines of code should be removed.(Í…¥¾ùÿÿÿÿ8‡¬ì„¹,HƒÙRMAJORZ
+CODE_SMELL
+dsquid:S1481Ù")Remove this unused "real" local variable.(ô¦—Éúÿÿÿÿ8æ²Í´¹,H„ÙRMINORZ
+CODE_SMELL
+asquid:S1148‰"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¼¿«Ì½,H…ÙRMINORZVULNERABILITY
+‘squid:S1488Ê"[Immediately return this expression instead of assigning it to the temporary variable "ans".(íÚ­é8ãİÛ´·,H†ÙRMINORZ
+CODE_SMELL
+”squid:S2293Ò	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ó¸îĞøÿÿÿÿ8İŞ€Õº,H‡ÙRMINORZ
 CODE_SMELL
 r
-squid:S106"9Replace this use of System.out or System.err by a logger.(¿É˜çûÿÿÿÿ8¦”Êä¸,H¡ºRMAJORZ
+squid:S106~"9Replace this use of System.out or System.err by a logger.(¿É˜çûÿÿÿÿ8¦”Êä¸,HˆÙRMAJORZ
 CODE_SMELL
-•squid:S1488ù"_Immediately return this expression instead of assigning it to the temporary variable "weather".(ü¦ûä8ıã¸·,H§ºRMINORZ
+~squid:S2095É"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(‚ô‘‰ùÿÿÿÿ8ÏÏ¥ˆ»,H‰ÙRBLOCKERZBUG
+r
+squid:S106g"9Replace this use of System.out or System.err by a logger.(µ¶ç‹øÿÿÿÿ8ÍÔß„¹,HŠÙRMAJORZ
 CODE_SMELL
-dsquid:S1481Ú")Remove this unused "real" local variable.(ô¦—Éúÿÿÿÿ8æ²Í´¹,HßºRMINORZ
+asquid:S1148š"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8µÈˆ¡¾,H‹ÙRMINORZVULNERABILITY
+Wsquid:S1643˜"Use a StringBuilder instead.(§ÜØéÿÿÿÿÿ8‚³ÕŠ¸,HŒÙRMINORZ
 CODE_SMELL
-m
-squid:S106°"9Replace this use of System.out or System.err by a logger.(©—áP8Ä³§—·,H±ºRMAJORZ
-CODE_SMELL
-squid:S2147ˆ"FCombine this catch with the one at line 1406, which has the same body.(É˜Ùúÿÿÿÿ8¼¿«Ì½,HíºRMINORZ
-CODE_SMELL
-‹squid:UselessImportCheck"DRemove this unused import 'org.codehaus.jackson.JsonParseException'.(ò ß üÿÿÿÿ8ì¡—Ó½,HÚºRMINORZ
-CODE_SMELL
-‚squid:S2095Ë"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(èº¬›ûÿÿÿÿ8ÏÏ¥ˆ»,HéºRBLOCKERZBUG
-psquid:S2184Ÿ"BCast one of the operands of this division operation to a "double".(ë¸±o8æ²Í´¹,HŸºRMINORZBUG
-†squid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(ãÌ…Õşÿÿÿÿ8æ²Í´¹,HâºRMAJORZ
-CODE_SMELL
-Wsquid:S1643³"Use a StringBuilder instead.(ãòÍ¥úÿÿÿÿ8æ²Í´¹,H³ºRMINORZ
-CODE_SMELL
-vsquid:S2184ä"BCast one of the operands of this division operation to a "double".(‰Ø‡Èûÿÿÿÿ8æ²Í´¹,HëºRMINORZBUG
 s
-squid:S106"9Replace this use of System.out or System.err by a logger.(ò¶ºÿÿÿÿÿ8¸Ç©¹,HóºRMAJORZ
+squid:S106ó"9Replace this use of System.out or System.err by a logger.(À»Ø‡úÿÿÿÿ8¦”Êä¸,HÙRMAJORZ
 CODE_SMELL
-asquid:S1148†"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ğ¡ÁÃ½,HèºRMINORZVULNERABILITY
-asquid:S1148‹"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¼¿«Ì½,HªºRMINORZVULNERABILITY
+s
+squid:S106Æ"9Replace this use of System.out or System.err by a logger.(‹Ê–ùÿÿÿÿ8ìÙ‡—·,HÙRMAJORZ
+CODE_SMELL
 n
-squid:S106Ö"9Replace this use of System.out or System.err by a logger.(“³½í8¬¤òô»,H¼ºRMAJORZ
+squid:S106˜"9Replace this use of System.out or System.err by a logger.( §‘Æ8±ü‡Ù¹,HÙRMAJORZ
+CODE_SMELL
+¦squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÏÆ8ÖÅ¬÷½,HÙRMINORZ
+CODE_SMELL
+r
+squid:S106i"9Replace this use of System.out or System.err by a logger.(£•È¬øÿÿÿÿ8¬¤òô»,H‘ÙRMAJORZ
+CODE_SMELL
+s
+squid:S106¸"9Replace this use of System.out or System.err by a logger.(¢ÿ¸¯ùÿÿÿÿ8æ²Í´¹,H’ÙRMAJORZ
+CODE_SMELL
+vsquid:S2184ã"BCast one of the operands of this division operation to a "double".(‰Ø‡Èûÿÿÿÿ8æ²Í´¹,H“ÙRMINORZBUG
+m
+squid:S106¯"9Replace this use of System.out or System.err by a logger.(©—áP8Ä³§—·,H”ÙRMAJORZ
+CODE_SMELL
+†squid:CommentedOutCodeLineø"<This block of commented-out lines of code should be removed.(ãÌ…Õşÿÿÿÿ8æ²Í´¹,H•ÙRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLineç"<This block of commented-out lines of code should be removed.(¬„ğ©8æ²Í´¹,H–ÙRMAJORZ
+CODE_SMELL
+s
+squid:S106¢"9Replace this use of System.out or System.err by a logger.(œüñ¢şÿÿÿÿ8¬¤òô»,H—ÙRMAJORZ
+CODE_SMELL
+Wsquid:S1643±"Use a StringBuilder instead.(ãòÍ¥úÿÿÿÿ8æ²Í´¹,H˜ÙRMINORZ
+CODE_SMELL
+s
+squid:S106™"9Replace this use of System.out or System.err by a logger.(¼‘çŸùÿÿÿÿ8…üô–·,H™ÙRMAJORZ
+CODE_SMELL
+n
+squid:S106Ã"9Replace this use of System.out or System.err by a logger.(‡ü’Ó8æ²Í´¹,HšÙRMAJORZ
+CODE_SMELL
+asquid:S1905ß"&Remove this unnecessary cast to "int".(†ÑÇßúÿÿÿÿ8‡ì›½¹,H›ÙRMINORZ
+CODE_SMELL
+‹squid:S3776Ğ	"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(Ôªòú8ÿàËö»,HœÙRCRITICALZ
+CODE_SMELL
+ssquid:S1854û"=Remove this useless assignment to local variable "temporary".(î«éß8«¢Ü¼¸,HÙRMAJORZ
+CODE_SMELL
+s
+squid:S106Ğ"9Replace this use of System.out or System.err by a logger.(¢ÿ¸¯ùÿÿÿÿ8µÈˆ¡¾,HÙRMAJORZ
+CODE_SMELL
+«squid:S1319¤"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(üÉ£½úÿÿÿÿ8µÈˆ¡¾,HŸÙRMINORZ
+CODE_SMELL
+~squid:S2095¯"HUse try-with-resources or close this "FileReader" in a "finally" clause.(­îüâûÿÿÿÿ8¦”Êä¸,H ÙRBLOCKERZBUG
+s
+squid:S106º"9Replace this use of System.out or System.err by a logger.(¯âå“ıÿÿÿÿ8ÖÅ¬÷½,H¡ÙRMAJORZ
+CODE_SMELL
+n
+squid:S106¥"9Replace this use of System.out or System.err by a logger.(‚á­Ê8æ²Í´¹,H¢ÙRMAJORZ
+CODE_SMELL
+”squid:S2293‰	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø¦á¼şÿÿÿÿ8òéö»,H£ÙRMINORZ
+CODE_SMELL
+s
+squid:S106‹"9Replace this use of System.out or System.err by a logger.(ò¶ºÿÿÿÿÿ8¸Ç©¹,H¤ÙRMAJORZ
+CODE_SMELL
+†squid:CommentedOutCodeLine‘"<This block of commented-out lines of code should be removed.(Š–Ä‡úÿÿÿÿ8æ…óğ¿,H¥ÙRMAJORZ
+CODE_SMELL
+_squid:S2140‰")Use "java.util.Random.nextInt()" instead.(À¬¦©8Ç‘½º·,H¦ÙRMINORZ
+CODE_SMELL
+†squid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(ÚçÆ¡ÿÿÿÿÿ8æ²Í´¹,H§ÙRMAJORZ
+CODE_SMELL
+ˆsquid:CallToDeprecatedMethod÷
+"<Remove this use of "DefaultPrettyPrinter"; it is deprecated.(ŠÀô’øÿÿÿÿ8ı…¯Í¼,H¨ÙRMINORZ
+CODE_SMELL
+vsquid:S2184"BCast one of the operands of this division operation to a "double".(±ùÊşÿÿÿÿ8ÜÄ¨æÂ,H©ÙRMINORZBUG
+squid:S1488ş"ZImmediately return this expression instead of assigning it to the temporary variable "d0".(è¡ìE8æ²Í´¹,HªÙRMINORZ
+CODE_SMELL
+Ksquid:S1643ˆ"Use a StringBuilder instead.(ÓÂ½€H«ÙRMINORZ
+CODE_SMELL
+tsquid:S2184ã"@Cast one of the operands of this integer division to a "double".(‰Ø‡Èûÿÿÿÿ8æ²Í´¹,H¬ÙRMINORZBUG
+tsquid:S1481‹"9Remove this unused "numberOfZeroRequired" local variable.(Ôõ²ˆúÿÿÿÿ8æ²Í´¹,H­ÙRMINORZ
+CODE_SMELL
+•squid:S1488ø"_Immediately return this expression instead of assigning it to the temporary variable "weather".(ü¦ûä8ıã¸·,H®ÙRMINORZ
+CODE_SMELL
+squid:S2147†"FCombine this catch with the one at line 1404, which has the same body.(É˜Ùúÿÿÿÿ8¼¿«Ì½,H¯ÙRMINORZ
+CODE_SMELL
+zsquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(‰ÖH°ÙRMAJORZ
+CODE_SMELL
+n
+squid:S106Ğ"9Replace this use of System.out or System.err by a logger.(³ŒÙ÷8«À¬·,H±ÙRMAJORZ
+CODE_SMELL
+†squid:CommentedOutCodeLineå"<This block of commented-out lines of code should be removed.(ãÌ…Õşÿÿÿÿ8æ²Í´¹,H²ÙRMAJORZ
+CODE_SMELL
+n
+squid:S106»"9Replace this use of System.out or System.err by a logger.(ä”ˆ8Ù¬İ×¹,H³ÙRMAJORZ
+CODE_SMELL
+s
+squid:S106Ü"9Replace this use of System.out or System.err by a logger.(‰¼¯óùÿÿÿÿ8öŞİ¸,H´ÙRMAJORZ
+CODE_SMELL
+s
+squid:S106Ñ"9Replace this use of System.out or System.err by a logger.(İäŠœıÿÿÿÿ8…üô–·,HµÙRMAJORZ
+CODE_SMELL
+n
+squid:S106Û"9Replace this use of System.out or System.err by a logger.(æ–„’8æ²Í´¹,H¶ÙRMAJORZ
+CODE_SMELL
+psquid:S2184"BCast one of the operands of this division operation to a "double".(ë¸±o8Ï³Ş×¹,H·ÙRMINORZBUG
+n
+squid:S106ã"9Replace this use of System.out or System.err by a logger.(àšÜ›8ÜÄ¨æÂ,H¸ÙRMAJORZ
+CODE_SMELL
+n
+squid:S106 "9Replace this use of System.out or System.err by a logger.(„»ñ˜8¬¤òô»,H¹ÙRMAJORZ
+CODE_SMELL
+s
+squid:S106²"9Replace this use of System.out or System.err by a logger.(á¨‰şÿÿÿÿ8¬¤òô»,HºÙRMAJORZ
+CODE_SMELL
+‹squid:UselessImportCheck"DRemove this unused import 'org.codehaus.jackson.JsonParseException'.(ò ß üÿÿÿÿ8ì¡—Ó½,H»ÙRMINORZ
+CODE_SMELL
+‹squid:S3776Ï"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¦ÿ–Ø8…üô–·,H¼ÙRCRITICALZ
+CODE_SMELL
+Rsquid:S1643"Use a StringBuilder instead.(ÊĞòÜ8æ²Í´¹,H½ÙRMINORZ
+CODE_SMELL
+Xsquid:S1659Ë
+""Declare "mid1" on a separate line.(ø†ËÈ8çöìı»,H¾ÙRMINORZ
+CODE_SMELL
+isquid:S1481Ú".Remove this unused "imaginary" local variable.(“«òøÿÿÿÿ8æ²Í´¹,H¿ÙRMINORZ
+CODE_SMELL
+s
+squid:S106•"9Replace this use of System.out or System.err by a logger.(ÁñØıÿÿÿÿ8‡¬ì„¹,HÀÙRMAJORZ
+CODE_SMELL
+n
+squid:S106¼"9Replace this use of System.out or System.err by a logger.(òÂÈÅ8±ü‡Ù¹,HÁÙRMAJORZ
 CODE_SMELL
 f
-squid:S106ğ"9Replace this use of System.out or System.err by a logger.(ÔÇHäºRMAJORZ
-CODE_SMELL
-†squid:CommentedOutCodeLine½"<This block of commented-out lines of code should be removed.(Í…¥¾ùÿÿÿÿ8¬¤òô»,HØºRMAJORZ
-CODE_SMELL
-ˆsquid:CallToDeprecatedMethodù
-"<Remove this use of "DefaultPrettyPrinter"; it is deprecated.(ŠÀô’øÿÿÿÿ8ı…¯Í¼,HÍºRMINORZ
-CODE_SMELL
-‹squid:S3776Ğ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¦ÿ–Ø8…üô–·,HÅºRCRITICALZ
+squid:S106î"9Replace this use of System.out or System.err by a logger.(ÔÇHÂÙRMAJORZ
 CODE_SMELL
 g
-squid:S106Ô"9Replace this use of System.out or System.err by a logger.(¹€ˆŸH¹ºRMAJORZ
+squid:S106Ó"9Replace this use of System.out or System.err by a logger.(¹€ˆŸHÃÙRMAJORZ
 CODE_SMELL
-«squid:S1319¹"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ö˜Íßüÿÿÿÿ8æ…óğ¿,Hƒ»RMINORZ
-CODE_SMELL
-Ksquid:S1643‰"Use a StringBuilder instead.(ÓÂ½€HÏºRMINORZ
-CODE_SMELL
-s
-squid:S106å"9Replace this use of System.out or System.err by a logger.(²–‚ûÿÿÿÿ8æ²Í´¹,H®ºRMAJORZ
-CODE_SMELL
-s
-squid:S106¨"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8æ²Í´¹,HÈºRMAJORZ
-CODE_SMELL
-asquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8µÈˆ¡¾,HÜºRMINORZVULNERABILITY
-Wsquid:S1643£"Use a StringBuilder instead.(Û¾»Õúÿÿÿÿ8Ù¬İ×¹,HÀºRMINORZ
-CODE_SMELL
-”squid:S2293‹	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø¦á¼şÿÿÿÿ8òéö»,H»ºRMINORZ
-CODE_SMELL
-squid:S2293È"YReplace the type specification in this constructor call with the diamond operator ("<>").(…âô8æ…óğ¿,HÿºRMINORZ
-CODE_SMELL
-”squid:S2293Ô	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ó¸îĞøÿÿÿÿ8İŞ€Õº,HìºRMINORZ
-CODE_SMELL
-«squid:S1319¦"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(üÉ£½úÿÿÿÿ8µÈˆ¡¾,H›ºRMINORZ
-CODE_SMELL
-s
-squid:S106Ò"9Replace this use of System.out or System.err by a logger.(¢ÿ¸¯ùÿÿÿÿ8æ²Í´¹,HôºRMAJORZ
+Wsquid:S1643¡"Use a StringBuilder instead.(Û¾»Õúÿÿÿÿ8Ù¬İ×¹,HÄÙRMINORZ
 CODE_SMELL
 n
-squid:S106¦"9Replace this use of System.out or System.err by a logger.(‚á­Ê8æ²Í´¹,HÄºRMAJORZ
+squid:S106Ô"9Replace this use of System.out or System.err by a logger.(òÂÈÅ8æ²Í´¹,HÅÙRMAJORZ
 CODE_SMELL
-†squid:CommentedOutCodeLine¹"<This block of commented-out lines of code should be removed.(Í…¥¾ùÿÿÿÿ8‡¬ì„¹,H¾ºRMAJORZ
-CODE_SMELL
-r
-squid:S106h"9Replace this use of System.out or System.err by a logger.(µ¶ç‹øÿÿÿÿ8ÍÔß„¹,H™ºRMAJORZ
-CODE_SMELL
-†squid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(Íæ«øıÿÿÿÿ8æ²Í´¹,H°ºRMAJORZ
-CODE_SMELL
-g
-squid:S106ä"9Replace this use of System.out or System.err by a logger.(àšÜ›HŞºRMAJORZ
-CODE_SMELL
-‹squid:UselessImportCheck""IRemove this unused import 'com.bridgelabz.objectorientedprograms.Person'.(ø”å8ëŠ‰¤¾,H˜ºRMINORZ
-CODE_SMELL
-tsquid:S1481"9Remove this unused "numberOfZeroRequired" local variable.(Ôõ²ˆúÿÿÿÿ8æ²Í´¹,HòºRMINORZ
-CODE_SMELL
-Xsquid:S1659Í
-""Declare "low1" on a separate line.(ø†ËÈ8çöìı»,H ºRMINORZ
-CODE_SMELL
-n
-squid:S106Ö"9Replace this use of System.out or System.err by a logger.(òÂÈÅ8±ü‡Ù¹,HğºRMAJORZ
-CODE_SMELL
-Xsquid:S1659Í
-""Declare "mid1" on a separate line.(ø†ËÈ8çöìı»,HÃºRMINORZ
-CODE_SMELL
-Wsquid:S1643™"Use a StringBuilder instead.(§ÜØéÿÿÿÿÿ8‚³ÕŠ¸,H²ºRMINORZ
-CODE_SMELL
-n
-squid:S106™"9Replace this use of System.out or System.err by a logger.( §‘Æ8±ü‡Ù¹,H¤ºRMAJORZ
-CODE_SMELL
-s
-squid:S106–"9Replace this use of System.out or System.err by a logger.(ÁñØıÿÿÿÿ8‡¬ì„¹,H¿ºRMAJORZ
-CODE_SMELL
-r"squid:SwitchLastCaseIsDefaultCheckå	""Add a default case to this switch.(›ë÷Æ8ÿàËö»,HÂºRCRITICALZ
-CODE_SMELL
-n
-squid:S106é"9Replace this use of System.out or System.err by a logger.(ˆè½˜8ÏÏ¥ˆ»,HàºRMAJORZ
-CODE_SMELL
-nsquid:S1197Ì
-"8Move the array designator from the variable to the type.(¡†°ù8çöìı»,HºRMINORZ
-CODE_SMELL
-n
-squid:S106½"9Replace this use of System.out or System.err by a logger.(òÂÈÅ8æ²Í´¹,HÙºRMAJORZ
-CODE_SMELL
-s
-squid:S106õ"9Replace this use of System.out or System.err by a logger.(À»Ø‡úÿÿÿÿ8¦”Êä¸,HçºRMAJORZ
-CODE_SMELL
-†squid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(Š–Ä‡úÿÿÿÿ8æ…óğ¿,H€»RMAJORZ
-CODE_SMELL
-s
-squid:S106›"9Replace this use of System.out or System.err by a logger.(¼‘çŸùÿÿÿÿ8…üô–·,HîºRMAJORZ
-CODE_SMELL
-n
-squid:S106¡"9Replace this use of System.out or System.err by a logger.(„»ñ˜8¡Âæµ¸,H¨ºRMAJORZ
-CODE_SMELL
-tsquid:S2184é"@Cast one of the operands of this integer division to a "double".(«¬¸Èıÿÿÿÿ8Şœ¸·,HİºRMINORZBUG
-r
-squid:S106j"9Replace this use of System.out or System.err by a logger.(£•È¬øÿÿÿÿ8¬¤òô»,HºRMAJORZ
-CODE_SMELL
-Usquid:S1659Í
-"Declare "k" on a separate line.(ø†ËÈ8çöìı»,H¸ºRMINORZ
-CODE_SMELL
-s
-squid:S106¢"9Replace this use of System.out or System.err by a logger.(ãöİúÿÿÿÿ8¬¤òô»,HñºRMAJORZ
-CODE_SMELL
-s
-squid:S106Ç"9Replace this use of System.out or System.err by a logger.(‹Ê–ùÿÿÿÿ8ìÙ‡—·,HµºRMAJORZ
-CODE_SMELL
-†squid:CommentedOutCodeLineµ"<This block of commented-out lines of code should be removed.(ÚçÆ¡ÿÿÿÿÿ8æ²Í´¹,HÑºRMAJORZ
-CODE_SMELL
-|squid:S2147ƒ"FCombine this catch with the one at line 1406, which has the same body.(ŒŠ•°8¼¿«Ì½,HÆºRMINORZ
-CODE_SMELL
-s
-squid:S106Ş"9Replace this use of System.out or System.err by a logger.(‰¼¯óùÿÿÿÿ8öŞİ¸,HæºRMAJORZ
-CODE_SMELL
-ssquid:S3518"CMake sure this expression can't be zero before doing this division.(±ùÊşÿÿÿÿHœºRCRITICALZBUG
-†squid:CommentedOutCodeLine
-"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8äù»,HÌºRMAJORZ
-CODE_SMELL
-~squid:S2095Ê"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(‚ô‘‰ùÿÿÿÿ8ÏÏ¥ˆ»,H£ºRBLOCKERZBUG
-s
-squid:S106£"9Replace this use of System.out or System.err by a logger.(œüñ¢şÿÿÿÿ8ı…¯Í¼,H¯ºRMAJORZ
-CODE_SMELL
-s
-squid:S106Å"9Replace this use of System.out or System.err by a logger.(¸ª¢ıÿÿÿÿ8æ…óğ¿,H„»RMAJORZ
-CODE_SMELL
-Rsquid:S1643´"Use a StringBuilder instead.(à·ñÈ8æ²Í´¹,HåºRMINORZ
-CODE_SMELL
-_squid:S2140Š")Use "java.util.Random.nextInt()" instead.(À¬¦©8Ç‘½º·,HïºRMINORZ
-CODE_SMELL
-n
-squid:S106œ"9Replace this use of System.out or System.err by a logger.(± –²8Ä³§—·,H¦ºRMAJORZ
-CODE_SMELL
-†squid:CommentedOutCodeLine¿"<This block of commented-out lines of code should be removed.(«êÒËúÿÿÿÿ8æ…óğ¿,H»RMAJORZ
-CODE_SMELL
-¦squid:S1319‘"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÏÆ8ÖÅ¬÷½,HººRMINORZ
-CODE_SMELL
-s
-squid:S106»"9Replace this use of System.out or System.err by a logger.(¯âå“ıÿÿÿÿ8ÖÅ¬÷½,H©ºRMAJORZ
-CODE_SMELL
-†squid:CommentedOutCodeLineù"<This block of commented-out lines of code should be removed.(ãÌ…Õşÿÿÿÿ8æ²Í´¹,H×ºRMAJORZ
-CODE_SMELL
-n
-squid:S106Ü"9Replace this use of System.out or System.err by a logger.(æ–„’8æ²Í´¹,HÕºRMAJORZ
-CODE_SMELL
-isquid:S1481Û".Remove this unused "imaginary" local variable.(“«òøÿÿÿÿ8æ²Í´¹,H÷ºRMINORZ
-CODE_SMELL
-s
-squid:S106¹"9Replace this use of System.out or System.err by a logger.(¢ÿ¸¯ùÿÿÿÿ8µÈˆ¡¾,HÖºRMAJORZ
-CODE_SMELL
-†squid:CommentedOutCodeLineÎ
-"<This block of commented-out lines of code should be removed.(ø„©İúÿÿÿÿ8çöìı»,HêºRMAJORZ
-CODE_SMELL
-‘squid:S1488Ë"[Immediately return this expression instead of assigning it to the temporary variable "ans".(íÚ­é8ãİÛ´·,H¢ºRMINORZ
-CODE_SMELL
-n
-squid:S106¼"9Replace this use of System.out or System.err by a logger.(ä”ˆ8Ù¬İ×¹,HÓºRMAJORZ
-CODE_SMELL
-asquid:S1905à"&Remove this unnecessary cast to "int".(†ÑÇßúÿÿÿÿ8‡ì›½¹,HÉºRMINORZ
-CODE_SMELL
-ssquid:S1854ü"=Remove this useless assignment to local variable "temporary".(î«éß8«¢Ü¼¸,HÎºRMAJORZ
-CODE_SMELL
-¥squid:S1319‘"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(ÏÆ8ëŠ‰¤¾,HĞºRMINORZ
-CODE_SMELL
-squid:S1488€"ZImmediately return this expression instead of assigning it to the temporary variable "d0".(è¡ìE8æ²Í´¹,HšºRMINORZ
-CODE_SMELL
-”squid:S2293ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(İ¤¸ùÿÿÿÿ8 ™ËÜ¸,H·ºRMINORZ
-CODE_SMELL
-tsquid:S2184ä"@Cast one of the operands of this integer division to a "double".(‰Ø‡Èûÿÿÿÿ8æ²Í´¹,HãºRMINORZBUG
-n
-squid:S106Ä"9Replace this use of System.out or System.err by a logger.(‡ü’Ó8æ²Í´¹,H´ºRMAJORZ
-CODE_SMELL
-tsquid:S1854ß"9Remove this useless assignment to local variable "root1".(ùºÇµûÿÿÿÿ8æ²Í´¹,HÛºRMAJORZ
-CODE_SMELL
-tsquid:S2184×"ECast one of the operands of this subtraction operation to a "double".( ×Ğ8æ²Í´¹,HÊºRMINORZBUG
-†squid:CommentedOutCodeLineæ"<This block of commented-out lines of code should be removed.(ãÌ…Õşÿÿÿÿ8æ²Í´¹,HÔºRMAJORZ
-CODE_SMELL
-†squid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(Š–Ä‡úÿÿÿÿ8ëŠ‰¤¾,HÇºRMAJORZ
-CODE_SMELL
-}squid:S2095±"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Ó¨‘¢8¦”Êä¸,HõºRBLOCKERZBUG
-squid:CommentedOutCodeLineÆ"<This block of commented-out lines of code should be removed.(†€éˆ8æ…óğ¿,H‚»RMAJORZ
-CODE_SMELL
-‹squid:S3776Ò	"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(Ôªòú8ÿàËö»,HÁºRCRITICALZ
-CODE_SMELL
-n
-squid:S106Ò"9Replace this use of System.out or System.err by a logger.(³ŒÙ÷8«À¬·,HøºRMAJORZ
-CODE_SMELL
-squid:CommentedOutCodeLineé"<This block of commented-out lines of code should be removed.(¬„ğ©8æ²Í´¹,HöºRMAJORZ
-CODE_SMELL
-vsquid:S2184"BCast one of the operands of this division operation to a "double".(±ùÊşÿÿÿÿ8Ï³Ş×¹,H½ºRMINORZBUG
-s
-squid:S106´"9Replace this use of System.out or System.err by a logger.(á¨‰şÿÿÿÿ8¬¤òô»,HáºRMAJORZ
-CODE_SMELL
-zsquid:CommentedOutCodeLineÁ"<This block of commented-out lines of code should be removed.(‰ÖHÒºRMAJORZ
+ssquid:S3518"CMake sure this expression can't be zero before doing this division.(±ùÊşÿÿÿÿHÆÙRCRITICALZBUG
+†squid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8äù»,HÇÙRMAJORZ
 CODE_SMELL

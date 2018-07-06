@@ -1,0 +1,7 @@
+
+¹squid:S1186."€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ˆ¶’é8ó…ÛÊÆ,HøRCRITICALZ
+CODE_SMELL
+¹squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚“¶î8Ö¹ÛÊÆ,HøRCRITICALZ
+CODE_SMELL
+tsquid:UselessImportCheck"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8¾ØÚÊÆ,HŒøRMINORZ
+CODE_SMELL

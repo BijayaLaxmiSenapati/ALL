@@ -1,0 +1,13 @@
+
+rsquid:S2133"?Remove this object instantiation and use "Hello.class" instead.(ÿŒ¤ûÿÿÿÿÿHåÛRMAJORZ
+CODE_SMELL
+rsquid:S2147&"DCombine this catch with the one at line 34, which has the same body.(‡¼Ð•HæÛRMINORZ
+CODE_SMELL
+f
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÁëÓÕHãÛRMAJORZ
+CODE_SMELL
+Ysquid:S1148$"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHçÛRMINORZVULNERABILITY
+Ysquid:S1148("#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHèÛRMINORZVULNERABILITY
+k
+squid:S106 "9Replace this use of System.out or System.err by a logger.(š¢ç„ýÿÿÿÿHäÛRMAJORZ
+CODE_SMELL

@@ -1,0 +1,11 @@
+
+m
+squid:S106!"9Replace this use of System.out or System.err by a logger.(à‘š“8Ëñ»ØÃ,H‹ßRMAJORZ
+CODE_SMELL
+`squid:S11489"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ëñ»ØÃ,HŒßRMINORZVULNERABILITY
+‰squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬™•HßRMINORZ
+CODE_SMELL
+squid:S2068"U'password' detected in this expression, review this potentially hardcoded credential.(ÙœÂ›8Ëñ»ØÃ,HßRBLOCKERZVULNERABILITY
+€squid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(†€éˆ8š¡ËØÃ,HßRMAJORZ
+CODE_SMELL
+`squid:S1148."#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ëñ»ØÃ,HßRMINORZVULNERABILITY
