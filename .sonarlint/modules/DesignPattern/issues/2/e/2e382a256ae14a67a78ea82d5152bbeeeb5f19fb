@@ -1,13 +1,13 @@
 
-tsquid:S2259H"FA "NullPointerException" could be thrown; "student2" is nullable here.(±°ήΪ8έ‘Α,HΏΕRMAJORZBUG
-m
-squid:S106L"9Replace this use of System.out or System.err by a logger.(ΫÿΚ‡8έ‘Α,HΐΕRMAJORZ
-CODE_SMELL
-squid:S2975'"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ΑÿΌµ8έ‘Α,HΑΕRBLOCKERZ
-CODE_SMELL
-]squid:S1185'"(Remove this method to simply inherit it.(ΑÿΌµ8έ‘Α,HΒΕRMINORZ
+squid:S2975'"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ΑÿΌµ8έ‘Α,HδÿRBLOCKERZ
 CODE_SMELL
 r
-squid:S106D"9Replace this use of System.out or System.err by a logger.(εγε¨ώÿÿÿÿ8έ‘Α,HΓΕRMAJORZ
+squid:S106D"9Replace this use of System.out or System.err by a logger.(εγε¨ώÿÿÿÿ8έ‘Α,HηÿRMAJORZ
 CODE_SMELL
-`squid:S1148?"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8έ‘Α,HΔΕRMINORZVULNERABILITY
+`squid:S1148?"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8έ‘Α,HιÿRMINORZVULNERABILITY
+]squid:S1185'"(Remove this method to simply inherit it.(ΑÿΌµ8έ‘Α,HθÿRMINORZ
+CODE_SMELL
+tsquid:S2259H"FA "NullPointerException" could be thrown; "student2" is nullable here.(±°ήΪ8έ‘Α,HεÿRMAJORZBUG
+m
+squid:S106L"9Replace this use of System.out or System.err by a logger.(ΫÿΚ‡8έ‘Α,HζÿRMAJORZ
+CODE_SMELL

@@ -1,4 +1,0 @@
-
-Ysquid:S11485"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿH•÷RMINORZVULNERABILITY
-^squid:S1989"(Add a "try/catch" block for "parseLong".(ÁÜ ÞûÿÿÿÿH–÷RMINORZVULNERABILITY
-\squid:S19892"+Add a "try/catch" block for "sendRedirect".(ôÌ»–H—÷RMINORZVULNERABILITY

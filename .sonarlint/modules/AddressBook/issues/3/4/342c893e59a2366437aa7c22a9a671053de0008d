@@ -1,10 +1,10 @@
 
-£squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Å‚İÙøÿÿÿÿHúéRMINORZ
+¨squid:S1319"uThe type of the "personList" object should be an interface such as "List" rather than the implementation "ArrayList".(ğÅ¿ùÿÿÿÿHĞRMINORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8Ô£´ÊÅ,HÑRMAJORZ
 CODE_SMELL
 Œsquid:S2293
-"YReplace the type specification in this constructor call with the diamond operator ("<>").(ËçôÿÿÿÿÿHùéRMINORZ
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ËçôÿÿÿÿÿHÒRMINORZ
 CODE_SMELL
-¨squid:S1319"uThe type of the "personList" object should be an interface such as "List" rather than the implementation "ArrayList".(ğÅ¿ùÿÿÿÿHûéRMINORZ
-CODE_SMELL
-…squid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8Ô£´ÊÅ,HüéRMAJORZ
+£squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Å‚İÙøÿÿÿÿHÓRMINORZ
 CODE_SMELL

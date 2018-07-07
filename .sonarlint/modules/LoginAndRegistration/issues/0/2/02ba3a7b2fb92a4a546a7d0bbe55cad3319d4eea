@@ -1,21 +1,0 @@
-
-tsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(ßŸÍÙüÿÿÿÿH÷RMINORZ
-CODE_SMELL
-e
-squid:S106""9Replace this use of System.out or System.err by a logger.(Å²/H‚÷RMAJORZ
-CODE_SMELL
-f
-squid:S106/"9Replace this use of System.out or System.err by a logger.(ØÕÑáHƒ÷RMAJORZ
-CODE_SMELL
-—"squid:ClassVariableVisibilityCheck"OMake con a static final constant or non-public and provide accessors if needed.(’ÔıÿH„÷RMINORZVULNERABILITY
-"squid:ClassVariableVisibilityCheck"PMake stmt a static final constant or non-public and provide accessors if needed.(¹¬æ±ûÿÿÿÿH…÷RMINORZVULNERABILITY
-œ"squid:ClassVariableVisibilityCheck"OMake pst a static final constant or non-public and provide accessors if needed.(—³ŸıÿÿÿÿH†÷RMINORZVULNERABILITY
-—"squid:ClassVariableVisibilityCheck"OMake res a static final constant or non-public and provide accessors if needed.(™áç‘H‡÷RMINORZVULNERABILITY
-\squid:S1481:")Remove this unused "file" local variable.(ò¹åîúÿÿÿÿHˆ÷RMINORZ
-CODE_SMELL
-–squid:S1598"ßThis file "DataAccessObject.java" should be located in "com/bridgelabz/loginandregistration/DAO" directory, not in "/home/adminstrato/BijayaWorkSpace/LoginAndRegistration/src/com/bridgelabz/loginandregistration/repository".(éÅœ³øÿÿÿÿH‰÷RCRITICALZ
-CODE_SMELL
-nsquid:S2259,"BA "NullPointerException" could be thrown; "stmt" is nullable here.(Æ€»ÇùÿÿÿÿHŠ÷RMAJORZBUG
-squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éÅœ³øÿÿÿÿH‹÷RMINORZ
-CODE_SMELL
-Ysquid:S1148F"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHŒ÷RMINORZVULNERABILITY

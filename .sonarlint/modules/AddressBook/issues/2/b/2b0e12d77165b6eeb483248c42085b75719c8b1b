@@ -1,110 +1,112 @@
 
-…squid:S2159’"VRemove this call to "equals"; comparisons between unrelated types always return false.(œ«Ôû8ÁÀù‰Å,HıéRMAJORZBUG
 s
-squid:S106¿"9Replace this use of System.out or System.err by a logger.(È®º©ûÿÿÿÿ8’Òª‡Å,HşéRMAJORZ
+squid:S106Á"9Replace this use of System.out or System.err by a logger.(È®º©ûÿÿÿÿ8’Òª‡Å,Hü€RMAJORZ
 CODE_SMELL
-n
-squid:S106ç"9Replace this use of System.out or System.err by a logger.(Ãü¤¥8Úã¥Å,HÿéRMAJORZ
-CODE_SMELL
-s
-squid:S106Â"9Replace this use of System.out or System.err by a logger.(éĞ«şÿÿÿÿ8¹ªÅ,H€êRMAJORZ
-CODE_SMELL
-`squid:S1148M"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ú¾û€Å,HêRMINORZVULNERABILITY
-asquid:S1481",Remove this unused "insertQ" local variable.(Ó¾Şw8†–âˆÅ,H‚êRMINORZ
-CODE_SMELL
-’squid:S2077"RUse a variable binding mechanism to construct this query instead of concatenation.(àÂºâúÿÿÿÿ8Ù‘¤Å,HƒêRCRITICALZVULNERABILITY
-fsquid:S1481–"0Remove this unused "deleteQuery" local variable.(Í– 8•çöˆÅ,H„êRMINORZ
-CODE_SMELL
-m
-squid:S106\"9Replace this use of System.out or System.err by a logger.(»¾³È8’Òª‡Å,H…êRMAJORZ
-CODE_SMELL
-s
-squid:S106¯"9Replace this use of System.out or System.err by a logger.(”±´Óùÿÿÿÿ8Ú¾û€Å,H†êRMAJORZ
-CODE_SMELL
-asquid:S1481—",Remove this unused "insertQ" local variable.(Ó¾Şw8’”ÓˆÅ,H‡êRMINORZ
-CODE_SMELL
-m
-squid:S106%"9Replace this use of System.out or System.err by a logger.(‘¤¡ƒ8¦í¶Å,HˆêRMAJORZ
-CODE_SMELL
-usquid:S1854¥"?Remove this useless assignment to local variable "deleteQuery".(Í– 8•çöˆÅ,H‰êRMAJORZ
-CODE_SMELL
-usquid:S1854–"?Remove this useless assignment to local variable "deleteQuery".(Í– 8°éßˆÅ,HŠêRMAJORZ
-CODE_SMELL
-`squid:S11487"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ì°½Å,H‹êRMINORZVULNERABILITY
-…squid:CommentedOutCodeLineg"<This block of commented-out lines of code should be removed.(ã¯¯œûÿÿÿÿ8¹ªÅ,HŒêRMAJORZ
-CODE_SMELL
-psquid:S1854—";Remove this useless assignment to local variable "insertQ".(Ó¾Şw8’”ÓˆÅ,HêRMAJORZ
-CODE_SMELL
-`squid:S1148]"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ú¾û€Å,HêRMINORZVULNERABILITY
-n
-squid:S106"9Replace this use of System.out or System.err by a logger.(—Û¦ÿ8’Òª‡Å,HêRMAJORZ
-CODE_SMELL
-`squid:S1148>"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ú¾û€Å,HêRMINORZVULNERABILITY
+…squid:S2159”"VRemove this call to "equals"; comparisons between unrelated types always return false.(œ«Ôû8ÁÀù‰Å,H‘RMAJORZBUG
 r
-squid:S106Y"9Replace this use of System.out or System.err by a logger.(ÈÙ¦•úÿÿÿÿ8’Òª‡Å,H‘êRMAJORZ
+squid:S106K"9Replace this use of System.out or System.err by a logger.(ÑÒÙÜıÿÿÿÿ8Úã¥Å,H…RMAJORZ
 CODE_SMELL
 n
-squid:S106œ"9Replace this use of System.out or System.err by a logger.(·Ù’–8’Òª‡Å,H’êRMAJORZ
+squid:S106Ÿ"9Replace this use of System.out or System.err by a logger.(—Û¦ÿ8’Òª‡Å,Hö€RMAJORZ
 CODE_SMELL
-s
-squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(²¯êãşÿÿÿÿ8¶½»Å,H“êRMAJORZ
-CODE_SMELL
-s
-squid:S106•"9Replace this use of System.out or System.err by a logger.(­¨—øÿÿÿÿ8È£Ù‡Å,H”êRMAJORZ
+r"squid:SwitchLastCaseIsDefaultCheck¥""Add a default case to this switch.(À¢Ó£8’Òª‡Å,Hş€RCRITICALZ
 CODE_SMELL
 n
-squid:S106ì"9Replace this use of System.out or System.err by a logger.(ø—Ğ˜8¶½»Å,H•êRMAJORZ
+squid:S106£"9Replace this use of System.out or System.err by a logger.(–ôæŞ8¶½»Å,Hë€RMAJORZ
 CODE_SMELL
 s
-squid:S106¦"9Replace this use of System.out or System.err by a logger.(÷Çõçùÿÿÿÿ8Ú¾û€Å,H–êRMAJORZ
-CODE_SMELL
-n
-squid:S106È"9Replace this use of System.out or System.err by a logger.(¦­§˜8’Òª‡Å,H—êRMAJORZ
-CODE_SMELL
-s
-squid:S106Ÿ"9Replace this use of System.out or System.err by a logger.(‡ÊÙ‰ıÿÿÿÿ8’Òª‡Å,H˜êRMAJORZ
-CODE_SMELL
-n
-squid:S106 "9Replace this use of System.out or System.err by a logger.(Õ‹«8¶½»Å,H™êRMAJORZ
-CODE_SMELL
-psquid:S1854";Remove this useless assignment to local variable "insertQ".(Ó¾Şw8†–âˆÅ,HšêRMAJORZ
-CODE_SMELL
-fsquid:S1481š"0Remove this unused "updateQuery" local variable.(¢öÀî8È£Ù‡Å,H›êRMINORZ
-CODE_SMELL
-fsquid:S1481¥"0Remove this unused "deleteQuery" local variable.(Í– 8°éßˆÅ,HœêRMINORZ
-CODE_SMELL
-m
-squid:S106f"9Replace this use of System.out or System.err by a logger.(Éş–ü8ì°½Å,HêRMAJORZ
-CODE_SMELL
-m
-squid:S106"9Replace this use of System.out or System.err by a logger.(ïÓ…q8’Òª‡Å,HêRMAJORZ
-CODE_SMELL
-s
-squid:S106í"9Replace this use of System.out or System.err by a logger.(±¶ÈÅùÿÿÿÿ8’Òª‡Å,HŸêRMAJORZ
-CODE_SMELL
-s
-squid:S106·"9Replace this use of System.out or System.err by a logger.(õŸìÃûÿÿÿÿ8’Òª‡Å,H êRMAJORZ
-CODE_SMELL
-…squid:S2159ˆ"VRemove this call to "equals"; comparisons between unrelated types always return false.(†ıƒ‘8ÁÀù‰Å,H¡êRMAJORZBUG
-n
-squid:S106¡"9Replace this use of System.out or System.err by a logger.(–ôæŞ8’Òª‡Å,H¢êRMAJORZ
-CODE_SMELL
-`squid:S1148x"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ù‘¤Å,H£êRMINORZVULNERABILITY
-squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÒÓÉ8–‘©ˆÅ,H¤êRMINORZ
-CODE_SMELL
-Šsquid:S2159Š"VRemove this call to "equals"; comparisons between unrelated types always return false.(³âòşÿÿÿÿ8ÁÀù‰Å,H¥êRMAJORZBUG
-`squid:S11480"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ú¾û€Å,H¦êRMINORZVULNERABILITY
-asquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¹ªÅ,H§êRMINORZVULNERABILITY
-’squid:S2077J"RUse a variable binding mechanism to construct this query instead of concatenation.(í™”ÿÿÿÿÿ8Ú¾û€Å,H¨êRCRITICALZVULNERABILITY
-r"squid:SwitchLastCaseIsDefaultCheck£""Add a default case to this switch.(À¢Ó£8’Òª‡Å,H©êRCRITICALZ
-CODE_SMELL
-`squid:S1148&"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ú¾û€Å,HªêRMINORZVULNERABILITY
-s
-squid:S106è"9Replace this use of System.out or System.err by a logger.(±¶ÈÅùÿÿÿÿ8’Òª‡Å,H«êRMAJORZ
+squid:S106¹"9Replace this use of System.out or System.err by a logger.(õŸìÃûÿÿÿÿ8¶½»Å,Hú€RMAJORZ
 CODE_SMELL
 r
-squid:S106K"9Replace this use of System.out or System.err by a logger.(ÑÒÙÜıÿÿÿÿ8Úã¥Å,H¬êRMAJORZ
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(ÈÙ¦•úÿÿÿÿ8’Òª‡Å,Hï€RMAJORZ
+CODE_SMELL
+`squid:S11480"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ú¾û€Å,Hõ€RMINORZVULNERABILITY
+“squid:S2077"RUse a variable binding mechanism to construct this query instead of concatenation.(àÂºâúÿÿÿÿ8Ù‘¤Å,HƒRCRITICALZVULNERABILITY
+s
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(‡ÊÙ‰ıÿÿÿÿ8’Òª‡Å,H“RMAJORZ
+CODE_SMELL
+Šsquid:S2159Œ"VRemove this call to "equals"; comparisons between unrelated types always return false.(³âòşÿÿÿÿ8ÁÀù‰Å,H‹RMAJORZBUG
+fsquid:S1481˜"0Remove this unused "deleteQuery" local variable.(Í– 8°éßˆÅ,H€RMINORZ
+CODE_SMELL
+…squid:CommentedOutCodeLineh"<This block of commented-out lines of code should be removed.(ã¯¯œûÿÿÿÿ8¹ªÅ,H—RMAJORZ
+CODE_SMELL
+m
+squid:S106%"9Replace this use of System.out or System.err by a logger.(‘¤¡ƒ8¦í¶Å,Hø€RMAJORZ
 CODE_SMELL
 s
-squid:S106©"9Replace this use of System.out or System.err by a logger.(éĞ«şÿÿÿÿ8¶½»Å,H­êRMAJORZ
+squid:S106—"9Replace this use of System.out or System.err by a logger.(­¨—øÿÿÿÿ8’Òª‡Å,Hê€RMAJORZ
+CODE_SMELL
+psquid:S1854™";Remove this useless assignment to local variable "insertQ".(Ó¾Şw8’”ÓˆÅ,H”RMAJORZ
+CODE_SMELL
+s
+squid:S106«"9Replace this use of System.out or System.err by a logger.(éĞ«şÿÿÿÿ8’Òª‡Å,Hò€RMAJORZ
+CODE_SMELL
+n
+squid:S106Ê"9Replace this use of System.out or System.err by a logger.(¦­§˜8Ú¾û€Å,H‡RMAJORZ
+CODE_SMELL
+`squid:S1148>"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ú¾û€Å,HˆRMINORZVULNERABILITY
+fsquid:S1481œ"0Remove this unused "updateQuery" local variable.(¢öÀî8È£Ù‡Å,Hì€RMINORZ
+CODE_SMELL
+n
+squid:S106¢"9Replace this use of System.out or System.err by a logger.(Õ‹«8¶½»Å,H‚RMAJORZ
+CODE_SMELL
+psquid:S1854";Remove this useless assignment to local variable "insertQ".(Ó¾Şw8†–âˆÅ,Hó€RMAJORZ
+CODE_SMELL
+`squid:S1148]"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ú¾û€Å,Hù€RMINORZVULNERABILITY
+s
+squid:S106ï"9Replace this use of System.out or System.err by a logger.(±¶ÈÅùÿÿÿÿ8Úã¥Å,HŒRMAJORZ
+CODE_SMELL
+s
+squid:S106Ä"9Replace this use of System.out or System.err by a logger.(éĞ«şÿÿÿÿ8’Òª‡Å,Hı€RMAJORZ
+CODE_SMELL
+s
+squid:S106ê"9Replace this use of System.out or System.err by a logger.(±¶ÈÅùÿÿÿÿ8ì°½Å,H‰RMAJORZ
+CODE_SMELL
+m
+squid:S106\"9Replace this use of System.out or System.err by a logger.(»¾³È8’Òª‡Å,HRMAJORZ
+CODE_SMELL
+n
+squid:S106î"9Replace this use of System.out or System.err by a logger.(ø—Ğ˜8’Òª‡Å,Hí€RMAJORZ
+CODE_SMELL
+usquid:S1854˜"?Remove this useless assignment to local variable "deleteQuery".(Í– 8°éßˆÅ,Hÿ€RMAJORZ
+CODE_SMELL
+`squid:S11487"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ì°½Å,Hû€RMINORZVULNERABILITY
+s
+squid:S106±"9Replace this use of System.out or System.err by a logger.(”±´Óùÿÿÿÿ8¹ªÅ,H÷€RMAJORZ
+CODE_SMELL
+asquid:S1481",Remove this unused "insertQ" local variable.(Ó¾Şw8†–âˆÅ,HRMINORZ
+CODE_SMELL
+asquid:S1148ƒ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¹ªÅ,H’RMINORZVULNERABILITY
+m
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ïÓ…q8¶½»Å,Hè€RMAJORZ
+CODE_SMELL
+`squid:S1148M"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ú¾û€Å,Hğ€RMINORZVULNERABILITY
+`squid:S1148z"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ù‘¤Å,Hñ€RMINORZVULNERABILITY
+…squid:S2159Š"VRemove this call to "equals"; comparisons between unrelated types always return false.(†ıƒ‘8ÁÀù‰Å,Hç€RMAJORZBUG
+s
+squid:S106¨"9Replace this use of System.out or System.err by a logger.(÷Çõçùÿÿÿÿ8È£Ù‡Å,Hî€RMAJORZ
+CODE_SMELL
+’squid:S2077J"RUse a variable binding mechanism to construct this query instead of concatenation.(í™”ÿÿÿÿÿ8Ú¾û€Å,H„RCRITICALZVULNERABILITY
+n
+squid:S106"9Replace this use of System.out or System.err by a logger.(·Ù’–8’Òª‡Å,HŠRMAJORZ
+CODE_SMELL
+s
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(²¯êãşÿÿÿÿ8’Òª‡Å,Hé€RMAJORZ
+CODE_SMELL
+fsquid:S1481§"0Remove this unused "deleteQuery" local variable.(Í– 8•çöˆÅ,H†RMINORZ
+CODE_SMELL
+asquid:S1481™",Remove this unused "insertQ" local variable.(Ó¾Şw8’”ÓˆÅ,H–RMINORZ
+CODE_SMELL
+`squid:S1148&"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ú¾û€Å,H•RMINORZVULNERABILITY
+m
+squid:S106g"9Replace this use of System.out or System.err by a logger.(Éş–ü8Ú¾û€Å,HRMAJORZ
+CODE_SMELL
+n
+squid:S106é"9Replace this use of System.out or System.err by a logger.(Ãü¤¥8’Òª‡Å,HRMAJORZ
+CODE_SMELL
+usquid:S1854§"?Remove this useless assignment to local variable "deleteQuery".(Í– 8•çöˆÅ,HRMAJORZ
+CODE_SMELL
+squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÒÓÉ8–‘©ˆÅ,Hô€RMINORZ
+CODE_SMELL
+_squid:S1481f"*Remove this unused "count" local variable.(æÕ¿¼8£ı§Ç,HÔRMINORZ
 CODE_SMELL

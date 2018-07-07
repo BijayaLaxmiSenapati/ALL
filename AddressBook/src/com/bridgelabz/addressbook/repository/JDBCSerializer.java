@@ -114,7 +114,8 @@ public class JDBCSerializer implements Serializer
 				String zip = rs.getString(6);
 				String phoneNumber = rs.getString(7);
 				Person person2 = new Person(fname, lname, address, city, state, zip, phoneNumber);
-				addressBook.personList.add(count++,person2);//have doubt
+				//addressBook.personList.(count++,person2);//have doubt
+				addressBook.personList.add(person2);
 			}
 		} catch (SQLException e)
 		{

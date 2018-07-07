@@ -1,24 +1,24 @@
 
+`squid:S1148l"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8„ù÷ÈÆ,H¨‚RMINORZVULNERABILITY
+asquid:S1148„"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8àÌ¬ÎÆ,H©‚RMINORZVULNERABILITY
+„squid:S2095]"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(°ï¯úÿÿÿÿ8á›•ÌÆ,Hª‚RBLOCKERZBUG
 e
-squid:S106"9Replace this use of System.out or System.err by a logger.(Å²/Hİ÷RMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å²/H«‚RMAJORZ
 CODE_SMELL
-dsquid:S1172'"*Remove this unused method parameter "con".(İÕ¹ˆşÿÿÿÿ8àÌ¬ÎÆ,HàúRMAJORZ
+tsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(ßŸÍÙüÿÿÿÿH¬‚RMINORZ
 CODE_SMELL
-„squid:S2095]"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(°ï¯úÿÿÿÿ8á›•ÌÆ,HÎùRBLOCKERZBUG
-|squid:S2095_"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¯âÈÿÿÿÿÿ8á›•ÌÆ,HÌùRBLOCKERZBUG
-tsquid:S22591"AA "NullPointerException" could be thrown; "res" is nullable here.(¢Ş­şÿÿÿÿÿ8àÌ¬ÎÆ,HáúRMAJORZBUG
-Zsquid:S1148š"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHá÷RMINORZVULNERABILITY
-`squid:S11488"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‘Ä¾ÊÆ,HŠøRMINORZVULNERABILITY
-`squid:S1148P"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8èØ¿ÉÆ,Hû÷RMINORZVULNERABILITY
+|squid:S2095_"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¯âÈÿÿÿÿÿ8á›•ÌÆ,H­‚RBLOCKERZBUG
+dsquid:S1172'"*Remove this unused method parameter "con".(İÕ¹ˆşÿÿÿÿ8àÌ¬ÎÆ,H®‚RMAJORZ
+CODE_SMELL
+`squid:S1148P"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8èØ¿ÉÆ,H¯‚RMINORZVULNERABILITY
+Zsquid:S1148š"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH°‚RMINORZVULNERABILITY
+\squid:S1481D")Remove this unused "file" local variable.(ò¹åîúÿÿÿÿH±‚RMINORZ
+CODE_SMELL
 m
-squid:S1069"9Replace this use of System.out or System.err by a logger.(é¥³å8úı±ÎÆ,HèúRMAJORZ
+squid:S1069"9Replace this use of System.out or System.err by a logger.(é¥³å8úı±ÎÆ,H²‚RMAJORZ
 CODE_SMELL
-`squid:S1148l"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8„ù÷ÈÆ,Hğ÷RMINORZVULNERABILITY
+tsquid:S22591"AA "NullPointerException" could be thrown; "res" is nullable here.(¢Ş­şÿÿÿÿÿ8àÌ¬ÎÆ,H³‚RMAJORZBUG
 r
-squid:S1066"9Replace this use of System.out or System.err by a logger.(éß¯‚úÿÿÿÿ8ÇŞ°ÎÆ,HæúRMAJORZ
+squid:S1066"9Replace this use of System.out or System.err by a logger.(éß¯‚úÿÿÿÿ8ÇŞ°ÎÆ,H´‚RMAJORZ
 CODE_SMELL
-asquid:S1148„"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8àÌ¬ÎÆ,HâúRMINORZVULNERABILITY
-tsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(ßŸÍÙüÿÿÿÿHØ÷RMINORZ
-CODE_SMELL
-\squid:S1481D")Remove this unused "file" local variable.(ò¹åîúÿÿÿÿHß÷RMINORZ
-CODE_SMELL
+`squid:S11488"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‘Ä¾ÊÆ,Hµ‚RMINORZVULNERABILITY

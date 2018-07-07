@@ -1,0 +1,10 @@
+[ {
+  "firstName" : "abcd",
+  "lastName" : "efgh",
+  "address" : "ijkl",
+  "city" : "mnop",
+  "state" : "qrst",
+  "zip" : "1234",
+  "phoneNumber" : "7564543",
+  "status" : "defaultStatus"
+} ]

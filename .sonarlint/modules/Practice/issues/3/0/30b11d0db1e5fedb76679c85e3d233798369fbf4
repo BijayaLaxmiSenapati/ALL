@@ -1,5 +1,5 @@
 
-Œsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¼šÁ¶HñÛRCRITICALZ
+Xsquid:S1214""Move constants to a class or enum.(ß©ÀáýÿÿÿÿH”þRCRITICALZ
 CODE_SMELL
-Xsquid:S1214""Move constants to a class or enum.(ß©ÀáýÿÿÿÿHðÛRCRITICALZ
+Œsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¼šÁ¶H•þRCRITICALZ
 CODE_SMELL

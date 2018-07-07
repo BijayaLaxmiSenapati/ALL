@@ -1,18 +1,18 @@
 
-~squid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(Û‚¸œúÿÿÿÿHüÛRMAJORZ
+Ysquid:S1148*"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHŸþRMINORZVULNERABILITY
+vsquid:UselessImportCheck";Remove this unused import 'java.lang.reflect.TypeVariable'.(¯­å„H þRMINORZ
+CODE_SMELL
+qsquid:UselessImportCheck"7Remove this unused import 'java.lang.reflect.Modifier'.(×£Ð6H¡þRMINORZ
+CODE_SMELL
+Ysquid:S1481"&Remove this unused "c" local variable.(ˆÆ§ÊúÿÿÿÿH¢þRMINORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(Û‚¸œúÿÿÿÿH£þRMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¨ïö6H¤þRMAJORZ
 CODE_SMELL
 f
-squid:S106%"9Replace this use of System.out or System.err by a logger.(£·®HýÛRMAJORZ
+squid:S106%"9Replace this use of System.out or System.err by a logger.(£·®H¥þRMAJORZ
 CODE_SMELL
-xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¨ïö6HûÛRMAJORZ
-CODE_SMELL
-Ysquid:S1148*"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿH‚ÜRMINORZVULNERABILITY
 €squid:CommentedOutCodeLine
-"<This block of commented-out lines of code should be removed.(íé¸è8Ï’”×Ã,H”ÜRMAJORZ
-CODE_SMELL
-Ysquid:S1481"&Remove this unused "c" local variable.(ˆÆ§ÊúÿÿÿÿHþÛRMINORZ
-CODE_SMELL
-vsquid:UselessImportCheck";Remove this unused import 'java.lang.reflect.TypeVariable'.(¯­å„HÜRMINORZ
-CODE_SMELL
-qsquid:UselessImportCheck"7Remove this unused import 'java.lang.reflect.Modifier'.(×£Ð6H€ÜRMINORZ
+"<This block of commented-out lines of code should be removed.(íé¸è8Ï’”×Ã,H¦þRMAJORZ
 CODE_SMELL
