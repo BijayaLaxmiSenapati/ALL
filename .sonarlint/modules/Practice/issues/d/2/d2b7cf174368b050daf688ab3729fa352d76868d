@@ -1,11 +1,11 @@
 
-Ysquid:S11486"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿHεήRMINORZVULNERABILITY
-msquid:S1118":Add a private constructor to hide the implicit public one.(ρÒ£―ύÿÿÿÿHιήRMAJORZ
+msquid:S1118":Add a private constructor to hide the implicit public one.(ρÒ£―ύÿÿÿÿHσ‡RMAJORZ
 CODE_SMELL
-Ysquid:S1148E"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿHζήRMINORZVULNERABILITY
-Ysquid:S11484"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿHδήRMINORZVULNERABILITY
-φsquid:S1192"ΈDefine a constant instead of duplicating this literal "/home/adminstrato/BijayaWorkSpace/Practice/src/com/bridgelabz/jdbcpractice/connectionpooling/DatabaseDetails.properties" 3 times.(χν΅δωÿÿÿÿ8ªΰΨΓ,HηήRCRITICALZ
+Ysquid:S11486"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿHτ‡RMINORZVULNERABILITY
+φsquid:S1192"ΈDefine a constant instead of duplicating this literal "/home/adminstrato/BijayaWorkSpace/Practice/src/com/bridgelabz/jdbcpractice/connectionpooling/DatabaseDetails.properties" 3 times.(χν΅δωÿÿÿÿ8ªΰΨΓ,Hυ‡RCRITICALZ
 CODE_SMELL
-rsquid:S21475"DCombine this catch with the one at line 51, which has the same body.(Ι®£HθήRMINORZ
+rsquid:S21475"DCombine this catch with the one at line 51, which has the same body.(Ι®£Hφ‡RMINORZ
 CODE_SMELL
-Ysquid:S1148#"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿHκήRMINORZVULNERABILITY
+Ysquid:S11484"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿHχ‡RMINORZVULNERABILITY
+Ysquid:S1148#"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿHψ‡RMINORZVULNERABILITY
+Ysquid:S1148E"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿHω‡RMINORZVULNERABILITY

@@ -1,18 +1,18 @@
 
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(éÊ®„üÿÿÿÿ8Í‹ÚÄ,H˜ˆRMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(­š»ğøÿÿÿÿ8×şîÙÄ,H™ˆRMAJORZ
+CODE_SMELL
 l
-squid:S106"9Replace this use of System.out or System.err by a logger.(£í„?8ÄŞÒÚÄ,H¸âRMAJORZ
-CODE_SMELL
-r
-squid:S106""9Replace this use of System.out or System.err by a logger.(¯÷¨îÿÿÿÿÿ8ÄŞÒÚÄ,H¹âRMAJORZ
-CODE_SMELL
-r
-squid:S106"9Replace this use of System.out or System.err by a logger.(éÊ®„üÿÿÿÿ8Í‹ÚÄ,H¬âRMAJORZ
-CODE_SMELL
-r
-squid:S106"9Replace this use of System.out or System.err by a logger.(­š»ğøÿÿÿÿ8×şîÙÄ,H¥âRMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(£í„?8ÄŞÒÚÄ,HšˆRMAJORZ
 CODE_SMELL
 m
-squid:S106"9Replace this use of System.out or System.err by a logger.(†Õô°8Í‹ÚÄ,H«âRMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(†Õô°8Í‹ÚÄ,H›ˆRMAJORZ
 CODE_SMELL
-…squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Û°´‚şÿÿÿÿ8Ò’†ÚÄ,H©âRMAJORZ
+r
+squid:S106""9Replace this use of System.out or System.err by a logger.(¯÷¨îÿÿÿÿÿ8ÄŞÒÚÄ,HœˆRMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Û°´‚şÿÿÿÿ8Ò’†ÚÄ,HˆRMAJORZ
 CODE_SMELL

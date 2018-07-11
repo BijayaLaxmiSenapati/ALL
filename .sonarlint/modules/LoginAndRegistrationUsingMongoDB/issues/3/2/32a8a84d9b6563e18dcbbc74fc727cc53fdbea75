@@ -1,0 +1,26 @@
+
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(—óÀôüÿÿÿÿ8©¨ÎøÇ,H£‡RMAJORZ
+CODE_SMELL
+ksquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8½Áº÷Ç,H¤‡RINFOZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒÍ’§üÿÿÿÿ8 æÐøÇ,H¥‡RMAJORZ
+CODE_SMELL
+ksquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8“œ»÷Ç,H¦‡RINFOZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÉãÈ¥øÿÿÿÿ8©¨ÎøÇ,H§‡RMAJORZ
+CODE_SMELL
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(€ÚŽ‹8©¨ÎøÇ,H¨‡RMAJORZ
+CODE_SMELL
+asquid:S1172",Remove this unused method parameter "email".(ÙÖÇÚ8½Áº÷Ç,H©‡RMAJORZ
+CODE_SMELL
+ysquid:S2095"IUse try-with-resources or close this "MongoClient" in a "finally" clause.(¤Å³‡8©¨ÎøÇ,Hª‡RBLOCKERZBUG
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬çÄ±ûÿÿÿÿ8©¨ÎøÇ,H«‡RMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦™Þãüÿÿÿÿ8©¨ÎøÇ,H¬‡RMAJORZ
+CODE_SMELL

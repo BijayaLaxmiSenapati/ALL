@@ -5,9 +5,7 @@ c
 3src/main/java/com/bridgelabz/JUnitPractice/App.java,f/7/f75c3c9406ad58b9b2ebdc66da8f7405361c56de
 r
 Bsrc/main/java/com/bridgelabz/JUnitPractice/AssertClassMethods.java,b/e/be4390065434d52ac257745fcc295feebf81d7d1
-z
-Jsrc/main/java/com/bridgelabz/JUnitPractice/AssertClassMethodsTestCase.java,d/8/d8568f22f238966a89139fb203a4f89902aef0bf
-z
-Jsrc/test/java/com/bridgelabz/JUnitPractice/AssertClassMethodsTestCase.java,2/e/2ec4324ca3069d193a1d844ec9267ad9c4a5ddd1
 k
 ;src/test/java/com/bridgelabz/JUnitPractice/AssertClass.java,0/b/0b5644d01754704d5d22f8fab073082332d5f435
+g
+7src/test/java/com/bridgelabz/JUnitPractice/AppTest.java,f/8/f892da40db6946db65c66218c835fa09e1b1eecd

@@ -1,0 +1,45 @@
+
+k
+squid:S106 "9Replace this use of System.out or System.err by a logger.(Ë¢ÈèùÿÿÿÿHß†RMAJORZ
+CODE_SMELL
+f
+squid:S1069"9Replace this use of System.out or System.err by a logger.(œàˆHà†RMAJORZ
+CODE_SMELL
+k
+squid:S106C"9Replace this use of System.out or System.err by a logger.(£¿…ÛúÿÿÿÿHá†RMAJORZ
+CODE_SMELL
+k
+squid:S106!"9Replace this use of System.out or System.err by a logger.(½†âøÿÿÿÿHâ†RMAJORZ
+CODE_SMELL
+k
+squid:S106$"9Replace this use of System.out or System.err by a logger.(èÿâ‹ùÿÿÿÿHã†RMAJORZ
+CODE_SMELL
+k
+squid:S106;"9Replace this use of System.out or System.err by a logger.(²ÊæûÿÿÿÿHä†RMAJORZ
+CODE_SMELL
+f
+squid:S106"9Replace this use of System.out or System.err by a logger.(øØäÚHå†RMAJORZ
+CODE_SMELL
+k
+squid:S106A"9Replace this use of System.out or System.err by a logger.(Î¦Õ“üÿÿÿÿHæ†RMAJORZ
+CODE_SMELL
+k
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ó‰îÿøÿÿÿÿHç†RMAJORZ
+CODE_SMELL
+k
+squid:S106-"9Replace this use of System.out or System.err by a logger.(áí·¼øÿÿÿÿHè†RMAJORZ
+CODE_SMELL
+k
+squid:S106%"9Replace this use of System.out or System.err by a logger.(À”©—üÿÿÿÿHé†RMAJORZ
+CODE_SMELL
+o"squid:SwitchLastCaseIsDefaultCheck'""Add a default case to this switch.(­Ö¹§úÿÿÿÿHê†RCRITICALZ
+CODE_SMELL
+k
+squid:S106/"9Replace this use of System.out or System.err by a logger.(²ÊæûÿÿÿÿHë†RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(íüœ-Hì†RMAJORZ
+CODE_SMELL
+k
+squid:S106""9Replace this use of System.out or System.err by a logger.(ŸïÍòûÿÿÿÿHí†RMAJORZ
+CODE_SMELL

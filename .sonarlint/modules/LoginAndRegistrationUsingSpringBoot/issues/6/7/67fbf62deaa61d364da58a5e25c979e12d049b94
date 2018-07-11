@@ -1,0 +1,12 @@
+
+r
+squid:S106$"9Replace this use of System.out or System.err by a logger.(î¸ıÿÿÿÿ8˜¦îÇ,H­‡RMAJORZ
+CODE_SMELL
+˜squid:UselessImportCheck"QRemove this unused import 'org.springframework.web.bind.annotation.PathVariable'.(¹ûñÅşÿÿÿÿ8²¯õÇ,H®‡RMINORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ùÿ­›ùÿÿÿÿ8á³ ìÇ,H¯‡RMAJORZ
+CODE_SMELL
+r
+squid:S106#"9Replace this use of System.out or System.err by a logger.(î¸ıÿÿÿÿ8ÀúÌîÇ,H°‡RMAJORZ
+CODE_SMELL
