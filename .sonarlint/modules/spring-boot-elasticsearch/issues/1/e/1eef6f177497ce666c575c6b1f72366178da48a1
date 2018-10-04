@@ -1,0 +1,20 @@
+
+€squid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(·ƒÒº8¸ŽÕ›Û,H¡RMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(÷€ªäúÿÿÿÿ8¸ŽÕ›Û,H¢RMAJORZ
+CODE_SMELL
+Nsquid:S1170"!Make this final field static too.(’§¤hH£RMINORZ
+CODE_SMELL
+[squid:S14816"-Remove this unused "response" local variable.(þÆ¢¸H¤RMINORZ
+CODE_SMELL
+~squid:S00116"PRename this field "INDEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’§¤hH¥RMINORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(–¤ª×ÿÿÿÿÿ8¸ŽÕ›Û,H¦RMAJORZ
+CODE_SMELL
+asquid:S1481k"3Remove this unused "deleteResponse" local variable.(Ï‰‹ŸH§RMINORZ
+CODE_SMELL
+[squid:S1170"!Make this final field static too.(ñüÉ€ýÿÿÿÿ8¸ŽÕ›Û,H¨RMINORZ
+CODE_SMELL
+ƒsquid:S00116"ORename this field "TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñüÉ€ýÿÿÿÿH©RMINORZ
+CODE_SMELL
+usquid:S2259R"IA "NullPointerException" could be thrown; "getResponse" is nullable here.(Ÿ¾·üýÿÿÿÿHªRMAJORZBUG

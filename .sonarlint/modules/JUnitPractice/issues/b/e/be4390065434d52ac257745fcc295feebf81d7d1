@@ -1,17 +1,9 @@
 
-…squid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(·ïéùýÿÿÿÿ8³øûíÆ,H™‡RMAJORZ
+vsquid:S1126	"AReplace this if-then-else statement by a single return statement.(„À³²8³øûíÆ,HÒŽRMINORZ
 CODE_SMELL
-‰squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªÜ»çHš‡RMINORZ
+‰squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªÜ»çHÔŽRMINORZ
 CODE_SMELL
-vsquid:S1126	"AReplace this if-then-else statement by a single return statement.(„À³²8³øûíÆ,H›‡RMINORZ
+esquid:S1481&"+Remove this unused "result" local variable.(»Ùøÿÿÿÿ8Þ‹šÏÚ,HÐŽRMINORZ
 CODE_SMELL
-esquid:S1481&"+Remove this unused "result" local variable.(»Ùøÿÿÿÿ8³øûíÆ,Hœ‡RMINORZ
-CODE_SMELL
-r
-squid:S106""9Replace this use of System.out or System.err by a logger.(ßöëÝýÿÿÿÿ8³øûíÆ,H‡RMAJORZ
-CODE_SMELL
-m
-squid:S106'"9Replace this use of System.out or System.err by a logger.(àíêê8³øûíÆ,Hž‡RMAJORZ
-CODE_SMELL
-tsquid:S1854&":Remove this useless assignment to local variable "result".(»Ùøÿÿÿÿ8³øûíÆ,HŸ‡RMAJORZ
+…squid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(·ïéùýÿÿÿÿ8³øûíÆ,HÑŽRMAJORZ
 CODE_SMELL

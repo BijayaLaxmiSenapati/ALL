@@ -1,136 +1,0 @@
-
-r
-squid:S106S"9Replace this use of System.out or System.err by a logger.(Æ’¹üÿÿÿÿ8¤åÉ´Ã,HÉèRMAJORZ
-CODE_SMELL
-psquid:S1444"3Make this "public static filesLocation" field final(ÿëá¦ùÿÿÿÿ8×ÈƒÃ,HÊèRMINORZVULNERABILITY
-s
-squid:S106ø"9Replace this use of System.out or System.err by a logger.(±¶ÈÅùÿÿÿÿ8ú¯¾µÃ,HËèRMAJORZ
-CODE_SMELL
-m
-squid:S106~"9Replace this use of System.out or System.err by a logger.(»¾³È8¤åÉ´Ã,HÌèRMAJORZ
-CODE_SMELL
-ˆ
-squid:S128°"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ8ú¯¾µÃ,HÍèRBLOCKERZ
-CODE_SMELL
-…squid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(‚ÑÓÇüÿÿÿÿ8ùéŠÃ,HÎèRMAJORZ
-CODE_SMELL
-†squid:CommentedOutCodeLineë"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8×ÀãµÃ,HÏèRMAJORZ
-CODE_SMELL
-n
-squid:S106ò"9Replace this use of System.out or System.err by a logger.(Ãü¤¥8ú¯¾µÃ,HĞèRMAJORZ
-CODE_SMELL
-ssquid:S2696v"6Make the enclosing method "static" or remove this set.(ÓœÓëùÿÿÿÿ8¦ø˜‚Ã,HÑèRCRITICALZ
-CODE_SMELL
-`squid:S11487"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8„Ô»êÂ,HÒèRMINORZVULNERABILITY
-asquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÀºŸŒÃ,HÓèRMINORZVULNERABILITY
-ƒsquid:S4042X"IUse "java.nio.Files#delete" here for better messages on error conditions.(±İÌÕûÿÿÿÿ8×ÈƒÃ,HÔèRMAJORZ
-CODE_SMELL
-s
-squid:S106¿"9Replace this use of System.out or System.err by a logger.(õŸìÃûÿÿÿÿ8ú¯¾µÃ,HÕèRMAJORZ
-CODE_SMELL
-€squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Á®”ä8—¶¿ªÃ,HÖèRMAJORZ
-CODE_SMELL
-m
-squid:S1061"9Replace this use of System.out or System.err by a logger.(ƒ³¥‡8„Ô»êÂ,H×èRMAJORZ
-CODE_SMELL
-r
-squid:S106Z"9Replace this use of System.out or System.err by a logger.(Âšûøÿÿÿÿ8×ÈƒÃ,HØèRMAJORZ
-CODE_SMELL
-­"squid:ClassVariableVisibilityCheck"^Make addressBookStorage a static final constant or non-public and provide accessors if needed.(»ó¶´8ÂÓ¿æÂ,HÙèRMINORZVULNERABILITY
-ª"squid:ClassVariableVisibilityCheck"[Make addressBookList a static final constant or non-public and provide accessors if needed.(õß³Ã8ôíÏæÂ,HÚèRMINORZVULNERABILITY
-ˆ
-squid:S128Å"LEnd this switch case with an unconditional break, return or throw statement.(µ»ïşıÿÿÿÿ8ú¯¾µÃ,HÛèRBLOCKERZ
-CODE_SMELL
-n
-squid:S106§"9Replace this use of System.out or System.err by a logger.(·Ù’–8ƒ†öŒÃ,HÜèRMAJORZ
-CODE_SMELL
-…squid:CommentedOutCodeLine9"<This block of commented-out lines of code should be removed.(Ä€Òåÿÿÿÿÿ8ùéŠÃ,HİèRMAJORZ
-CODE_SMELL
-m
-squid:S106^"9Replace this use of System.out or System.err by a logger.(Ô¨»8ÀºŸŒÃ,HŞèRMAJORZ
-CODE_SMELL
-s
-squid:S106¸"9Replace this use of System.out or System.err by a logger.(”±´Óùÿÿÿÿ8ú¯¾µÃ,HßèRMAJORZ
-CODE_SMELL
-¯squid:S1319"zThe type of the "addressBookList" object should be an interface such as "List" rather than the implementation "ArrayList".(õß³Ã8ôíÏæÂ,HàèRMINORZ
-CODE_SMELL
-s
-squid:S106ó"9Replace this use of System.out or System.err by a logger.(±¶ÈÅùÿÿÿÿ8ú¯¾µÃ,HáèRMAJORZ
-CODE_SMELL
-r"squid:SwitchLastCaseIsDefaultCheck®""Add a default case to this switch.(À¢Ó£8ú¯¾µÃ,HâèRCRITICALZ
-CODE_SMELL
-squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(õß³Ã8ôíÏæÂ,HãèRMINORZ
-CODE_SMELL
-r
-squid:S106y"9Replace this use of System.out or System.err by a logger.(íßéşÿÿÿÿ8×ÈƒÃ,HäèRMAJORZ
-CODE_SMELL
-s
-squid:S106ª"9Replace this use of System.out or System.err by a logger.(‡ÊÙ‰ıÿÿÿÿ8¤åÉ´Ã,HåèRMAJORZ
-CODE_SMELL
-s
-squid:S106˜"9Replace this use of System.out or System.err by a logger.(‘ì°¤øÿÿÿÿ8¦ø˜‚Ã,HæèRMAJORZ
-CODE_SMELL
-n
-squid:S106÷"9Replace this use of System.out or System.err by a logger.(ø—Ğ˜8ú¯¾µÃ,HçèRMAJORZ
-CODE_SMELL
-…squid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(·¾ºŒùÿÿÿÿ8„Ô»êÂ,HèèRMAJORZ
-CODE_SMELL
-n
-squid:S106«"9Replace this use of System.out or System.err by a logger.(Õ‹«8ú¯¾µÃ,HéèRMAJORZ
-CODE_SMELL
-msquid:S1444"5Make this "public static addressBookList" field final(õß³Ã8ôíÏæÂ,HêèRMINORZVULNERABILITY
-€squid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(İøÕ÷8îüíªÃ,HëèRMAJORZ
-CODE_SMELL
-n
-squid:S106¬"9Replace this use of System.out or System.err by a logger.(–ôæŞ8ú¯¾µÃ,HìèRMAJORZ
-CODE_SMELL
-m
-squid:S106z"9Replace this use of System.out or System.err by a logger.(ÿµ’ñ8ùÃ¯éÂ,HíèRMAJORZ
-CODE_SMELL
-ˆ
-squid:S128¾"LEnd this switch case with an unconditional break, return or throw statement.(‰ÆÄÎşÿÿÿÿ8ú¯¾µÃ,HîèRBLOCKERZ
-CODE_SMELL
-s
-squid:S106±"9Replace this use of System.out or System.err by a logger.(÷Çõçùÿÿÿÿ8ú¯¾µÃ,HïèRMAJORZ
-CODE_SMELL
-n
-squid:S106¨"9Replace this use of System.out or System.err by a logger.(—Û¦ÿ8İØ¨ƒÃ,HğèRMAJORZ
-CODE_SMELL
-n
-squid:S106‰"9Replace this use of System.out or System.err by a logger.(ˆ÷Õ˜8ÌÆö¶Ã,HñèRMAJORZ
-CODE_SMELL
-Usquid:S2386"Make this member "protected".(õß³Ã8ôíÏæÂ,HòèRMINORZVULNERABILITY
-{squid:S2259”"GA "NullPointerException" could be thrown; "jsonArray" is nullable here.(öî´şıÿÿÿÿ8ÀºŸŒÃ,HóèRMAJORZBUG
-~squid:S1192%"FDefine a constant instead of duplicating this literal ".json" 3 times.(©ºÅ 8ùéŠÃ,HôèRCRITICALZ
-CODE_SMELL
-€squid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(ìÈı¬8–àƒÃ,HõèRMAJORZ
-CODE_SMELL
-m
-squid:S106©"9Replace this use of System.out or System.err by a logger.(ïÓ…q8¤åÉ´Ã,HöèRMAJORZ
-CODE_SMELL
-ˆ
-squid:S128·"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ8ú¯¾µÃ,H÷èRBLOCKERZ
-CODE_SMELL
-­"squid:ClassVariableVisibilityCheck"YMake filesLocation a static final constant or non-public and provide accessors if needed.(ÿëá¦ùÿÿÿÿ8×ÈƒÃ,HøèRMINORZVULNERABILITY
-…squid:CommentedOutCodeLine`"<This block of commented-out lines of code should be removed.(Ä€Òåÿÿÿÿÿ8–àƒÃ,HùèRMAJORZ
-CODE_SMELL
-lsquid:S1135ì"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¬«Ã,HúèRINFOZ
-CODE_SMELL
-n
-squid:S106—"9Replace this use of System.out or System.err by a logger.(ÉÑª€8ÀºŸŒÃ,HûèRMAJORZ
-CODE_SMELL
-asquid:S1148‘"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÀºŸŒÃ,HüèRMINORZVULNERABILITY
-s
-squid:S106Æ"9Replace this use of System.out or System.err by a logger.(È®º©ûÿÿÿÿ8ú¯¾µÃ,HıèRMAJORZ
-CODE_SMELL
-n
-squid:S106Î"9Replace this use of System.out or System.err by a logger.(¦­§˜8ú¯¾µÃ,HşèRMAJORZ
-CODE_SMELL
-€squid:S2147"ECombine this catch with the one at line 138, which has the same body.(©œ¡ÿÿÿÿÿ8ÀºŸŒÃ,HÿèRMINORZ
-CODE_SMELL
-rsquid:S1155|">Use isEmpty() to check whether the collection is empty or not.(ãëÅ8ƒ†öŒÃ,H€éRMINORZ
-CODE_SMELL
-psquid:S1444"8Make this "public static addressBookStorage" field final(»ó¶´8ÂÓ¿æÂ,HéRMINORZVULNERABILITY
-r
-squid:S106+"9Replace this use of System.out or System.err by a logger.(ÑÒÙÜıÿÿÿÿ8¦ø˜‚Ã,H‚éRMAJORZ
-CODE_SMELL

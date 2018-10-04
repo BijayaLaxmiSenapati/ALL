@@ -1,0 +1,8 @@
+
+€squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(—çÈÁ8 Ç©Õ×,HÑ‹RMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÛÌÙ8ëì©Õ×,HÒ‹RMAJORZ
+CODE_SMELL
+ˆsquid:S2068"U'password' detected in this expression, review this potentially hardcoded credential.(›ÛûˆHÔ‹RBLOCKERZVULNERABILITY
+‰squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ž¬™•HÓ‹RMINORZ
+CODE_SMELL

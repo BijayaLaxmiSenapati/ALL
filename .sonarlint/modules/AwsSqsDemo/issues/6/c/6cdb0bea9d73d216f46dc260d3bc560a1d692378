@@ -1,0 +1,7 @@
+
+ssquid:S1444"6Make this "public static standardQueueUrl" field final(‹ïÁùÿÿÿÿ8á¿À÷Ø,H¬RMINORZVULNERABILITY
+°"squid:ClassVariableVisibilityCheck"\Make standardQueueUrl a static final constant or non-public and provide accessors if needed.(‹ïÁùÿÿÿÿ8á¿À÷Ø,H­RMINORZVULNERABILITY
+ksquid:S1481'"1Remove this unused "fifoQueueUrl" local variable.(ÙŠ¿¿şÿÿÿÿ8Ñ×ÃûØ,H®RMINORZ
+CODE_SMELL
+nsquid:S2696"6Make the enclosing method "static" or remove this set.(˜±ïÁ8á¿À÷Ø,H¯RCRITICALZ
+CODE_SMELL

@@ -9,10 +9,6 @@ import org.junit.Test;
 
 public class AssertClass {
 
-	@Test
-	public void test() {
-		fail("Not yet implemented");
-	}
 	AssertClassMethods testCase = null;
 
 	@BeforeClass

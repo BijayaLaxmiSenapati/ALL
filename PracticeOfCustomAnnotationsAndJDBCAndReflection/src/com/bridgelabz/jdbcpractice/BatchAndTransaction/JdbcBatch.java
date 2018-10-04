@@ -11,27 +11,27 @@ public class JdbcBatch
 	{
 		Connection con=null;
 		Statement st=null;
-		String insertQuery1="insert into Emp_Information.Students(stuNAME,stuMARK) values('Yugandhara',90)";
-		String insertQuery2="insert into Emp_Information.Students111(stuNAME,stuMARK) values('Swetalina',80)";
-		String insertQuery3="insert into Emp_Information.Students(stuNAME,stuMARK) values('Simran',70)";
-		String updateQuery1="update Emp_Information.Students set stuNAME='Shyam' where stuID=2";
-		String deleteQuery1="delete from Emp_Information.Students where stuName='Simran'";
+		String insertQuery1="insert into EmployeeInformation.Students values(1,'SAURAV',111)";
+		String insertQuery2="insert into EmployeeInformation.Students values(2,'www',22)";
+//		String insertQuery3="insert into Emp_Information.Students(stuNAME,stuMARK) values('Simran',70)";
+//		String updateQuery1="update Emp_Information.Students set stuNAME='Shyam' where stuID=2";
+//		String deleteQuery1="delete from Emp_Information.Students where stuName='Simran'";
 		try
 		{
 			Class.forName("com.mysql.jdbc.Driver");
-			con=DriverManager.getConnection("jdbc:mysql://localhost:3306?user=root&password=root");
+			con=DriverManager.getConnection("jdbc:mysql://dbinstancedemo.ctxjcoipagwa.ap-south-1.rds.amazonaws.com:3306?user=xxxxx&password=xxxx");
 			st=con.createStatement();
 			st.addBatch(insertQuery1);
 			st.addBatch(insertQuery2);
-			st.addBatch(insertQuery3);
-			st.addBatch(updateQuery1);
-			st.addBatch(deleteQuery1);
+//			st.addBatch(insertQuery3);
+//			st.addBatch(updateQuery1);
+//			st.addBatch(deleteQuery1);
 			st.executeBatch();
 		}
 		catch(Exception e)
 		{
 			System.out.println("Nopes");
-			//e.printStackTrace();
+			e.printStackTrace();
 		}
 		finally
 		{

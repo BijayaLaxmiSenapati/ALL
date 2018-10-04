@@ -24,12 +24,12 @@ public class LoginServlet extends HttpServlet {
 		MyHttpSessionListener.totalUserVisited++;
 		context.setAttribute("totalUserVisited", MyHttpSessionListener.totalUserVisited);
 
-		TraineeBean traineebean = new TraineeBean();
+		//TraineeBean traineebean = new TraineeBean();
 		String username = req.getParameter("username");
 		String password = req.getParameter("password");
 
-		traineebean.setEmail(username);
-		traineebean.setPassword(password);
+		//traineebean.setEmail(username);
+		//traineebean.setPassword(password);
 		TraineeBean traineebean2 = dao.getTraineeBeanByUserName(username);
 		if (traineebean2 != null) {
 			if (!traineebean2.getPassword().equals(password)) {
@@ -41,7 +41,6 @@ public class LoginServlet extends HttpServlet {
 				session.setAttribute("message", "you are successfully logged in");
 				session.setAttribute("serialNum", serialNumber);
 				session.setAttribute("fullName", fullName);
-				//System.out.println(mobileNumber);
 				session.setAttribute("mobile", mobileNumber);
 				session.setAttribute("username", username);
 

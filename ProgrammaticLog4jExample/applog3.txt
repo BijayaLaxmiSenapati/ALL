@@ -1,0 +1,3 @@
+DEBUG   2012-09-30 22:51:01,604 [main] ProgrammaticLog4jExample  - this is a debug log message
+INFO    2012-09-30 22:51:01,605 [main] ProgrammaticLog4jExample  - this is a information log message
+WARN    2012-09-30 22:51:01,605 [main] ProgrammaticLog4jExample  - this is a warning log message

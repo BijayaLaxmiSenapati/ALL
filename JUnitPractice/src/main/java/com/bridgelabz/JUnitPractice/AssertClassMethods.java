@@ -38,4 +38,5 @@ public class AssertClassMethods {
 		int result = 10 / number;
 		System.out.println("throwing Arithmetic Exception");
 	}
+	
 }

@@ -1,24 +1,5 @@
 
-`squid:S1148P"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8èØ¿ÉÆ,Hæ‚RMINORZVULNERABILITY
-asquid:S1148„"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8àÌ¬ÎÆ,Hç‚RMINORZVULNERABILITY
-dsquid:S1172'"*Remove this unused method parameter "con".(İÕ¹ˆşÿÿÿÿ8àÌ¬ÎÆ,Hè‚RMAJORZ
+jsquid:S1141?"5Extract this nested try block into a separate method.(ğÖú–8ãèÙ‹Í,HŒ‰RMAJORZ
 CODE_SMELL
-`squid:S1148l"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8„ù÷ÈÆ,Hé‚RMINORZVULNERABILITY
-Zsquid:S1148š"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHê‚RMINORZVULNERABILITY
-tsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(ßŸÍÙüÿÿÿÿHë‚RMINORZ
-CODE_SMELL
-m
-squid:S1069"9Replace this use of System.out or System.err by a logger.(é¥³å8úı±ÎÆ,Hì‚RMAJORZ
-CODE_SMELL
-|squid:S2095_"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¯âÈÿÿÿÿÿ8á›•ÌÆ,Hí‚RBLOCKERZBUG
-„squid:S2095]"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(°ï¯úÿÿÿÿ8á›•ÌÆ,Hî‚RBLOCKERZBUG
-tsquid:S22591"AA "NullPointerException" could be thrown; "res" is nullable here.(¢Ş­şÿÿÿÿÿ8àÌ¬ÎÆ,Hï‚RMAJORZBUG
-e
-squid:S106"9Replace this use of System.out or System.err by a logger.(Å²/Hğ‚RMAJORZ
-CODE_SMELL
-`squid:S11488"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‘Ä¾ÊÆ,Hñ‚RMINORZVULNERABILITY
-\squid:S1481D")Remove this unused "file" local variable.(ò¹åîúÿÿÿÿHò‚RMINORZ
-CODE_SMELL
-r
-squid:S1066"9Replace this use of System.out or System.err by a logger.(éß¯‚úÿÿÿÿ8ÇŞ°ÎÆ,Hó‚RMAJORZ
+\squid:S1481(")Remove this unused "file" local variable.(ò¹åîúÿÿÿÿHşˆRMINORZ
 CODE_SMELL

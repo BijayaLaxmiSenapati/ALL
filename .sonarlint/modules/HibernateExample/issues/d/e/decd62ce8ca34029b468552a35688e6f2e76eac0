@@ -1,0 +1,11 @@
+
+…squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8¤øÎ§Ø,HÐRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ó¸Ô8ø³˜©Ø,HÑRMAJORZ
+CODE_SMELL
+tsquid:S1118":Add a private constructor to hide the implicit public one.(‡Œïøþÿÿÿÿ8ÕºÅ¥Ø,HÒRMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(àÖ˜Œ8¤øÎ§Ø,HÓRMAJORZ
+CODE_SMELL
+squid:CallToDeprecatedMethod";Remove this use of "buildSessionFactory"; it is deprecated.(÷…¹þ8ø³˜©Ø,HÔRMINORZ
+CODE_SMELL

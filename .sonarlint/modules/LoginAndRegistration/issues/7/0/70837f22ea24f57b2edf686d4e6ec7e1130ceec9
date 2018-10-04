@@ -1,7 +1,7 @@
 
-πsquid:S1186."ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(à∂íÈ8ÛÖ€ ∆,Hç¯RCRITICALZ
+tsquid:UselessImportCheck"2Remove this unused import 'java.sql.SQLException'.(€Ô∆ü8æÿ⁄ ∆,H§âRMINORZ
 CODE_SMELL
-πsquid:S1186"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çì∂Ó8÷π€ ∆,Hé¯RCRITICALZ
+πsquid:S1186"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çì∂Ó8÷π€ ∆,H•âRCRITICALZ
 CODE_SMELL
-tsquid:UselessImportCheck"2Remove this unused import 'java.sql.SQLException'.(€Ô∆ü8æÿ⁄ ∆,Hå¯RMINORZ
+πsquid:S1186."ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(à∂íÈ8ÛÖ€ ∆,H¶âRCRITICALZ
 CODE_SMELL

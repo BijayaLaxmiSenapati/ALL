@@ -1,10 +1,7 @@
 
-hsquid:S19890"+Add a "try/catch" block for "sendRedirect".(²ô¤ÿøÿÿÿÿ8²ë£ÍÆ,H¢‚RMINORZVULNERABILITY
-hsquid:S1989$"+Add a "try/catch" block for "sendRedirect".(Ù¡§Äüÿÿÿÿ8ØïÈÆ,H£‚RMINORZVULNERABILITY
-…squid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(Äœ©¸úÿÿÿÿ8¤°ÎÆ,H¤‚RMAJORZ
+qsquid:S25891"7Remove this expression which always evaluates to "true"(…§½íÿÿÿÿÿ8×ºÿÈÆ,H©‰RMAJORZ
 CODE_SMELL
-hsquid:S19893"+Add a "try/catch" block for "sendRedirect".(Ù¡§Äüÿÿÿÿ8ØïÈÆ,H¥‚RMINORZVULNERABILITY
-qsquid:S25892"7Remove this expression which always evaluates to "true"(…§½íÿÿÿÿÿ8×ºÿÈÆ,H¦‚RMAJORZ
+…squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¹ˆÂİûÿÿÿÿ8ùâæ¦Í,H«‰RMAJORZ
 CODE_SMELL
-ssquid:S2696"6Make the enclosing method "static" or remove this set.(û²õÆøÿÿÿÿ8ò»¹ËÆ,H§‚RCRITICALZ
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(üÆÈ*8ùâæ¦Í,H¬‰RMAJORZ
 CODE_SMELL
